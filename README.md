@@ -1,4 +1,10 @@
-# ViaTecnologia Software Portfolio Overview
+<div align="center">
+  <a href="https://github.com/ViaTecnologia">
+    <img src="https://komarev.com/ghpvc/?username=ViaTecnologia&label=Portfolio+Views&color=blue&style=for-the-badge" alt="ViaTecnologia Views" />
+  </a>
+</div>
+
+# ViaTecnologia Software Portfolio Overview 
 
 Welcome to the software portfolio of ViaTecnologia, featuring 10 specialized vertical SaaS solutions designed to address key challenges across multiple industries. Our focus is on efficiency, compliance, and user-friendly technology.
 
@@ -23,7 +29,7 @@ Welcome to the software portfolio of ViaTecnologia, featuring 10 specialized ver
 
 ## Detailed Solution Descriptions
 
-### 1. SealyDoc Pro V4
+### 1. **[SealyDoc Pro V4](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)**
 
 **Beneficiaries:**  
 Chefs, restaurant and bar owners, food laboratory operators, HACCP quality and safety managers.
@@ -35,6 +41,15 @@ Dependence on paper HACCP checklists causes inefficiencies, human errors in labe
 - Step 1: Digital recording of HACCP checklists (temperature, cleaning, critical control points).  
 - Step 2: Dynamic creation of compliant food labels with batch, expiration, and allergen info.  
 - Step 3: Printing or exporting labels with integrated traceability.
+
+- <div align="center">
+  <img src="https://github.com/user-attachments/assets/51a4badc-8641-41fe-b0d7-61c03a48b3f5" width="32%" alt="Screenshot Interfaccia HACCP" />
+  <img src="https://github.com/user-attachments/assets/39430803-6960-4941-bca9-f03b0006948d" width="32%" alt="Screenshot Funzionalità Etichette" />
+  <img src="https://github.com/user-attachments/assets/9331ca15-dad3-4338-9748-b3a8851b9c3a" width="32%" alt="Screenshot Anteprima Stampa" />
+  </div>
+<br>
+
+###  **[FREE SealyDoc Pro V4](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)**
 
 ---
 
