@@ -12,7 +12,7 @@
 ### 📺 Galleria (Video & Screenshot)
 
 
-  <img src="https://github.com/user-attachments/assets/621cbde1-f269-4284-b245-a46c3af7a744" width="34%" alt="Screenshot 1 - HACCP" style="display:inline-block; margin-right: 1%;" />   
+  <img src="https://github.com/user-attachments/assets/621cbde1-f269-4284-b245-a46c3af7a744" width="20%" alt="Screenshot 1 - HACCP" style="display:inline-block; margin-right: 1%;" />   
   <img src="https://github.com/user-attachments/assets/51a4badc-8641-41fe-b0d7-61c03a48b3f5" width="24%" alt="Screenshot 1 - HACCP" style="display:inline-block; margin-right: 1%;" />
   <img src="https://github.com/user-attachments/assets/8aaa953d-4c30-4d72-8eb0-f20dbee1530e" width="24%" alt="Screenshot 2 - Funzionalità" style="display:inline-block; margin-right: 1%;" />
   <img src="https://github.com/user-attachments/assets/60c2f954-0b81-483d-a1b2-a2c25a436f27" width="24%" alt="Screenshot 3 - Etichette" style="display:inline-block;" />
