@@ -70,7 +70,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 ## 🛍️ [ShopFather Web - Coming Soon!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0AaM1icRBJJNDMt7UwJ4YDwGHZtuvhTy9Q&s)
 ### *The Revolutionary Serverless P2P Store Builder*
 
-**ShopFather** is the sibling project to SealyDoc, sharing the same "Single-File" DNA. It allows anyone to create a crypto/fiat accepting store without a backend, contained entirely in one HTML file.
+**ShopFather** is the sibling project to SealyDoc, sharing the same "Single-File" DNA. It allows anyone to create a crypto/fiat accepting store without a backend, contained entirely in one HTML file. The stakeholder of the world's largest Telegram store network https://shopfather.io transforms stores into websites with an extraordinary portable micro SaaS client-side e-commerce builder. 
 
 **Key Features:**
 * ✅ **Serverless E-commerce:** Il negozio è un singolo file HTML.
@@ -87,11 +87,11 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 > 🚀 [**LAUNCH BUILDER (Coming Soon)**](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0AaM1icRBJJNDMt7UwJ4YDwGHZtuvhTy9Q&s)
 >
-> 📷 [**Instagram Channel**](INSERISCI_QUI_IL_LINK_INSTAGRAM_SHOPFATHER)
+> 📷 [**Follow Us on Instagram **](https://www.instagram.com/shopfather.io)
 >
-> 💬 [**Telegram Community**](INSERISCI_QUI_IL_LINK_TELEGRAM_COMMUNITY_SHOPFATHER)
+> 💬 [**Telegram Community ShopFather**](https://t.me/ShopFatherChat)
 >
-> 💬 [**Telegram Bot Support**](INSERISCI_QUI_IL_LINK_TELEGRAM_BOT_SHOPFATHER)
+> 💬 [**🆘 ⚙️ Shopfather Customer Service Bot**](https://t.me/Ticketshopfather_bot)
 >
 > ▶️ [**YouTube Channel**](INSERISCI_QUI_IL_LINK_YOUTUBE_SHOPFATHER)
 >
