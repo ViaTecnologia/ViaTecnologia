@@ -5,6 +5,17 @@
 
 **SealyDoc Pro** is our flagship solution for the Horeca sector. It replaces paper logs with a powerful, digital engine running directly in your browser.
 
+**Key Features:**
+* ✅ **100% FREE** to use.
+* ✅ **Paperless HACCP:** Digital checklists for temperature & cleaning.
+* ✅ **Smart Labeling:** Auto-generates compliant labels with Allergens & Expiry dates.
+* ✅ **Offline-First:** Data is saved locally on your device. No server downtime.
+
+**Customer Journey:**
+- Step 1: Digital recording of HACCP checklists (temperature, cleaning, critical control points).
+- Step 2: Dynamic creation of compliant food labels with batch, expiration, and allergen info.
+- Step 3: Printing or exporting labels with integrated traceability.
+
 > 🚀 [**LAUNCH APP (FREE)**](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)
 
 >
@@ -22,8 +33,8 @@
 
 | Livello di Supporto | Contributo (Valore) | Vantaggi Esclusivi |
 | :--- | :--- | :--- |
-| **Sviluppo Continua** | **€19.00** (annuali) in Bitcoin | Accesso anticipato alle nuove versioni del software (V.4+), aggiornamenti e bug-fix. |
-| **Sponsorizzazione Annua** | **€50.00** (annuali) in Bonifico, contanti o Bitcoin | Inserimento del tuo **Logo Aziendale** e link al tuo sito web all'interno dell'interfaccia SealyDoc. |
+| **Sviluppo Continuo** | **€19.00** (annuali) in Bitcoin | Accesso anticipato alle nuove versioni del software (V.4+), aggiornamenti e bug-fix. |
+| **Sponsorizzazione Annuale** | **€50.00** (annuali) in Bonifico, contanti o Bitcoin | Inserimento del tuo **Logo Aziendale** e link al tuo sito web all'interno dell'interfaccia SealyDoc. |
 
 #### 🙏 Donations Support 
 If you appreciate the work and want to support its ongoing development, you can donate using the following cryptocurrency addresses.
@@ -52,18 +63,6 @@ If you appreciate the work and want to support its ongoing development, you can 
   <video src="https://github.com/user-attachments/assets/c91942c3-0a10-4bb2-a91f-2ac67d77f303" width="49%" controls autoplay loop muted playsinline style="display:inline-block;"></video>
 </div>
 <br>
-
-**Key Features:**
-* ✅ **100% FREE** to use.
-* ✅ **Paperless HACCP:** Digital checklists for temperature & cleaning.
-* ✅ **Smart Labeling:** Auto-generates compliant labels with Allergens & Expiry dates.
-* ✅ **Offline-First:** Data is saved locally on your device. No server downtime.
-
-**Customer Journey:**
-- Step 1: Digital recording of HACCP checklists (temperature, cleaning, critical control points).
-- Step 2: Dynamic creation of compliant food labels with batch, expiration, and allergen info.
-- Step 3: Printing or exporting labels with integrated traceability.
-
 ---
 
 ### 2. ShopFather
