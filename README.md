@@ -11,9 +11,16 @@
 
 > 📧 **EMAIL UFFICIALE:** **sealydocitalia@pm.me**
 
+**SealyDoc Pro è GRATUITO per tutti gli utenti Horeca.** Il supporto tramite donazione aiuta a finanziare lo sviluppo continuo e l'introduzione di nuove funzionalità.
+
+| Livello di Supporto | Contributo (Valore) | Vantaggi Esclusivi |
+| :--- | :--- | :--- |
+| **Sviluppo Continua** | **€19.00** (annuali) in Bitcoin | Accesso anticipato alle nuove versioni del software (V.4+), aggiornamenti e bug-fix. |
+| **Sponsorizzazione Annua** | **€50.00** (annuali) in Bonifico, contanti o Bitcoin | Inserimento del tuo **Logo Aziendale** e link al tuo sito web all'interno dell'interfaccia SealyDoc. |
+
 #### 🙏 Donations Support 
 If you appreciate the work and want to support its ongoing development, you can donate using the following cryptocurrency addresses.
-> ℹ️ **AGGIORNAMENTI V.4+:** Puoi supportare lo sviluppo e **ricevere le nuove versioni del software al prezzo di 19.00€ in Bitcoin.**
+> ℹ️ **AGGIORNAMENTI V.4+:** Puoi supportare lo sviluppo e **ricevere le nuove versioni del software.**
 
 | Currency | Address |
 | :--- | :--- |
