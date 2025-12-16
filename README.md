@@ -47,7 +47,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 <br>
 
-### 📺 Galleria (Video & Screenshot)
+### 📺 Galleria (Video & Screenshot click for zoom)
 
 
   <img src="https://github.com/user-attachments/assets/621cbde1-f269-4284-b245-a46c3af7a744" width="20%" alt="Screenshot 1 - HACCP" style="display:inline-block; margin-right: 1%;" />   
@@ -71,6 +71,26 @@ If you appreciate the work and want to support its ongoing development, you can 
 ### *The Revolutionary Serverless P2P Store Builder*
 
 **ShopFather** is the sibling project to SealyDoc, sharing the same "Single-File" DNA. It allows anyone to create a crypto/fiat accepting store without a backend, contained entirely in one HTML file. The Stakeholder of the world's largest Telegram store network 🛒 +20.000 https://shopfather.io transforms stores into websites with an extraordinary portable micro SaaS client-side e-commerce builder. 
+
+### 📺 Galleria (Video & Screenshot, click for zoom)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="25%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/8b4e6ff7-abcd-48b0-9408-5190ab3bd6ec" width="25%" alt="Screenshot 2 - Mobile Shop" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/ce610a42-fb34-4cb7-abff-bb293856cd33" width="25%" alt="Screenshot 3 - Crypto Payments" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/b281661b-dfed-4339-b91e-d6bde2250a49" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/727dd72c-aaf3-47cc-a704-b4c5335cb3b8" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/b0f2c4cc-1762-409d-abbf-4665c81ad581" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="25%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/8b4e6ff7-abcd-48b0-9408-5190ab3bd6ec" width="25%" alt="Screenshot 2 - Mobile Shop" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/ce610a42-fb34-4cb7-abff-bb293856cd33" width="25%" alt="Screenshot 3 - Crypto Payments" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/b281661b-dfed-4339-b91e-d6bde2250a49" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/727dd72c-aaf3-47cc-a704-b4c5335cb3b8" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/b0f2c4cc-1762-409d-abbf-4665c81ad581" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+</div>
 
 **Key Features:**
 * ✅ **Serverless E-commerce:** Il negozio è un singolo file HTML.
@@ -123,20 +143,6 @@ If you wish to make a simple, one-time donation to support the project, please u
 | **Bitcoin Cash (BCH)** | `qpnzsnxtx074vhpxs3p3y9myl0502qsczsthka7jda` |
 
 
-<br>
-
-### 📺 Galleria (Video & Screenshot)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="24%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/8b4e6ff7-abcd-48b0-9408-5190ab3bd6ec" width="24%" alt="Screenshot 2 - Mobile Shop" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/ce610a42-fb34-4cb7-abff-bb293856cd33" width="24%" alt="Screenshot 3 - Crypto Payments" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/b281661b-dfed-4339-b91e-d6bde2250a49" width="24%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/727dd72c-aaf3-47cc-a704-b4c5335cb3b8" width="24%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/b0f2c4cc-1762-409d-abbf-4665c81ad581" width="24%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-
-  
-</div>
 <br>
 
 <div align="center">
