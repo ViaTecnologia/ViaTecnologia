@@ -1,39 +1,41 @@
-<div align="center">
-  <a href="https://github.com/ViaTecnologia">
-    <img src="https://komarev.com/ghpvc/?username=ViaTecnologia&label=Portfolio+Views&color=blue&style=for-the-badge" alt="ViaTecnologia Views" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=ViaTecnologia&label=GitHub+Profile+Views&color=blue&style=for-the-badge" alt="ViaTecnologia Views" />
+
+## 🌟 SPOTLIGHT: [SealyDoc Pro V4](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)
+### *The Professional HACCP & Labeling Engine*
+
+**SealyDoc Pro** is our flagship solution for the Horeca sector. It replaces paper logs with a powerful, digital engine running directly in your browser.
+
+> 🚀 **LAUNCH APP (FREE):** [**Click here to Open SealyDoc Pro**](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)
+>
+> 💬 **JOIN COMMUNITY:** [**Official Telegram Support**](https://t.me/sealycommunity)
+
+### 📺 Galleria (Video & Screenshot)
+
+
+  <img src="https://github.com/user-attachments/assets/621cbde1-f269-4284-b245-a46c3af7a744" width="34%" alt="Screenshot 1 - HACCP" style="display:inline-block; margin-right: 1%;" />   
+  <img src="https://github.com/user-attachments/assets/51a4badc-8641-41fe-b0d7-61c03a48b3f5" width="24%" alt="Screenshot 1 - HACCP" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/8aaa953d-4c30-4d72-8eb0-f20dbee1530e" width="24%" alt="Screenshot 2 - Funzionalità" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/60c2f954-0b81-483d-a1b2-a2c25a436f27" width="24%" alt="Screenshot 3 - Etichette" style="display:inline-block;" />
+    <img src="https://github.com/user-attachments/assets/9c60767d-aa82-4fd2-a42c-7979a69bf15a" width="24%" alt="Screenshot 4 - Etichette" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/113ccaa6-19e7-486e-8c83-8e7dcd9c7f93" width="24%" alt="Screenshot 4 - Etichette" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/9e30b92c-df28-40b0-96de-5140bf4dafc1" width="24%" alt="Screenshot 4 - Etichette" style="display:inline-block;" />
+   <img src="https://github.com/user-attachments/assets/0656d266-ad80-490e-a1c4-a31a9033cc3c" width="24%" alt="Screenshot 4 - Etichette" style="display:inline-block;" />
+ <div align="center">
+  <video src="https://github.com/user-attachments/assets/e6d09054-fb3d-4e16-9c68-d3f9a2cdc43d" width="49%" controls autoplay loop muted playsinline style="display:inline-block; margin-right: 1%;"></video>
+  <video src="https://github.com/user-attachments/assets/c91942c3-0a10-4bb2-a91f-2ac67d77f303" width="49%" controls autoplay loop muted playsinline style="display:inline-block;"></video>
 </div>
-
-# ViaTecnologia Software Portfolio Overview 
-
-Welcome to the software portfolio of   **[ViaTecnologia.it](https://viatecnologia.vercel.app)**, featuring 10 specialized vertical SaaS solutions designed to address key challenges across multiple industries. Our focus is on efficiency, compliance, and user-friendly technology.
-
----
-
-## Detailed Solution Descriptions
-
-### 1. **[SealyDoc Pro V4](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)**
-
-- <div align="center">
-  <img src="https://github.com/user-attachments/assets/51a4badc-8641-41fe-b0d7-61c03a48b3f5" width="32%" alt="Screenshot Interfaccia HACCP" />
-  <img src="https://github.com/user-attachments/assets/39430803-6960-4941-bca9-f03b0006948d" width="32%" alt="Screenshot Funzionalità Etichette" />
-  <img src="https://github.com/user-attachments/assets/9331ca15-dad3-4338-9748-b3a8851b9c3a" width="32%" alt="Screenshot Anteprima Stampa" />
-
-**Beneficiaries:**  
-Chefs, restaurant and bar owners, food laboratory operators, HACCP quality and safety managers.
-
-**Problem Addressed:**  
-Dependence on paper HACCP checklists causes inefficiencies, human errors in labeling (storage, allergens), and risk of legal sanctions during audits.
-
-**Customer Journey:**  
-- Step 1: Digital recording of HACCP checklists (temperature, cleaning, critical control points).  
-- Step 2: Dynamic creation of compliant food labels with batch, expiration, and allergen info.  
-- Step 3: Printing or exporting labels with integrated traceability.
-  </div>
 <br>
 
-###  **[FREE SealyDoc Pro V4](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)**
+**Key Features:**
+* ✅ **100% FREE** to use.
+* ✅ **Paperless HACCP:** Digital checklists for temperature & cleaning.
+* ✅ **Smart Labeling:** Auto-generates compliant labels with Allergens & Expiry dates.
+* ✅ **Offline-First:** Data is saved locally on your device. No server downtime.
 
+**Customer Journey:**
+- Step 1: Digital recording of HACCP checklists (temperature, cleaning, critical control points).
+- Step 2: Dynamic creation of compliant food labels with batch, expiration, and allergen info.
+- Step 3: Printing or exporting labels with integrated traceability.
 ---
 
 ### 2. ShopFather
