@@ -9,6 +9,19 @@
 >
 > 💬 **JOIN COMMUNITY:** [**Official Telegram Support**](https://t.me/sealycommunity)
 
+> 📧 **EMAIL UFFICIALE:** **sealydocitalia@pm.me**
+
+#### 🙏 Donations Support 
+If you appreciate the work and want to support its ongoing development, you can donate using the following cryptocurrency addresses.
+> ℹ️ **AGGIORNAMENTI V.4+:** Puoi supportare lo sviluppo e **ricevere le nuove versioni del software al prezzo di 19.00€ in Bitcoin.**
+
+| Currency | Address |
+| :--- | :--- |
+| **Monero (XMR)** | `85k7WENurMjWd1fkyYggMKE2n4Hsn2G43X2Ew3aokQwLVPLXxTZftuoeww7T5hQxLx7e6rJG1CLX5TuQB2j29GRsACs3t8A` |
+| **Bitcoin Cash (BCH)** | `qpnzsnxtx074vhpxs3p3y9myl0502qsczsthka7jda` |
+
+<br>
+
 ### 📺 Galleria (Video & Screenshot)
 
 
@@ -36,6 +49,7 @@
 - Step 1: Digital recording of HACCP checklists (temperature, cleaning, critical control points).
 - Step 2: Dynamic creation of compliant food labels with batch, expiration, and allergen info.
 - Step 3: Printing or exporting labels with integrated traceability.
+
 ---
 
 ### 2. ShopFather
