@@ -87,6 +87,10 @@ If you appreciate the work and want to support its ongoing development, you can 
   <img src="https://github.com/user-attachments/assets/667b0082-88f4-4f68-b27c-a860efa72209" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
   <img src="https://github.com/user-attachments/assets/ef32b997-890b-46fa-ae90-9dcfaf963156" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
   <img src="https://github.com/user-attachments/assets/3d5ba3f2-960d-4424-99a8-2d35fd14e563" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/709cc992-25cd-48b1-a584-549d61fac994" width="100%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/44f24796-99e7-4580-8be3-a1945dd3ea5b" width="100%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/af2bb9a8-1a9b-4fab-9c7f-3e8537771578" width="100%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+
 
   <div align="center">
   <img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="100%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
