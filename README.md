@@ -6,10 +6,13 @@
 **SealyDoc Pro** is our flagship solution for the Horeca sector. It replaces paper logs with a powerful, digital engine running directly in your browser.
 
 > 🚀 **LAUNCH APP (FREE):** [**Click here to Open SealyDoc Pro**](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)
->
-> 💬 **JOIN COMMUNITY:** [**Official Telegram Support**](https://t.me/sealycommunity)
 
-> 📧 **EMAIL UFFICIALE:** **sealydocitalia@pm.me**
+>
+> 📷 **INSTAGRAM:** [**Sealydoc.italia**](https://www.instagram.com/sealydoc.italia/)
+> 💬 **JOIN COMMUNITY:** [**Telegram Community**](https://t.me/sealycommunity)
+> 💬 **SUPPORT BOT:** [**Telegram Bot Support**](https://t.me/sealydocsupport_bot)
+> ▶️ **YOUTUBE:** [**YouTube Channel**](https://www.youtube.com/@SealyDoc)
+> 📧 **OFFICIAL EMAIL:** **sealydocitalia@pm.me**
 
 **SealyDoc Pro è GRATUITO per tutti gli utenti Horeca.** Il supporto tramite donazione aiuta a finanziare lo sviluppo continuo e l'introduzione di nuove funzionalità.
 
