@@ -70,7 +70,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 ## 🛍️ [ShopFather Web - Coming Soon!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0AaM1icRBJJNDMt7UwJ4YDwGHZtuvhTy9Q&s)
 ### *The Revolutionary Serverless P2P Store Builder*
 
-**ShopFather** is the sibling project to SealyDoc, sharing the same "Single-File" DNA. It allows anyone to create a crypto/fiat accepting store without a backend, contained entirely in one HTML file. The stakeholder of the world's largest Telegram store network https://shopfather.io transforms stores into websites with an extraordinary portable micro SaaS client-side e-commerce builder. 
+**ShopFather** is the sibling project to SealyDoc, sharing the same "Single-File" DNA. It allows anyone to create a crypto/fiat accepting store without a backend, contained entirely in one HTML file. The Stakeholder of the world's largest Telegram store network 🛒 +20.000 https://shopfather.io transforms stores into websites with an extraordinary portable micro SaaS client-side e-commerce builder. 
 
 **Key Features:**
 * ✅ **Serverless E-commerce:** Il negozio è un singolo file HTML.
@@ -87,31 +87,41 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 > 🚀 [**LAUNCH BUILDER (Coming Soon)**](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0AaM1icRBJJNDMt7UwJ4YDwGHZtuvhTy9Q&s)
 >
-> 📷 [**Follow Us on Instagram **](https://www.instagram.com/shopfather.io)
+> 📷 [**Follow Us on Instagram**](https://www.instagram.com/shopfather.io)
 >
 > 💬 [**Telegram Community ShopFather**](https://t.me/ShopFatherChat)
 >
 > 💬 [**🆘 ⚙️ Shopfather Customer Service Bot**](https://t.me/Ticketshopfather_bot)
 >
-> ▶️ [**YouTube Channel**](INSERISCI_QUI_IL_LINK_YOUTUBE_SHOPFATHER)
+> ▶️ [**YouTube**](https://www.youtube.com/@shopfathersupport/videos)
 >
-> 📧 **INSERISCI_QUI_EMAIL_SHOPFATHER@pm.me**
+> 📧 **shopfather@pm.me**
 
-#### 🙏 Donations Support
+#### 🙏 Stakeholder Partner Support
 
-**ShopFather è GRATUITO per tutti i creatori e P2P sellers.** Il supporto tramite donazione aiuta a finanziare lo sviluppo continuo e l'introduzione di nuove funzionalità.
+ShopFather uses an atypical, **"open account" direct sponsorship model** between stakeholders and developers. Recurring cryptocurrency payments finance the full-time development of this privacy-oriented, Serverless SaaS software, without external platforms.
 
-| Livello di Supporto | Contributo (Valore) | Vantaggi Esclusivi |
+| Support Tier | Contribution | Exclusive Benefits |
 | :--- | :--- | :--- |
-| **Sviluppo Continuo** | **€19.00** (una tantum) in Bitcoin | Accesso anticipato alle nuove versioni del software, aggiornamenti e bug-fix. |
-| **Sponsorizzazione Annuale** | **€50.00** (annuali) in Bonifico, contanti o Bitcoin | Inserimento del tuo **Logo Aziendale** e link al tuo sito web all'interno dei template generati da ShopFather. |
+| **Stakeholder Partner** (Ongoing Development) | **Proportional Share** (Quota Varies) | **Partner Status** and rights. The contribution amount is proportionate to the shares of other stakeholders and the project's current development stage. |
+| **Corporate Sponsorship Or Reseller** | **Contact Dev** | 
 
-If you wish to support the project, please use the following cryptocurrency addresses:
+> ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for ongoing development, please contact us via **Email** or **Telegram**.
+
+<br>
+
+**Note on Pricing:**
+
+* **Builder Access and Final Pricing/Subscriptions** will be available in the coming weeks.
+
+
+If you wish to make a simple, one-time donation to support the project, please use the following cryptocurrency addresses:
 
 | Currency | Address |
 | :--- | :--- |
 | **Monero (XMR)** | `85k7WENurMjWd1fkyYggMKE2n4Hsn2G43X2Ew3aokQwLVPLXxTZftuoeww7T5hQxLx7e6rJG1CLX5TuQB2j29GRsACs3t8A` |
 | **Bitcoin Cash (BCH)** | `qpnzsnxtx074vhpxs3p3y9myl0502qsczsthka7jda` |
+
 
 <br>
 
