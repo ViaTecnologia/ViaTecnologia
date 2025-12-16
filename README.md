@@ -91,7 +91,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 >
 > 💬 [**Telegram Community ShopFather**](https://t.me/ShopFatherChat)
 >
-> 💬 [**🆘 ⚙️ Shopfather Customer Service Bot**](https://t.me/Ticketshopfather_bot)
+> 💬 [**🆘 ⚙️ Customer Service Bot**](https://t.me/Ticketshopfather_bot)
 >
 > ▶️ [**YouTube**](https://www.youtube.com/@shopfathersupport/videos)
 >
