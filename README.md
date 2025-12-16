@@ -65,20 +65,71 @@ If you appreciate the work and want to support its ongoing development, you can 
 <br>
 ---
 
-### 2. ShopFather
-
-**Beneficiaries:**  
-Micro-entrepreneurs, creators, web agencies, peer-to-peer sellers.
-
-**Problem Addressed:**  
-High complexity and costs of traditional e-commerce prevent autonomy for small merchants. There is a need for a portable, serverless, easy-to-use solution.
-
-**Customer Journey:**  
-- Step 1: Fast store creation in a single 170KB HTML file.  
-- Step 2: Theme customization, multi-currency and crypto support.  
-- Step 3: Share via link; receive orders directly through chat apps (WhatsApp, Telegram).
-
 ---
+
+## 🛍️ [ShopFather Web - Coming Soon!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0AaM1icRBJJNDMt7UwJ4YDwGHZtuvhTy9Q&s)
+### *The Revolutionary Serverless P2P Store Builder*
+
+**ShopFather** is the sibling project to SealyDoc, sharing the same "Single-File" DNA. It allows anyone to create a crypto/fiat accepting store without a backend, contained entirely in one HTML file.
+
+**Key Features:**
+* ✅ **Serverless E-commerce:** Il negozio è un singolo file HTML.
+* ✅ **Zero Fee:** Nessuna commissione sulle transazioni.
+* ✅ **Payment Flexibility:** Supporto nativo per Crypto, PayPal, Bonifico.
+* ✅ **Direct Orders:** Gli ordini vengono inviati via chat (WhatsApp/Telegram).
+* ✅ **No-Code Builder:** Creazione del negozio tramite interfaccia utente.
+
+**Customer Journey:**
+- Step 1: Configurazione rapida dei prodotti e pagamenti nel Builder UI.
+- Step 2: Generazione del file `.html` del negozio in pochi secondi.
+- Step 3: Distribuzione del file tramite link, email o Telegram.
+- Step 4: Ricezione degli ordini crittografati tramite WhatsApp/Telegram API.
+
+> 🚀 [**LAUNCH BUILDER (Coming Soon)**](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0AaM1icRBJJNDMt7UwJ4YDwGHZtuvhTy9Q&s)
+>
+> 📷 [**Instagram Channel**](INSERISCI_QUI_IL_LINK_INSTAGRAM_SHOPFATHER)
+>
+> 💬 [**Telegram Community**](INSERISCI_QUI_IL_LINK_TELEGRAM_COMMUNITY_SHOPFATHER)
+>
+> 💬 [**Telegram Bot Support**](INSERISCI_QUI_IL_LINK_TELEGRAM_BOT_SHOPFATHER)
+>
+> ▶️ [**YouTube Channel**](INSERISCI_QUI_IL_LINK_YOUTUBE_SHOPFATHER)
+>
+> 📧 **INSERISCI_QUI_EMAIL_SHOPFATHER@pm.me**
+
+#### 🙏 Donations Support
+
+**ShopFather è GRATUITO per tutti i creatori e P2P sellers.** Il supporto tramite donazione aiuta a finanziare lo sviluppo continuo e l'introduzione di nuove funzionalità.
+
+| Livello di Supporto | Contributo (Valore) | Vantaggi Esclusivi |
+| :--- | :--- | :--- |
+| **Sviluppo Continuo** | **€19.00** (una tantum) in Bitcoin | Accesso anticipato alle nuove versioni del software, aggiornamenti e bug-fix. |
+| **Sponsorizzazione Annuale** | **€50.00** (annuali) in Bonifico, contanti o Bitcoin | Inserimento del tuo **Logo Aziendale** e link al tuo sito web all'interno dei template generati da ShopFather. |
+
+If you wish to support the project, please use the following cryptocurrency addresses:
+
+| Currency | Address |
+| :--- | :--- |
+| **Monero (XMR)** | `85k7WENurMjWd1fkyYggMKE2n4Hsn2G43X2Ew3aokQwLVPLXxTZftuoeww7T5hQxLx7e6rJG1CLX5TuQB2j29GRsACs3t8A` |
+| **Bitcoin Cash (BCH)** | `qpnzsnxtx074vhpxs3p3y9myl0502qsczsthka7jda` |
+
+<br>
+
+### 📺 Galleria (Video & Screenshot)
+
+<div align="center">
+  <img src="INSERISCI_LINK_SS_SHOPFATHER_1" width="24%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
+  <img src="INSERISCI_LINK_SS_SHOPFATHER_2" width="24%" alt="Screenshot 2 - Mobile Shop" style="display:inline-block; margin-right: 1%;" />
+  <img src="INSERISCI_LINK_SS_SHOPFATHER_3" width="24%" alt="Screenshot 3 - Crypto Payments" style="display:inline-block; margin-right: 1%;" />
+  <img src="INSERISCI_LINK_SS_SHOPFATHER_4" width="24%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
+</div>
+<br>
+
+<div align="center">
+  <video src="INSERISCI_QUI_IL_LINK_VIDEO_SHOPFATHER_1" width="49%" controls autoplay loop muted playsinline style="display:inline-block; margin-right: 1%;"></video>
+  <video src="INSERISCI_QUI_IL_LINK_VIDEO_SHOPFATHER_2" width="49%" controls autoplay loop muted playsinline style="display:inline-block;"></video>
+</div>
+<br>
 
 ### 3. Beavip
 
