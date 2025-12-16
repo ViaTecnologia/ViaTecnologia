@@ -9,9 +9,13 @@
 
 >
 > 📷 **INSTAGRAM:** [**Sealydoc.italia**](https://www.instagram.com/sealydoc.italia/)
+>
 > 💬 **JOIN COMMUNITY:** [**Telegram Community**](https://t.me/sealycommunity)
+>
 > 💬 **SUPPORT BOT:** [**Telegram Bot Support**](https://t.me/sealydocsupport_bot)
+>
 > ▶️ **YOUTUBE:** [**YouTube Channel**](https://www.youtube.com/@SealyDoc)
+>
 > 📧 **OFFICIAL EMAIL:** **sealydocitalia@pm.me**
 
 **SealyDoc Pro è GRATUITO per tutti gli utenti Horeca.** Il supporto tramite donazione aiuta a finanziare lo sviluppo continuo e l'introduzione di nuove funzionalità.
