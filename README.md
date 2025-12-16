@@ -53,17 +53,11 @@ If you appreciate the work and want to support its ongoing development, you can 
   <img src="https://github.com/user-attachments/assets/621cbde1-f269-4284-b245-a46c3af7a744" width="20%" alt="Screenshot 1 - HACCP" style="display:inline-block; margin-right: 1%;" />   
   <img src="https://github.com/user-attachments/assets/51a4badc-8641-41fe-b0d7-61c03a48b3f5" width="24%" alt="Screenshot 1 - HACCP" style="display:inline-block; margin-right: 1%;" />
   <img src="https://github.com/user-attachments/assets/8aaa953d-4c30-4d72-8eb0-f20dbee1530e" width="24%" alt="Screenshot 2 - Funzionalità" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/60c2f954-0b81-483d-a1b2-a2c25a436f27" width="24%" alt="Screenshot 3 - Etichette" style="display:inline-block;" />
-    <img src="https://github.com/user-attachments/assets/9c60767d-aa82-4fd2-a42c-7979a69bf15a" width="24%" alt="Screenshot 4 - Etichette" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/60c2f954-0b81-483d-a1b2-a2c25a436f27" width="24%" alt="Screenshot 3 - Etichette" style="display:inline-block;" />    
+  <img src="https://github.com/user-attachments/assets/9c60767d-aa82-4fd2-a42c-7979a69bf15a" width="24%" alt="Screenshot 4 - Etichette" style="display:inline-block;" />
   <img src="https://github.com/user-attachments/assets/113ccaa6-19e7-486e-8c83-8e7dcd9c7f93" width="24%" alt="Screenshot 4 - Etichette" style="display:inline-block;" />
   <img src="https://github.com/user-attachments/assets/9e30b92c-df28-40b0-96de-5140bf4dafc1" width="24%" alt="Screenshot 4 - Etichette" style="display:inline-block;" />
-   <img src="https://github.com/user-attachments/assets/0656d266-ad80-490e-a1c4-a31a9033cc3c" width="24%" alt="Screenshot 4 - Etichette" style="display:inline-block;" />
- <div align="center">
-  <video src="https://github.com/user-attachments/assets/e6d09054-fb3d-4e16-9c68-d3f9a2cdc43d" width="49%" controls autoplay loop muted playsinline style="display:inline-block; margin-right: 1%;"></video>
-  <video src="https://github.com/user-attachments/assets/c91942c3-0a10-4bb2-a91f-2ac67d77f303" width="49%" controls autoplay loop muted playsinline style="display:inline-block;"></video>
-</div>
-<br>
----
+     <img src="https://github.com/user-attachments/assets/0656d266-ad80-490e-a1c4-a31a9033cc3c" width="24%" alt="Screenshot 4 - Etichette" style="display:inline-block;" />
 
 ---
 
@@ -74,22 +68,35 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 ### 📺 Galleria (Video & Screenshot click for zoom)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="25%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/8b4e6ff7-abcd-48b0-9408-5190ab3bd6ec" width="25%" alt="Screenshot 2 - Mobile Shop" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/ce610a42-fb34-4cb7-abff-bb293856cd33" width="25%" alt="Screenshot 3 - Crypto Payments" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/b281661b-dfed-4339-b91e-d6bde2250a49" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/727dd72c-aaf3-47cc-a704-b4c5335cb3b8" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/b0f2c4cc-1762-409d-abbf-4665c81ad581" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-</div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="25%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/8b4e6ff7-abcd-48b0-9408-5190ab3bd6ec" width="25%" alt="Screenshot 2 - Mobile Shop" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/ce610a42-fb34-4cb7-abff-bb293856cd33" width="25%" alt="Screenshot 3 - Crypto Payments" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/b281661b-dfed-4339-b91e-d6bde2250a49" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/727dd72c-aaf3-47cc-a704-b4c5335cb3b8" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/b0f2c4cc-1762-409d-abbf-4665c81ad581" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/e9a03b6c-5dc4-41e8-b202-600d066b3a01" width="25%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/f28fdda1-a962-4569-ab1f-e3484d57bed5" width="25%" alt="Screenshot 2 - Mobile Shop" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/dd34ca04-918c-4879-a2cd-9220748dd14f" width="25%" alt="Screenshot 3 - Crypto Payments" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/0a4456b1-77b0-41d7-8abd-8f9262eb1535" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/f21f23ab-a499-4e93-9e9f-3d96da169b1a" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/13922d8f-7ac8-439b-96fa-7cfd18774255" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/fd5a14d9-5422-443a-9386-51ddd642e566" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/99955a8d-bbda-4dc7-851f-dd4c11505968" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/34c376d3-c8b8-4c91-8d37-2248f344e259" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/59595384-6a62-4f11-9b09-3486c7190dfe" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/44a32697-e5e3-4910-905d-90c15df15993" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/ed7a73bc-31ba-4fb6-a028-715e64864c8a" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/ea8448de-624f-4c92-baac-ca009310ec82" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/18f772e7-5fa7-4129-8021-2f8be4f443dd" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/667b0082-88f4-4f68-b27c-a860efa72209" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/ef32b997-890b-46fa-ae90-9dcfaf963156" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <img src="https://github.com/user-attachments/assets/3d5ba3f2-960d-4424-99a8-2d35fd14e563" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="50%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/8b4e6ff7-abcd-48b0-9408-5190ab3bd6ec" width="50%" alt="Screenshot 2 - Mobile Shop" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/ce610a42-fb34-4cb7-abff-bb293856cd33" width="50%" alt="Screenshot 3 - Crypto Payments" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/b281661b-dfed-4339-b91e-d6bde2250a49" width="50%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/727dd72c-aaf3-47cc-a704-b4c5335cb3b8" width="50%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/b0f2c4cc-1762-409d-abbf-4665c81ad581" width="50%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+</div>
+
 </div>
 
 **Key Features:**
