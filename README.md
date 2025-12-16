@@ -72,7 +72,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 **ShopFather** is the sibling project to SealyDoc, sharing the same "Single-File" DNA. It allows anyone to create a crypto/fiat accepting store without a backend, contained entirely in one HTML file. The Stakeholder of the world's largest Telegram store network 🛒 +20.000 https://shopfather.io transforms stores into websites with an extraordinary portable micro SaaS client-side e-commerce builder. 
 
-### 📺 Galleria (Video & Screenshot, click for zoom)
+### 📺 Galleria (Video & Screenshot click for zoom)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="25%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
