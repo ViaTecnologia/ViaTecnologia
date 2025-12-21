@@ -90,105 +90,108 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 ---
 
-## 🛍️ [ShopFather Web - Coming Soon!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0AaM1icRBJJNDMt7UwJ4YDwGHZtuvhTy9Q&s)
+## 🛍️ [ShopFather Web - Coming Soon!](https://shopfather.io)
 ### *The Revolutionary Serverless P2P Store Builder*
 
-**ShopFather** is the sibling project to SealyDoc, sharing the same "Single-File" DNA. It allows anyone to create a crypto/fiat accepting store without a backend, contained entirely in one HTML file. The Stakeholder of the world's largest Telegram store network 🛒 +20.000 https://shopfather.io transforms stores into websites with an extraordinary portable micro SaaS client-side e-commerce builder. 
+**ShopFather** is the flagship P2P project for the digital economy. As a stakeholder of the world's largest Telegram store network (+20,000 stores), [shopfather.io](https://shopfather.io) transforms simple bots into professional, serverless websites using an extraordinary micro SaaS client-side builder.
 
 ### 📺 Galleria (Video & Screenshot click for zoom)
 
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e9a03b6c-5dc4-41e8-b202-600d066b3a01" width="25%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/f28fdda1-a962-4569-ab1f-e3484d57bed5" width="25%" alt="Screenshot 2 - Mobile Shop" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/dd34ca04-918c-4879-a2cd-9220748dd14f" width="25%" alt="Screenshot 3 - Crypto Payments" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/0a4456b1-77b0-41d7-8abd-8f9262eb1535" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/f21f23ab-a499-4e93-9e9f-3d96da169b1a" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/13922d8f-7ac8-439b-96fa-7cfd18774255" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/fd5a14d9-5422-443a-9386-51ddd642e566" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/99955a8d-bbda-4dc7-851f-dd4c11505968" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/34c376d3-c8b8-4c91-8d37-2248f344e259" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/59595384-6a62-4f11-9b09-3486c7190dfe" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/44a32697-e5e3-4910-905d-90c15df15993" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/ed7a73bc-31ba-4fb6-a028-715e64864c8a" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/ea8448de-624f-4c92-baac-ca009310ec82" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/18f772e7-5fa7-4129-8021-2f8be4f443dd" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/667b0082-88f4-4f68-b27c-a860efa72209" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/ef32b997-890b-46fa-ae90-9dcfaf963156" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/3d5ba3f2-960d-4424-99a8-2d35fd14e563" width="25%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/709cc992-25cd-48b1-a584-549d61fac994" width="100%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/44f24796-99e7-4580-8be3-a1945dd3ea5b" width="100%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
-  <img src="https://github.com/user-attachments/assets/af2bb9a8-1a9b-4fab-9c7f-3e8537771578" width="100%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <h4>📱 Mobile Version</h4>
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/e9a03b6c-5dc4-41e8-b202-600d066b3a01" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/f28fdda1-a962-4569-ab1f-e3484d57bed5" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/dd34ca04-918c-4879-a2cd-9220748dd14f" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/0a4456b1-77b0-41d7-8abd-8f9262eb1535" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/f21f23ab-a499-4e93-9e9f-3d96da169b1a" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/13922d8f-7ac8-439b-96fa-7cfd18774255" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/fd5a14d9-5422-443a-9386-51ddd642e566" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/99955a8d-bbda-4dc7-851f-dd4c11505968" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/34c376d3-c8b8-4c91-8d37-2248f344e259" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/59595384-6a62-4f11-9b09-3486c7190dfe" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/44a32697-e5e3-4910-905d-90c15df15993" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/ed7a73bc-31ba-4fb6-a028-715e64864c8a" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/ea8448de-624f-4c92-baac-ca009310ec82" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/18f772e7-5fa7-4129-8021-2f8be4f443dd" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/667b0082-88f4-4f68-b27c-a860efa72209" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/ef32b997-890b-46fa-ae90-9dcfaf963156" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/3d5ba3f2-960d-4424-99a8-2d35fd14e563" width="100%"></td>
+      <td colspan="3"></td>
+    </tr>
+  </table>
 
+  <br>
+  <h4>💻 Desktop Version</h4>
+  <table width="100%">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/af2bb9a8-1a9b-4fab-9c7f-3e8537771578" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/8b4e6ff7-abcd-48b0-9408-5190ab3bd6ec" width="100%"></td>
+    </tr>
+  </table>
 
-  <div align="center">
-  <img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="100%" alt="Screenshot 1 - Builder UI" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/8b4e6ff7-abcd-48b0-9408-5190ab3bd6ec" width="100%" alt="Screenshot 2 - Mobile Shop" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/ce610a42-fb34-4cb7-abff-bb293856cd33" width="100%" alt="Screenshot 3 - Crypto Payments" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/b281661b-dfed-4339-b91e-d6bde2250a49" width="100%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/727dd72c-aaf3-47cc-a704-b4c5335cb3b8" width="100%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />
-  <img src="https://github.com/user-attachments/assets/b0f2c4cc-1762-409d-abbf-4665c81ad581" width="100%" alt="Screenshot 4 - Order Received" style="display:inline-block;" />  
+  <br>
+  <h4>📸 Instagram Highlights</h4>
+  <img src="https://github.com/user-attachments/assets/709cc992-25cd-48b1-a584-549d61fac994" width="100%"><br><br>
+  <img src="https://github.com/user-attachments/assets/44f24796-99e7-4580-8be3-a1945dd3ea5b" width="100%"><br><br>
+  <img src="https://github.com/user-attachments/assets/ce610a42-fb34-4cb7-abff-bb293856cd33" width="100%"><br><br>
+  <img src="https://github.com/user-attachments/assets/b281661b-dfed-4339-b91e-d6bde2250a49" width="100%"><br><br>
+  <img src="https://github.com/user-attachments/assets/727dd72c-aaf3-47cc-a704-b4c5335cb3b8" width="100%"><br><br>
+  <img src="https://github.com/user-attachments/assets/b0f2c4cc-1762-409d-abbf-4665c81ad581" width="100%">
 </div>
 
+<br>
+
+<div align="center">
+  <h3>🎬 Watch ShopFather Showcase</h3>
+  
+  <a href="INSERISCI_URL_VIDEO_1" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_VIDEO_1-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/ShopFather-Video-V1.svg?style=for-the-badge&label=CONTATORE+VISUALIZZAZIONI&color=grey" alt="Views 1" />
+
+  <br><br>
+
+  <a href="INSERISCI_URL_VIDEO_2" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_VIDEO_2-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/ShopFather-Video-V2.svg?style=for-the-badge&label=CONTATORE+VISUALIZZAZIONI&color=grey" alt="Views 2" />
 </div>
 
 **Key Features:**
-* ✅ **Serverless E-commerce:** Il negozio è un singolo file HTML.
-* ✅ **Zero Fee:** Nessuna commissione sulle transazioni.
-* ✅ **Payment Flexibility:** Supporto nativo per Crypto, PayPal, Bonifico.
-* ✅ **Direct Orders:** Gli ordini vengono inviati via chat (WhatsApp/Telegram).
-* ✅ **No-Code Builder:** Creazione del negozio tramite interfaccia utente.
+* ✅ **Serverless E-commerce:** Fully client-side, single HTML file.
+* ✅ **Zero Fees:** No transaction or platform commissions.
+* ✅ **Global Payments:** Integrated Crypto, PayPal, and Bank Transfer.
+* ✅ **Real-time Orders:** Orders delivered instantly via WhatsApp/Telegram.
+* ✅ **Pro Builder:** Professional UI for effortless store management.
 
-**Customer Journey:**
-- Step 1: Configurazione rapida dei prodotti e pagamenti nel Builder UI.
-- Step 2: Generazione del file `.html` del negozio in pochi secondi.
-- Step 3: Distribuzione del file tramite link, email o Telegram.
-- Step 4: Ricezione degli ordini crittografati tramite WhatsApp/Telegram API.
+> 🚀 [**LAUNCH BUILDER (Coming Soon)**](https://shopfather.io)
+>
+> 📷 [**Instagram**](https://www.instagram.com/shopfather.io) | 💬 [**Telegram Community**](https://t.me/ShopFatherChat) | 📧 **shopfather@pm.me**
 
-> 🚀 [**LAUNCH BUILDER (Coming Soon)**](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0AaM1icRBJJNDMt7UwJ4YDwGHZtuvhTy9Q&s)
->
-> 📷 [**Follow Us on Instagram**](https://www.instagram.com/shopfather.io)
->
-> 💬 [**Telegram Community ShopFather**](https://t.me/ShopFatherChat)
->
-> 💬 [**Customer Service Bot**](https://t.me/Ticketshopfather_bot)
->
-> ▶️ [**YouTube**](https://www.youtube.com/@shopfathersupport/videos)
->
-> 📧 **shopfather@pm.me**
+---
 
 #### 🙏 Stakeholder Partner Support
 
-ShopFather uses an atypical, **"open account" direct sponsorship model** between stakeholders and developers. Recurring cryptocurrency payments finance the full-time development of this privacy-oriented, Serverless SaaS software, without external platforms.
+ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurring cryptocurrency payments finance the full-time development of this privacy-oriented software.
 
 | Support Tier | Contribution | Exclusive Benefits |
 | :--- | :--- | :--- |
-| **Stakeholder Partner** (Ongoing Development) | **Proportional Share** (Quota Varies) | **Partner Status** and rights. The contribution amount is proportionate to the shares of other stakeholders and the project's current development stage. |
-| **Corporate Sponsorship Or Reseller** | **Contact Dev** | 
+| **Stakeholder Partner** | **Proportional Share** | Partner status and voting rights based on the current development stage. |
+| **Corporate Sponsorship** | **Contact Dev** | Branding in templates and official reseller options. |
 
 > ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for ongoing development, please contact us via **Email** or **Telegram**.
 
-<br>
-
-**Note on Pricing:**
-
-* **Builder Access and Final Pricing/Subscriptions** will be available in the coming weeks.
-
-
-If you wish to make a simple, one-time donation to support the project, please use the following cryptocurrency addresses:
-
-| Currency | Address |
-| :--- | :--- |
-| **Monero (XMR)** | `85k7WENurMjWd1fkyYggMKE2n4Hsn2G43X2Ew3aokQwLVPLXxTZftuoeww7T5hQxLx7e6rJG1CLX5TuQB2j29GRsACs3t8A` |
-| **Bitcoin Cash (BCH)** | `qpnzsnxtx074vhpxs3p3y9myl0502qsczsthka7jda` |
-
-
-<br>
-
-<div align="center">
-  <video src="INSERISCI_QUI_IL_LINK_VIDEO_SHOPFATHER_1" width="49%" controls autoplay loop muted playsinline style="display:inline-block; margin-right: 1%;"></video>
-  <video src="INSERISCI_QUI_IL_LINK_VIDEO_SHOPFATHER_2" width="49%" controls autoplay loop muted playsinline style="display:inline-block;"></video>
-</div>
 <br>
 
 ### 3. Beavip
