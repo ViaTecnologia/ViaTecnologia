@@ -135,15 +135,14 @@ If you appreciate the work and want to support its ongoing development, you can 
   <table width="100%">
     <tr>
       <td><img src="https://github.com/user-attachments/assets/af2bb9a8-1a9b-4fab-9c7f-3e8537771578" width="100%"></td>
-      <td><img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="100%"></td>
-      <td><img src="https://github.com/user-attachments/assets/8b4e6ff7-abcd-48b0-9408-5190ab3bd6ec" width="100%"></td>
+       <img src="https://github.com/user-attachments/assets/709cc992-25cd-48b1-a584-549d61fac994" width="100%"><br><br>
+  <img src="https://github.com/user-attachments/assets/44f24796-99e7-4580-8be3-a1945dd3ea5b" width="100%"><br><br>
     </tr>
   </table>
 
   <br>
-  <h4>📸 Instagram Highlights</h4>
-  <img src="https://github.com/user-attachments/assets/709cc992-25cd-48b1-a584-549d61fac994" width="100%"><br><br>
-  <img src="https://github.com/user-attachments/assets/44f24796-99e7-4580-8be3-a1945dd3ea5b" width="100%"><br><br>
+<td><img src="https://github.com/user-attachments/assets/4ea76d29-2ef8-427e-83f5-d43d7931c44f" width="100%"></td>
+ <td><img src="https://github.com/user-attachments/assets/8b4e6ff7-abcd-48b0-9408-5190ab3bd6ec" width="100%"></td>
   <img src="https://github.com/user-attachments/assets/ce610a42-fb34-4cb7-abff-bb293856cd33" width="100%"><br><br>
   <img src="https://github.com/user-attachments/assets/b281661b-dfed-4339-b91e-d6bde2250a49" width="100%"><br><br>
   <img src="https://github.com/user-attachments/assets/727dd72c-aaf3-47cc-a704-b4c5335cb3b8" width="100%"><br><br>
@@ -162,7 +161,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 
   <br><br>
 
-  <a href="INSERISCI_URL_VIDEO_2" target="_blank">
+  <a href="https://github.com/user-attachments/assets/e0e1b0f8-231a-4494-9241-fb8ff0dc9d4a" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_VIDEO_2-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
   </a>
   <img src="https://hits.dwyl.com/ViaTecnologia/ShopFather-Video-V2.svg?style=for-the-badge&label=CONTATORE+VISUALIZZAZIONI&color=grey" alt="Views 2" />
