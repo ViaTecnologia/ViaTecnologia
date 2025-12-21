@@ -155,7 +155,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 <div align="center">
   <h3>🎬 Watch ShopFather Showcase</h3>
   
-  <a href="INSERISCI_URL_VIDEO_1" target="_blank">
+  <a href="https://github.com/user-attachments/assets/24992ce9-dd0f-4382-bd3b-fca8cc68ff32" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_VIDEO_1-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
   </a>
   <img src="https://hits.dwyl.com/ViaTecnologia/ShopFather-Video-V1.svg?style=for-the-badge&label=CONTATORE+VISUALIZZAZIONI&color=grey" alt="Views 1" />
@@ -191,6 +191,10 @@ ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurr
 | **Corporate Sponsorship** | **Contact Dev** | Branding in templates and official reseller options. |
 
 > ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for ongoing development, please contact us via **Email** or **Telegram**.
+
+
+
+
 
 <br>
 
