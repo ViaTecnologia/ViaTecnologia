@@ -130,6 +130,22 @@ If you appreciate the work and want to support its ongoing development, you can 
     </tr>
   </table>
 
+  <div align="center">
+  <h3>🎬 Watch ShopFather Showcase</h3>
+  
+  <a href="https://github.com/user-attachments/assets/24992ce9-dd0f-4382-bd3b-fca8cc68ff32" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_VIDEO_1-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/ShopFather-Video-V1.svg?style=for-the-badge&label=CONTATORE+VISUALIZZAZIONI&color=grey" alt="Views 1" />
+
+  <br><br>
+
+  <a href="https://github.com/user-attachments/assets/e0e1b0f8-231a-4494-9241-fb8ff0dc9d4a" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_VIDEO_2-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/ShopFather-Video-V2.svg?style=for-the-badge&label=CONTATORE+VISUALIZZAZIONI&color=grey" alt="Views 2" />
+</div>
+
   <br>
   <h4>💻 Desktop Version</h4>
   <table width="100%">
@@ -150,22 +166,6 @@ If you appreciate the work and want to support its ongoing development, you can 
 </div>
 
 <br>
-
-<div align="center">
-  <h3>🎬 Watch ShopFather Showcase</h3>
-  
-  <a href="https://github.com/user-attachments/assets/24992ce9-dd0f-4382-bd3b-fca8cc68ff32" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_VIDEO_1-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
-  </a>
-  <img src="https://hits.dwyl.com/ViaTecnologia/ShopFather-Video-V1.svg?style=for-the-badge&label=CONTATORE+VISUALIZZAZIONI&color=grey" alt="Views 1" />
-
-  <br><br>
-
-  <a href="https://github.com/user-attachments/assets/e0e1b0f8-231a-4494-9241-fb8ff0dc9d4a" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_VIDEO_2-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
-  </a>
-  <img src="https://hits.dwyl.com/ViaTecnologia/ShopFather-Video-V2.svg?style=for-the-badge&label=CONTATORE+VISUALIZZAZIONI&color=grey" alt="Views 2" />
-</div>
 
 **Key Features:**
 * ✅ **Serverless E-commerce:** Fully client-side, single HTML file.
