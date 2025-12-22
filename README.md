@@ -60,7 +60,7 @@
 > 🚀 [**LAUNCH APP (FREE)**](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)
 
 >
-> 📷 [**Sealydoc.italia**](https://www.instagram.com/sealydoc.italia/)
+> 📷 [**Follow us on Instagram**](https://www.instagram.com/sealydoc.italia/)
 >
 > 💬 [**Telegram Community**](https://t.me/sealycommunity)
 >
@@ -131,7 +131,7 @@ If you appreciate the work and want to support its ongoing development, you can 
   </table>
 
   <div align="center">
-  <h3>🎬 Watch ShopFather Showcase</h3>
+  <h3>🎬 Watch ShopFather Web Showcase</h3>
   
   <a href="https://github.com/user-attachments/assets/24992ce9-dd0f-4382-bd3b-fca8cc68ff32" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_VIDEO_1-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
@@ -176,7 +176,11 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 > 🚀 [**LAUNCH BUILDER (Coming Soon)**](https://shopfather.io)
 >
-> 📷 [**Instagram**](https://www.instagram.com/shopfather.io) | 💬 [**Telegram Community**](https://t.me/ShopFatherChat) | 📧 **shopfather@pm.me**
+> 📷 [**Followe Us on Instagram**](https://www.instagram.com/shopfather.io)
+> 
+> 💬 [**Telegram Community**](https://t.me/ShopFatherChat)
+> 
+> 📧 **shopfather@pm.me**
 
 ---
 
