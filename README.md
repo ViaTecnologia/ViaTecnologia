@@ -5,6 +5,47 @@
 
 **SealyDoc Pro** is our flagship solution for the Horeca sector. It replaces paper logs with a powerful, digital engine running directly in your browser.
 
+### 📺 Galleria (Video & Screenshot)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/621cbde1-f269-4284-b245-a46c3af7a744" width="100%" alt="SS1"></td>
+      <td><img src="https://github.com/user-attachments/assets/51a4badc-8641-41fe-b0d7-61c03a48b3f5" width="100%" alt="SS2"></td>
+      <td><img src="https://github.com/user-attachments/assets/8aaa953d-4c30-4d72-8eb0-f20dbee1530e" width="100%" alt="SS3"></td>
+      <td><img src="https://github.com/user-attachments/assets/60c2f954-0b81-483d-a1b2-a2c25a436f27" width="100%" alt="SS4"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/9c60767d-aa82-4fd2-a42c-7979a69bf15a" width="100%" alt="SS5"></td>
+      <td><img src="https://github.com/user-attachments/assets/113ccaa6-19e7-486e-8c83-8e7dcd9c7f93" width="100%" alt="SS6"></td>
+      <td><img src="https://github.com/user-attachments/assets/9e30b92c-df28-40b0-96de-5140bf4dafc1" width="100%" alt="SS7"></td>
+      <td><img src="https://github.com/user-attachments/assets/0656d266-ad80-490e-a1c4-a31a9033cc3c" width="100%" alt="SS8"></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🎬 Watch Showcase Videos</h3>
+  <p><i>Click buttons below to open videos in a new window. Counters track total views.</i></p>
+  
+  <a href="https://github.com/user-attachments/assets/548c1ef1-24d0-4496-ac1d-0b5f225785cd" target="_blank">
+    <img src="https://hits.dwyl.com/ViaTecnologia/SealyDoc-Showcase-V1.svg?style=for-the-badge&label=PLAY+VIDEO+1&color=red" alt="Play Video 1" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/user-attachments/assets/13fd0bef-00bf-4281-8088-761963acdf44" target="_blank">
+    <img src="https://hits.dwyl.com/ViaTecnologia/SealyDoc-Showcase-V2.svg?style=for-the-badge&label=PLAY+VIDEO+2+(V5+PRO)&color=red" alt="Play Video 2" />
+  </a>
+  <br><br>
+  <p>
+    🎁 <b>Exclusive Offer:</b> Get <b>SealyDoc 5 Pro + SealyDoc 4 Pro</b> immediately upon donation!<br>
+    📢 <b>Free Version:</b> Join our <a href="https://t.me/sealycommunity">Community</a> to receive the always-free version.
+  </p>
+</div>
+
+<br>
+
 **Key Features:**
 * ✅ **100% FREE** to use.
 * ✅ **Paperless HACCP:** Digital checklists for temperature & cleaning.
@@ -44,47 +85,6 @@ If you appreciate the work and want to support its ongoing development, you can 
 | :--- | :--- |
 | **Monero (XMR)** | `85k7WENurMjWd1fkyYggMKE2n4Hsn2G43X2Ew3aokQwLVPLXxTZftuoeww7T5hQxLx7e6rJG1CLX5TuQB2j29GRsACs3t8A` |
 | **Bitcoin Cash (BCH)** | `qpnzsnxtx074vhpxs3p3y9myl0502qsczsthka7jda` |
-
-<br>
-
-### 📺 Galleria (Video & Screenshot)
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/621cbde1-f269-4284-b245-a46c3af7a744" width="100%" alt="SS1"></td>
-      <td><img src="https://github.com/user-attachments/assets/51a4badc-8641-41fe-b0d7-61c03a48b3f5" width="100%" alt="SS2"></td>
-      <td><img src="https://github.com/user-attachments/assets/8aaa953d-4c30-4d72-8eb0-f20dbee1530e" width="100%" alt="SS3"></td>
-      <td><img src="https://github.com/user-attachments/assets/60c2f954-0b81-483d-a1b2-a2c25a436f27" width="100%" alt="SS4"></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/9c60767d-aa82-4fd2-a42c-7979a69bf15a" width="100%" alt="SS5"></td>
-      <td><img src="https://github.com/user-attachments/assets/113ccaa6-19e7-486e-8c83-8e7dcd9c7f93" width="100%" alt="SS6"></td>
-      <td><img src="https://github.com/user-attachments/assets/9e30b92c-df28-40b0-96de-5140bf4dafc1" width="100%" alt="SS7"></td>
-      <td><img src="https://github.com/user-attachments/assets/0656d266-ad80-490e-a1c4-a31a9033cc3c" width="100%" alt="SS8"></td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🎬 Watch Showcase Videos</h3>
-  <p><i>Click buttons below to open videos in a new window. Counters track total views.</i></p>
-  
-  <a href="https://github.com/user-attachments/assets/548c1ef1-24d0-4496-ac1d-0b5f225785cd" target="_blank">
-    <img src="https://hits.dwyl.com/ViaTecnologia/SealyDoc-Showcase-V1.svg?style=for-the-badge&label=PLAY+VIDEO+1&color=red" alt="Play Video 1" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/user-attachments/assets/13fd0bef-00bf-4281-8088-761963acdf44" target="_blank">
-    <img src="https://hits.dwyl.com/ViaTecnologia/SealyDoc-Showcase-V2.svg?style=for-the-badge&label=PLAY+VIDEO+2+(V5+PRO)&color=red" alt="Play Video 2" />
-  </a>
-  <br><br>
-  <p>
-    🎁 <b>Exclusive Offer:</b> Get <b>SealyDoc 5 Pro + SealyDoc 4 Pro</b> immediately upon donation!<br>
-    📢 <b>Free Version:</b> Join our <a href="https://t.me/sealycommunity">Community</a> to receive the always-free version.
-  </p>
-</div>
 
 <br>
 
