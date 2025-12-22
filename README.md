@@ -195,14 +195,9 @@ ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurr
 
 > ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for ongoing development, please contact us via **Email** or **Telegram**.
 
-
-
-
-<img src="https://komarev.com/ghpvc/?username=ViaTecnologia&label=GitHub+Profile+Views&color=blue&style=for-the-badge" alt="ViaTecnologia Views" />
-
 ---
 
-## 🏷️ [LabelForge V29 Pro - Web Designer](https://shopfather.io)
+## 🏷️ [LabelForge V29 Pro - Web Designer (Contact the developer to use it)](https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477)
 ### *The Ultimate Label & Flyer Engine for Emerging Markets*
 
 **LabelForge V29 Pro** is a serverless graphic engine designed for the new digital economy. Specifically optimized for **Thailand's** burgeoning markets—including **Legal Cannabis, Hashish, Specialty Coffee, and Cocoa**—it enables users to transform raw CSV data into professional labels and social media marketing assets in seconds.
