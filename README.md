@@ -201,6 +201,82 @@ ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurr
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=ViaTecnologia&label=GitHub+Profile+Views&color=blue&style=for-the-badge" alt="ViaTecnologia Views" />
+
+---
+
+## 🏷️ [LabelForge V29 Pro - Web Designer](https://shopfather.io)
+### *The Ultimate Label & Flyer Engine for Emerging Markets*
+
+**LabelForge V29 Pro** is a serverless graphic engine designed for the new digital economy. Specifically optimized for **Thailand's** burgeoning markets—including **Legal Cannabis, Hashish, Specialty Coffee, and Cocoa**—it enables users to transform raw CSV data into professional labels and social media marketing assets in seconds.
+
+> 🔄 **Full Ecosystem Match:** LabelForge is fully compatible with **ShopFather**. The CSV structure is synchronized for seamless bidirectional import/export, closing the loop between digital inventory and physical product identity.
+
+### 📺 Gallery (Preview & Interface)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_SCREENSHOT_1" width="100%" alt="Label Designer Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_SCREENSHOT_2" width="100%" alt="Social Media Presets"></td>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_SCREENSHOT_3" width="100%" alt="QR Code Logic"></td>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_SCREENSHOT_4" width="100%" alt="CSV Data Management"></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🎬 Watch LabelForge Showcase</h3>
+  
+  <a href="YOUR_VIDEO_URL_1" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_SHOWCASE_1-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/LabelForge-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
+
+  <br><br>
+
+  <a href="YOUR_VIDEO_URL_2" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_TUTORIAL_V29-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/LabelForge-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 2" />
+</div>
+
+<br>
+
+**Key Features:**
+* ✅ **Serverless Architecture:** Runs entirely client-side for maximum privacy; no external databases required.
+* ✅ **Thailand Market Ready:** Includes dedicated fields for Cannabis (THC/CBD), Hashish (Extracts), and Specialty Crops.
+* ✅ **Multi-Platform Export:** Instant generation of formats for Instagram, Telegram, WhatsApp, and high-res print.
+* ✅ **Smart QR Code Engine:** Dynamic QR generation for batch traceability and SKU lookups.
+* ✅ **CSV Power:** Supports massive catalog imports and JSON exports for secure backups.
+
+---
+
+### 🚀 Business Case: Thailand Legal Crops
+LabelForge is the definitive solution for Thai producers of **Bananas, Cocoa, and Coffee**. With pre-set templates, a small farmer can generate professional compliance labels and promotional social posts without a graphic designer, significantly increasing the perceived value and traceability of their products in the international market.
+
+---
+
+#### 🙏 Stakeholder Partner Support (Open Account Model)
+
+LabelForge operates under an **atypical "open account" direct sponsorship model**. Contributions directly fund the full-time development of this privacy-oriented, open-source software.
+
+| Support Tier | Contribution | Exclusive Benefits |
+| :--- | :--- | :--- |
+| **Stakeholder Partner** | **Proportional Share** | Partner status and voting rights on the development roadmap. |
+| **Corporate Sponsorship** | **Contact Dev** | Branding within official templates and reseller/white-label options. |
+
+> ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for ongoing development, please contact the team via **Email** or **Telegram**.
+
+<div align="center">
+  <br>
+  📷 [**Instagram**](https://www.instagram.com/shopfather.io) | 💬 [**Telegram Community**](https://t.me/ShopFatherChat) | 📧 **shopfather@pm.me**
+</div>
+
+---
+
 ### 3. Beavip
 
 **Beneficiaries:**  
