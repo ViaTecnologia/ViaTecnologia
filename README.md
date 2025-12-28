@@ -95,7 +95,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 **ShopFather** is the flagship P2P project for the digital economy. As a stakeholder of the world's largest Telegram store network (+20,000 stores), [shopfather.io](https://shopfather.io) transforms simple bots into professional, serverless websites using an extraordinary micro SaaS client-side builder.
 
-### 📺 Galleria (Video & Screenshot click for zoom)
+### 📺 Galleria 
 
 <div align="center">
   <h4>📱 Mobile Version</h4>
@@ -197,7 +197,7 @@ ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurr
 
 ---
 
-## 🏷️ [LabelForge V29 Pro - Web Designer](https://shopfather.io)
+## 🏷️ [LabelForge V29 Pro](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/daa9ad5ac05ba96c1c71c340583e365f/baedf4e7-2463-4822-a5d9-b882ad320a86/02b958a6.html?rnd=1765927178301&utm_source=)
 ### *The Ultimate Label & Flyer Engine for Emerging Markets*
 
 **LabelForge V29 Pro** is a serverless graphic engine designed for the new digital economy. Specifically optimized for **Thailand's** burgeoning markets—including **Legal Cannabis, Hashish, Specialty Coffee, and Cocoa**—it enables users to transform raw CSV data into professional labels and social media marketing assets in seconds.
@@ -293,19 +293,20 @@ LabelForge operates under an **atypical "open account" direct sponsorship model*
 
 > 🛡️ **"Portable Vault" Innovation:** The system generates a self-contained decryption ecosystem. The recipient does not need to install any software; a modern web browser is sufficient to unlock the file locally.
 
-### 📺 Gallery (Interface & Security)
+### 📺 Gallery 
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_VAULT_SCREEN_1" width="100%" alt="Encryption Interface"></td>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_VAULT_SCREEN_2" width="100%" alt="Portable Vault Generation"></td>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_VAULT_SCREEN_3" width="100%" alt="Security Stats"></td>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_VAULT_SCREEN_4" width="100%" alt="Technical Analysis"></td>
+      <td><img src="https://github.com/user-attachments/assets/cc274d34-621f-4c68-b844-912429add01f" width="100%" alt="Encryption Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/0be810a3-5aa7-4719-8b22-09a255980f09" width="100%" alt="Portable Vault Generation"></td>
+      <td><img src="https://github.com/user-attachments/assets/e5511053-efd9-4c8e-b538-767e87efb06d" width="100%" alt="Security Stats"></td>
+      <td><img src="https://github.com/user-attachments/assets/68e30720-1b02-4686-82b2-cd71464635ad" width="100%" alt="Technical Analysis"></td>
+     <td><img src="https://github.com/user-attachments/assets/a58127d5-d082-4c07-8f25-5981bb6b00b5" width="100%" alt="Technical Analysis"></td>
+
     </tr>
   </table>
 </div>
-
 <br>
 
 <div align="center">
@@ -317,12 +318,6 @@ LabelForge operates under an **atypical "open account" direct sponsorship model*
   <img src="https://hits.dwyl.com/ViaTecnologia/CryptoVault-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
 
   <br><br>
-
-  <a href="VAULT_VIDEO_URL_2" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_PORTABLE_VAULT_TUTORIAL-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
-  </a>
-  <img src="https://hits.dwyl.com/ViaTecnologia/CryptoVault-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 2" />
-</div>
 
 <br>
 
