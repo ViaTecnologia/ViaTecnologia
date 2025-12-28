@@ -303,13 +303,11 @@ LabelForge operates under an **atypical "open account" direct sponsorship model*
       <td><img src="https://github.com/user-attachments/assets/e5511053-efd9-4c8e-b538-767e87efb06d" width="100%" alt="Security Stats"></td>
       <td><img src="https://github.com/user-attachments/assets/68e30720-1b02-4686-82b2-cd71464635ad" width="100%" alt="Technical Analysis"></td>
      <td><img src="https://github.com/user-attachments/assets/a58127d5-d082-4c07-8f25-5981bb6b00b5" width="100%" alt="Technical Analysis"></td>
-
     </tr>
   </table>
 </div>
 <br>
 
-<div align="center">
   <h3>🎬 Watch the Crypto Vault Pro Showcase</h3>
   
   <a href="VAULT_VIDEO_URL_1" target="_blank">
