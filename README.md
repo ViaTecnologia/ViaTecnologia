@@ -204,25 +204,27 @@ ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurr
 
 > 🔄 **Full Ecosystem Match:** LabelForge is fully compatible with **ShopFather**. The CSV structure is synchronized for seamless bidirectional import/export, closing the loop between digital inventory and physical product identity.
 
-### 📺 Gallery (Preview & Interface)
+### 📺 Gallery (💻 Desktop POV Click for zoom)
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_SCREENSHOT_1" width="100%" alt="Label Designer Interface"></td>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_SCREENSHOT_2" width="100%" alt="Social Media Presets"></td>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_SCREENSHOT_3" width="100%" alt="QR Code Logic"></td>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_SCREENSHOT_4" width="100%" alt="CSV Data Management"></td>
+      <td><img src="https://github.com/user-attachments/assets/aad2cdaa-6ba2-4bd3-bdd8-c96d503f3b16" width="100%" alt="Label Designer Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/60aad81c-018b-4861-aa27-4eb59079a7b0" width="100%" alt="Render Label Graphic and Qr-code"></td>
+      <td><img src="https://github.com/user-attachments/assets/b28728d1-f66b-473f-b3c5-780d65adbce5" width="100%" alt="Live Custom Data"></td>
+      <td><img src="https://github.com/user-attachments/assets/9335ac9d-a3b1-48dc-a601-610f1a867bde" width="100%" alt="Custom url Image or add file"></td>
+      <td><img src="https://github.com/user-attachments/assets/a81a927b-6a68-4e5a-9eef-4716e032b067" width="100%" alt="Social Media"></td>
+      <td><img src="https://github.com/user-attachments/assets/7e83d690-b27b-40d5-82de-3305196f38bb" width="100%" alt="Social Media 2"></td>
+       <td><img src="https://github.com/user-attachments/assets/913363fd-ab72-4ddf-a4cf-288b67df9f8d" width="100%" alt="Full Label 1200x900"></td>
     </tr>
   </table>
 </div>
-
 <br>
 
 <div align="center">
   <h3>🎬 Watch LabelForge Showcase</h3>
   
-  <a href="YOUR_VIDEO_URL_1" target="_blank">
+  <a href="https://github.com/user-attachments/assets/606a5ac3-8990-4944-bcb5-a6f39e67c90b" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_SHOWCASE_1-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
   </a>
   <img src="https://hits.dwyl.com/ViaTecnologia/LabelForge-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
