@@ -204,6 +204,27 @@ ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurr
 
 > 🔄 **Full Ecosystem Match:** LabelForge is fully compatible with **ShopFather**. The CSV structure is synchronized for seamless bidirectional import/export, closing the loop between digital inventory and physical product identity.
 
+### 📺 Galleria
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/bb4495fe-260f-4214-830c-010c3836b555" width="100%" alt="SS1"></td>
+      <td><img src="https://github.com/user-attachments/assets/565d197f-a63f-448f-941b-ca33f0e938b3" width="100%" alt="SS2"></td>
+      <td><img src="https://github.com/user-attachments/assets/01db8d33-44c6-46af-8077-feda1a91b2f2" width="100%" alt="SS3"></td>
+      <td><img src="https://github.com/user-attachments/assets/51afa0c7-1554-4a1b-9438-fd5501fa922e" width="100%" alt="SS4"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/7445bd8d-a173-4e51-9361-0066f47632ae" width="100%" alt="SS5"></td>
+      <td><img src="https://github.com/user-attachments/assets/6f04a12c-f07c-476e-97b2-63d4b1a53500" width="100%" alt="SS6"></td>
+      <td><img src="https://github.com/user-attachments/assets/bc4e8431-896a-4438-9543-596ffc2edd2d" width="100%" alt="SS7"></td>
+      <td><img src="https://github.com/user-attachments/assets/9542adcb-2643-4f43-a0b7-38ddb1620934" width="100%" alt="SS8"></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 ### 📺 Gallery (💻 Desktop POV Click for zoom)
 
 <div align="center">
@@ -220,8 +241,6 @@ ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurr
   </table>
 </div>
 <br>
-
-<div align="center">
   <h3>🎬📱 Watch LabelForge Showcase POV Mobile </h3>
   
   <a href="https://github.com/user-attachments/assets/606a5ac3-8990-4944-bcb5-a6f39e67c90b" target="_blank">
@@ -230,9 +249,7 @@ ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurr
   <img src="https://hits.dwyl.com/ViaTecnologia/LabelForge-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
 
   <br><br>
-
 <br>
-
 **Key Features:**
 * ✅ **Serverless Architecture:** Runs entirely client-side for maximum privacy; no external databases required.
 * ✅ **Thailand Market Ready:** Includes dedicated fields for Cannabis (THC/CBD), Hashish (Extracts), and Specialty Crops.
