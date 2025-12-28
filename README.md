@@ -262,10 +262,89 @@ LabelForge operates under an **atypical "open account" direct sponsorship model*
 
 > ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for ongoing development, please contact the team via **Email** or **Telegram**.
 
-<div align="center">
   <br>
-  📷 [**Instagram**](https://www.instagram.com/shopfather.io) | 💬 [**Telegram Community**](https://t.me/ShopFatherChat) | 📧 **shopfather@pm.me**
+  
+> 🚀 [**LAUNCH NOW**](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/daa9ad5ac05ba96c1c71c340583e365f/baedf4e7-2463-4822-a5d9-b882ad320a86/02b958a6.html?rnd=1765927178301&utm_source=)
+>
+> 📷 [**Followe Us on Instagram**](https://www.instagram.com/shopfather.io)
+>  
+> 📧 **shopfather@pm.me**
+
+---
+
+
+## 🔐 [Crypto Vault Pro V3.0](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/914f5d9cd74c48d84c470d4c4ab7ef15/8ffeaa0b-f468-4f01-957f-ded8fcde7a78/681ff720.html?rnd=1766944443080&utm_source=)
+### *The Ultimate Zero-Knowledge Encryption Suite*
+
+**Crypto Vault Pro** is an advanced encryption solution designed for maximum data privacy. Built on the **Zero-Knowledge** paradigm, the architecture ensures that file protection occurs entirely within the user's browser. No plaintext data, passwords, or cryptographic keys are ever transmitted to external servers.
+
+> 🛡️ **"Portable Vault" Innovation:** The system generates a self-contained decryption ecosystem. The recipient does not need to install any software; a modern web browser is sufficient to unlock the file locally.
+
+### 📺 Gallery (Interface & Security)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_VAULT_SCREEN_1" width="100%" alt="Encryption Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_VAULT_SCREEN_2" width="100%" alt="Portable Vault Generation"></td>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_VAULT_SCREEN_3" width="100%" alt="Security Stats"></td>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_VAULT_SCREEN_4" width="100%" alt="Technical Analysis"></td>
+    </tr>
+  </table>
 </div>
+
+<br>
+
+<div align="center">
+  <h3>🎬 Watch the Crypto Vault Pro Showcase</h3>
+  
+  <a href="VAULT_VIDEO_URL_1" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_TECHNICAL_DEMO-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/CryptoVault-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
+
+  <br><br>
+
+  <a href="VAULT_VIDEO_URL_2" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_PORTABLE_VAULT_TUTORIAL-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/CryptoVault-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 2" />
+</div>
+
+<br>
+
+**Technical Specifications (NIST Protocol):**
+* ✅ **AES-256-GCM:** Military-grade authenticated encryption for data integrity.
+* ✅ **PBKDF2-SHA256:** Key derivation with 100,000 iterations to resist brute-force attacks.
+* ✅ **Serverless Model:** Operates entirely offline (file://) without telemetry or backend dependencies.
+* ✅ **Software Independence:** Generates self-executable HTML Vaults for total portability.
+* ✅ **Zero Telemetry:** No external pings; maximum confidentiality guaranteed by open-source code.
+
+---
+
+### 📑 White Paper: Cryptographic Architecture
+The system utilizes native **Web Crypto APIs** (SubtleCrypto) to ensure high performance and standardized algorithm implementations. Every session generates a unique 16-byte **Salt** and a 12-byte **IV** (Initialization Vector), making each encrypted file mathematically isolated from others.
+
+---
+
+#### 🙏 Stakeholder Partner Support (Open Account Model)
+
+Crypto Vault Pro follows an **atypical "open account" direct sponsorship model**. Contributions directly fund the full-time development of this privacy-oriented and digital freedom software.
+
+| Support Tier | Contribution | Exclusive Benefits |
+| :--- | :--- | :--- |
+| **Stakeholder Partner** | **Proportional Share** | Partner status and voting rights on the development roadmap. |
+| **Corporate Sponsorship** | **Contact Dev** | Company logo placement and white-label options for internal use. |
+
+> ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for V4.0 development, please contact the team via **Email** or **Telegram**.
+
+  <br>
+  
+> 🚀 [**LAUNCH NOW**](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/914f5d9cd74c48d84c470d4c4ab7ef15/8ffeaa0b-f468-4f01-957f-ded8fcde7a78/681ff720.html?rnd=1766944443080&utm_source=perplexity)
+>
+> 📷 [**Followe Us on Instagram**](https://www.instagram.com/shopfather.io)
+>  
+> 📧 **shopfather@pm.me**
 
 ---
 
