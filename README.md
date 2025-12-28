@@ -222,7 +222,7 @@ ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurr
 <br>
 
 <div align="center">
-  <h3>🎬 Watch LabelForge Showcase</h3>
+  <h3>🎬📱 Watch LabelForge Showcase POV Mobile </h3>
   
   <a href="https://github.com/user-attachments/assets/606a5ac3-8990-4944-bcb5-a6f39e67c90b" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_SHOWCASE_1-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
@@ -230,12 +230,6 @@ ShopFather uses an atypical, **"open account" direct sponsorship model**. Recurr
   <img src="https://hits.dwyl.com/ViaTecnologia/LabelForge-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
 
   <br><br>
-
-  <a href="YOUR_VIDEO_URL_2" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_TUTORIAL_V29-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
-  </a>
-  <img src="https://hits.dwyl.com/ViaTecnologia/LabelForge-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 2" />
-</div>
 
 <br>
 
