@@ -295,18 +295,27 @@ LabelForge operates under an **atypical "open account" direct sponsorship model*
 
 ### 📺 Gallery 
 
+ <tr>
+      <td><img src="https://github.com/user-attachments/assets/7a41a313-c24f-46c0-a191-e331e965af3a" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/08ef5d66-c9f7-46ed-af54-c63e9e45e27e" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/7b118d17-3bc9-4be7-b398-5b9f90ba05b0" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/7feed865-a610-4e0a-a9b2-7869aac92967" width="100%"></td>
+     <td><img src="https://github.com/user-attachments/assets/74a21af6-d93a-4cc6-9581-0b7263ba1206" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/69adfeb6-00b0-4d81-a2ec-0b49830489c7" width="100%"></td>
+    </tr>
+      <td colspan="3"></td>
+    </tr>
+  </table>
+
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/cc274d34-621f-4c68-b844-912429add01f" width="100%" alt="Encryption Interface"></td>
-      <td><img src="https://github.com/user-attachments/assets/0be810a3-5aa7-4719-8b22-09a255980f09" width="100%" alt="Portable Vault Generation"></td>
-      <td><img src="https://github.com/user-attachments/assets/e5511053-efd9-4c8e-b538-767e87efb06d" width="100%" alt="Security Stats"></td>
-      <td><img src="https://github.com/user-attachments/assets/68e30720-1b02-4686-82b2-cd71464635ad" width="100%" alt="Technical Analysis"></td>
-     <td><img src="https://github.com/user-attachments/assets/a58127d5-d082-4c07-8f25-5981bb6b00b5" width="100%" alt="Technical Analysis"></td>
+      <td><img src="https://github.com/user-attachments/assets/d278752d-c721-48fe-b204-6b830ae794b4" width="100%" alt="SS1"></td>
+      <td><img src="https://github.com/user-attachments/assets/495b3188-9e53-4bfe-bd36-f45344569ff0" width="100%" alt="SS2"></td>
+      <td><img src="https://github.com/user-attachments/assets/c444a536-3af9-4aae-99e5-345a5868c444" width="100%" alt="SS3"></td>
     </tr>
   </table>
 </div>
-<br>
 
   <h3>🎬 Watch the Crypto Vault Pro Showcase</h3>
   
