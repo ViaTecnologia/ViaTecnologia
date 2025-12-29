@@ -348,7 +348,7 @@ Crypto Vault Pro follows an **atypical "open account" direct sponsorship model**
 
 | Support Tier | Contribution | Exclusive Benefits |
 | :--- | :--- | :--- |
-| **Stakeholder Partner** | **Proportional Share** | Partner status and voting rights on the development roadmap. |
+| **Stakeholder Partner** | **Proportional Share** | Always receive the latest version of Crypto Vault |
 | **Corporate Sponsorship** | **Contact Dev** | Company logo placement and white-label options for internal use. |
 
 > ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for V4.0 development, please contact the team via **Email** or **Telegram**.
