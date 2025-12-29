@@ -320,7 +320,7 @@ LabelForge operates under an **atypical "open account" direct sponsorship model*
 <br>
 
  <a href="https://github.com/user-attachments/assets/7c1a6fc0-3e8c-4463-a2dc-666439eae3dc" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_TECHNICAL_DEMO-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
+    <img src="https://img.shields.io/badge/PLAY_TECHNICAL_DEMO2-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
   </a>
   <img src="https://hits.dwyl.com/ViaTecnologia/CryptoVault-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
 
