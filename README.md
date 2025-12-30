@@ -365,19 +365,76 @@ Crypto Vault Pro follows an **atypical "open account" direct sponsorship model**
 
 ---
 
-### 4. Driver4You
+## 🚕 [Driver4You - AI App Factory](https://driver4you.vercel.app/)
+### *AI-Powered Prompt-to-Code for Local Transport*
 
-**Beneficiaries:**  
-Municipalities, taxi companies, NCC services.
+**Driver4You** is the revolutionary **AI Software Factory** designed for the mobility sector. It allows anyone to instantly generate a fully functional, White Label Local Transport App simply by using prompts.
 
-**Problem Addressed:**  
-Local operators struggle to compete with global ride-sharing platforms and need branded, locally controlled solutions.
+**Stop Waiting. Start Owning.**
+We disrupt the monopoly of ride-sharing giants. Driver4You empowers local entrepreneurs to build their own fleet management platforms, taxi apps, or chauffeur booking systems in minutes, not months.
 
-**Customer Journey:**  
-- Step 1: Configure custom-branded local ride-sharing platform.  
-- Step 2: Manage fleets and dynamic pricing with real-time geolocation.  
-- Step 3: Launch and operational readiness in 2-3 weeks.
+### 📺 Gallery (The Builder Interface)
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_BUILDER_SCREEN_1" width="100%" alt="Prompt Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_BUILDER_SCREEN_2" width="100%" alt="Generated User App"></td>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_BUILDER_SCREEN_3" width="100%" alt="Generated Driver Dashboard"></td>
+      <td><img src="https://github.com/user-attachments/assets/INSERT_BUILDER_SCREEN_4" width="100%" alt="Admin Panel"></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🎬 Watch the Generation Process</h3>
+  
+  <a href="URL_VIDEO_DEMO_1" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_AI_DEMO-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
+
+  <br><br>
+
+  <a href="URL_VIDEO_DEMO_2" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_APP_WALKTHROUGH-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 2" />
+</div>
+
+<br>
+
+**Key Features:**
+* ✅ **Prompt-to-Code Engine:** Type your business model (e.g., "Luxury Transfer in Milan" or "Scooter Sharing in Rome") and the AI generates the core structure.
+* ✅ **100% White Label:** The output is yours. Your brand, your logo, your rules. No "Powered by" watermarks.
+* ✅ **Instant Deployment:** Moves from code generation to a live web-app environment (Vercel-ready) instantly.
+* ✅ **Zero-Commission Architecture:** Unlike major aggregators, the apps you build allow direct P2P payments between drivers and clients.
+* ✅ **Scalable Tech Stack:** Generates modern, clean code optimized for performance and local SEO.
+
+> 🚀 [**LAUNCH AI FACTORY**](https://driver4you.vercel.app/)
+>
+> 📷 [**Follow Us on Instagram**](https://www.instagram.com/driverfouryou)
+> 
+> 💬 [**Telegram Community**](https://t.me/ShopFatherChat)
+> 
+> 📧 **driverfouryou@gmail.com**
+
+---
+
+#### 🙏 Stakeholder Partner Support (Open Account Model)
+
+Driver4You follows the **ShopFather atypical "open account" direct sponsorship model**. Contributions directly fund the training of the AI models and the development of new generation templates.
+
+| Support Tier | Contribution | Exclusive Benefits |
+| :--- | :--- | :--- |
+| **Stakeholder Partner** | **Proportional Share** | Partner status, voting rights on new AI features, and early access to source code. |
+| **Corporate Sponsorship** | **Contact Dev** | Custom AI model fine-tuning for large-scale fleet operators. |
+
+> ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for the AI development, please contact the team via **Email** or **Telegram**.
+
+<br>
 ---
 
 ### 3. Beavip
