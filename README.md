@@ -365,21 +365,6 @@ Crypto Vault Pro follows an **atypical "open account" direct sponsorship model**
 
 ---
 
-### 3. Beavip
-
-**Beneficiaries:**  
-Startups and startup incubators building e-commerce marketplaces.
-
-**Problem Addressed:**  
-Slow time-to-market and high costs for marketplace deployment and infrastructure.
-
-**Customer Journey:**  
-- Step 1: Accelerated onboarding for startups within days.  
-- Step 2: Full-stack marketplace creation and management.  
-- Step 3: Monitoring and support via dedicated dashboards.
-
----
-
 ### 4. Driver4You
 
 **Beneficiaries:**  
@@ -392,6 +377,21 @@ Local operators struggle to compete with global ride-sharing platforms and need 
 - Step 1: Configure custom-branded local ride-sharing platform.  
 - Step 2: Manage fleets and dynamic pricing with real-time geolocation.  
 - Step 3: Launch and operational readiness in 2-3 weeks.
+
+---
+
+### 3. Beavip
+
+**Beneficiaries:**  
+Startups and startup incubators building e-commerce marketplaces.
+
+**Problem Addressed:**  
+Slow time-to-market and high costs for marketplace deployment and infrastructure.
+
+**Customer Journey:**  
+- Step 1: Accelerated onboarding for startups within days.  
+- Step 2: Full-stack marketplace creation and management.  
+- Step 3: Monitoring and support via dedicated dashboards.
 
 ---
 
