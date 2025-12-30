@@ -393,27 +393,72 @@ We disrupt the monopoly of ride-sharing giants. Driver4You empowers local entrep
       <td><img src="https://github.com/user-attachments/assets/a0075527-c680-41d7-bc5b-44f83add667e" width="100%" alt="Admin Panel"></td>
     </tr>
   </table>
+  </div>
+ <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/8cba6101-7a4a-44c4-a504-296aab0f4b7b" width="100%" alt="Prompt Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/950a7808-889c-43a6-bbea-7ce8953e7853" width="100%" alt="Generated User App"></td>
+      <td><img src="https://github.com/user-attachments/assets/34dcab4d-4919-4091-94c7-da7abd1f4276" width="100%" alt="Generated Driver Dashboard"></td>
+      <td><img src="https://github.com/user-attachments/assets/aba5560b-ca5d-45c3-ad7a-e49e3225f4c6" width="100%" alt="Admin Panel"></td>
+    </tr>
+  </table>
 
 <br>
 
-<div align="center">
   <h3>🎬 How Work the Platform?</h3>
   
-  <a href="URL_VIDEO_DEMO_1" target="_blank">
+  <a href="https://github.com/user-attachments/assets/ad8a13b9-c37e-4a09-9077-d13b6a80b2bc" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_DEMO_1_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
   </a>
-  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
 
   <br><br>
 
-  <a href="URL_VIDEO_DEMO_2" target="_blank">
+  <a href="https://github.com/user-attachments/assets/03019fd7-2696-436f-a026-a9cfbcbd212c" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_DEMO_2_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
   </a>
-  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 2" />
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
 </div>
 
 <br><br>
 
+<a href="https://github.com/user-attachments/assets/673f33a0-1560-4b23-8c8d-bae47242bd3f" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_DEMO_3_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 3" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
+</div>
+
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/0adbce09-1d8b-4954-a847-00914d14faa7" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_DEMO_4_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 4" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
+</div>
+
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/7e6c7340-48f3-4289-a2e5-fb0802adfe30" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_DEMO_5_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 5" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
+</div>
+
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/4174eb15-e8d3-4953-87c0-ab022d021c11" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_DEMO_6_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 6" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
+</div>
+
+<br><br>
+
+<a href="https://github.com/user-attachments/assets/d5cc3fa8-2b7e-4c57-a90f-f66fcf2d1e73" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_DEMO_6_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 7" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
+</div>
 
 **Key Features:**
 * ✅ **Prompt-to-Code Engine:** Type your business model (e.g., "Luxury Transfer in Milan" or "Scooter Sharing in Rome") and the AI generates the core structure.
