@@ -176,7 +176,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 > 🚀 [**LAUNCH BUILDER (Coming Soon)**](https://shopfather.io)
 >
-> 📷 [**Followe Us on Instagram**](https://www.instagram.com/shopfather.io)
+> 📷 [**Follow Us on Instagram**](https://www.instagram.com/shopfather.io)
 > 
 > 💬 [**Telegram Community**](https://t.me/ShopFatherChat)
 > 
@@ -279,7 +279,7 @@ LabelForge operates under an **atypical "open account" direct sponsorship model*
   
 > 🚀 [**LAUNCH NOW**](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/daa9ad5ac05ba96c1c71c340583e365f/baedf4e7-2463-4822-a5d9-b882ad320a86/02b958a6.html?rnd=1765927178301&utm_source=)
 >
-> 📷 [**Followe Us on Instagram**](https://www.instagram.com/shopfather.io)
+> 📷 [**Follow Us on Instagram**](https://www.instagram.com/shopfather.io)
 >  
 > 📧 **shopfather@pm.me**
 
@@ -359,7 +359,7 @@ Crypto Vault Pro follows an **atypical "open account" direct sponsorship model**
   
 > 🚀 [**LAUNCH NOW**](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/914f5d9cd74c48d84c470d4c4ab7ef15/8ffeaa0b-f468-4f01-957f-ded8fcde7a78/681ff720.html?rnd=1766944443080&utm_source=perplexity)
 >
-> 📷 [**Followe Us on Instagram**](https://www.instagram.com/shopfather.io)
+> 📷 [**Follow Us on Instagram**](https://www.instagram.com/shopfather.io)
 >  
 > 📧 **shopfather@pm.me**
 
