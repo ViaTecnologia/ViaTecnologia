@@ -295,43 +295,37 @@ LabelForge operates under an **atypical "open account" direct sponsorship model*
 
 ### 📺 Gallery 
 
+  <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/0e8268c4-3050-43cb-a448-5f0ede6e16d6" width="100%" alt="SS1"></td>
-      <td><img src="https://github.com/user-attachments/assets/b9e5d520-a41f-4001-89d9-d325d5e460c5" width="100%" alt="SS2"></td>
-      <td><img src="https://github.com/user-attachments/assets/85fde7f1-e7d5-42e4-bdcb-37ea5ea3317c" width="100%" alt="SS3"></td>
+      <td><img src="https://github.com/user-attachments/assets/68c308d3-cc65-499b-8b0a-8730afc99fdb" width="100%" alt="SS1"></td>
+      <td><img src="https://github.com/user-attachments/assets/5cce7c11-402d-4199-8dc9-d0ca7345b16a" width="100%" alt="SS2"></td>
+      <td><img src="https://github.com/user-attachments/assets/c49528a3-b549-48de-9f0a-1b3b3ab04473" width="100%" alt="SS3"></td>
+      <td><img src="https://github.com/user-attachments/assets/563890f1-5de7-45a2-9831-dc6112acd102" width="100%" alt="SS4"></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/4a3acb4a-50ee-40c0-99a7-173205d50db4" width="100%" alt="SS1"></td>
-      <td><img src="https://github.com/user-attachments/assets/891b52c0-a756-4368-abba-fb92ba7934ef" width="100%" alt="SS2"></td>
-      <td><img src="https://github.com/user-attachments/assets/85fde7f1-e7d5-42e4-bdcb-37ea5ea3317c" width="100%" alt="SS3"></td>
+      <td><img src="https://github.com/user-attachments/assets/22398ca2-21b3-4e48-858b-17204c7534d8" width="100%" alt="SS5"></td>
+      <td><img src="https://github.com/user-attachments/assets/bde05a80-790a-4148-a8e0-b8f3b3f1dc9b" width="100%" alt="SS7"></td>
+      <td><img src="https://github.com/user-attachments/assets/d0f6f5e6-2c5e-40bc-a49f-b29bb24bfa9f" width="100%" alt="SS8"></td> 
+      <td><img src="https://github.com/user-attachments/assets/96372673-c53f-4d6e-b620-352d73d21ebe" width="100%" alt="SS6"></td>   
     </tr>
-      <td><img src="https://github.com/user-attachments/assets/4a3acb4a-50ee-40c0-99a7-173205d50db4" width="100%" alt="SS1"></td>
-      <td><img src="https://github.com/user-attachments/assets/891b52c0-a756-4368-abba-fb92ba7934ef" width="100%" alt="SS2"></td>
-      <td><img src="https://github.com/user-attachments/assets/85fde7f1-e7d5-42e4-bdcb-37ea5ea3317c" width="100%" alt="SS3"></td>
-    </tr>
-    
-
+  </table>
+</div>
+<br>
   <h3>🎬 Watch the Crypto Vault Pro Showcase</h3>
   
   <a href="https://github.com/user-attachments/assets/a968f9dc-0e75-4016-87a7-cac1f0b5a466" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_TECHNICAL_DEMO-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
   </a>
   <img src="https://hits.dwyl.com/ViaTecnologia/CryptoVault-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
-
   <br><br>
-
 <br>
-
  <a href="https://github.com/user-attachments/assets/7c1a6fc0-3e8c-4463-a2dc-666439eae3dc" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_TECHNICAL_DEMO2-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
   </a>
   <img src="https://hits.dwyl.com/ViaTecnologia/CryptoVault-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
-
   <br><br>
-
 <br>
-
 **Technical Specifications (NIST Protocol):**
 * ✅ **AES-256-GCM:** Military-grade authenticated encryption for data integrity.
 * ✅ **PBKDF2-SHA256:** Key derivation with 100,000 iterations to resist brute-force attacks.
