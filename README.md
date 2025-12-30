@@ -378,18 +378,26 @@ We disrupt the monopoly of ride-sharing giants. Driver4You empowers local entrep
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_BUILDER_SCREEN_1" width="100%" alt="Prompt Interface"></td>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_BUILDER_SCREEN_2" width="100%" alt="Generated User App"></td>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_BUILDER_SCREEN_3" width="100%" alt="Generated Driver Dashboard"></td>
-      <td><img src="https://github.com/user-attachments/assets/INSERT_BUILDER_SCREEN_4" width="100%" alt="Admin Panel"></td>
+      <td><img src="https://github.com/user-attachments/assets/df0869b1-8386-469d-b907-0f9047e0f2d8" width="100%" alt="Prompt Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/322a024a-f975-42d5-b414-490c0da22576" width="100%" alt="Generated User App"></td>
+      <td><img src="https://github.com/user-attachments/assets/904fe861-f186-42fa-b1e6-8314e4930953" width="100%" alt="Generated Driver Dashboard"></td>
+      <td><img src="https://github.com/user-attachments/assets/c7585fc7-df35-4113-8f5a-9725851b9d9b" width="100%" alt="Admin Panel"></td>
     </tr>
   </table>
 </div>
+ <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/a09d47dc-84a3-41b7-b51e-dfba0f6f563b" width="100%" alt="Prompt Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/31cb58f3-afa1-44e9-9446-e98096c7e58a" width="100%" alt="Generated User App"></td>
+      <td><img src="https://github.com/user-attachments/assets/ceae3e9c-e8af-4a55-8c4c-62f6ca2eba1f" width="100%" alt="Generated Driver Dashboard"></td>
+      <td><img src="https://github.com/user-attachments/assets/a0075527-c680-41d7-bc5b-44f83add667e" width="100%" alt="Admin Panel"></td>
+    </tr>
+  </table>
 
 <br>
 
 <div align="center">
-  <h3>🎬 Watch the Generation Process</h3>
+  <h3>🎬 How Work the Platform?</h3>
   
   <a href="URL_VIDEO_DEMO_1" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_AI_DEMO-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
@@ -413,13 +421,13 @@ We disrupt the monopoly of ride-sharing giants. Driver4You empowers local entrep
 * ✅ **Zero-Commission Architecture:** Unlike major aggregators, the apps you build allow direct P2P payments between drivers and clients.
 * ✅ **Scalable Tech Stack:** Generates modern, clean code optimized for performance and local SEO.
 
-> 🚀 [**LAUNCH AI FACTORY**](https://driver4you.vercel.app/)
+> 🚀 [**TRY ITALY D4Y**](https://driver4you.vercel.app/)
 >
 > 📷 [**Follow Us on Instagram**](https://www.instagram.com/driverfouryou)
 > 
-> 💬 [**Telegram Community**](https://t.me/ShopFatherChat)
+> 💬 [**Telegram Community**](https://t.me/driverd4y)
 > 
-> 📧 **driverfouryou@gmail.com**
+> 📧 **driver4you@pm.me**
 
 ---
 
