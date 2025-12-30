@@ -368,7 +368,7 @@ Crypto Vault Pro follows an **atypical "open account" direct sponsorship model**
 ## 🚕 [Driver4You - AI App Factory](https://driver4you.vercel.app/)
 ### *AI-Powered Prompt-to-Code for Local Transport*
 
-**Driver4You** is the revolutionary **AI Software Factory** designed for the mobility sector. It allows anyone to instantly generate a fully functional, White Label Local Transport App simply by using prompts.
+**Driver4You** is the revolutionary **AI Software Factory** designed for the mobility sector. It allows anyone to instantly generate a fully functional, White Label Local Transport App simply by using prompts. 
 
 **Stop Waiting. Start Owning.**
 We disrupt the monopoly of ride-sharing giants. Driver4You empowers local entrepreneurs to build their own fleet management platforms, taxi apps, or chauffeur booking systems in minutes, not months.
@@ -400,19 +400,20 @@ We disrupt the monopoly of ride-sharing giants. Driver4You empowers local entrep
   <h3>🎬 How Work the Platform?</h3>
   
   <a href="URL_VIDEO_DEMO_1" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_AI_DEMO-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
+    <img src="https://img.shields.io/badge/PLAY_DEMO_1_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
   </a>
   <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
 
   <br><br>
 
   <a href="URL_VIDEO_DEMO_2" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_APP_WALKTHROUGH-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
+    <img src="https://img.shields.io/badge/PLAY_DEMO_2_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
   </a>
   <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 2" />
 </div>
 
-<br>
+<br><br>
+
 
 **Key Features:**
 * ✅ **Prompt-to-Code Engine:** Type your business model (e.g., "Luxury Transfer in Milan" or "Scooter Sharing in Rome") and the AI generates the core structure.
@@ -424,6 +425,8 @@ We disrupt the monopoly of ride-sharing giants. Driver4You empowers local entrep
 > 🚀 [**TRY ITALY D4Y**](https://driver4you.vercel.app/)
 >
 > 📷 [**Follow Us on Instagram**](https://www.instagram.com/driverfouryou)
+>
+> 💬 [**WhatsApp Channel**](https://whatsapp.com/channel/0029Vax4zGoLtOjHb5r8Kg14)
 > 
 > 💬 [**Telegram Community**](https://t.me/driverd4y)
 > 
@@ -440,7 +443,7 @@ Driver4You follows the **ShopFather atypical "open account" direct sponsorship m
 | **Stakeholder Partner** | **Proportional Share** | Partner status, voting rights on new AI features, and early access to source code. |
 | **Corporate Sponsorship** | **Contact Dev** | Custom AI model fine-tuning for large-scale fleet operators. |
 
-> ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for the AI development, please contact the team via **Email** or **Telegram**.
+> ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for the AI development, please contact the team via **Email** or **Telegram**. (N.B. This project receives strong AI coding. The description may reflect updates and more advanced features or features that are not aligned with the current roadmap)
 
 <br>
 ---
