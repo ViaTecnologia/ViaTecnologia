@@ -493,18 +493,96 @@ Driver4You follows the **ShopFather atypical "open account" direct sponsorship m
 <br>
 ---
 
-### 3. Beavip
+## 🚀 [Beavip SMM Configurator](https://bvip.vercel.app/)
+### *The Frictionless "No-Backend" Service Dropshipping Engine*
 
-**Beneficiaries:**  
-Startups and startup incubators building e-commerce marketplaces.
+**Beavip** is a next-generation web configurator designed to strip away the complexity of traditional e-commerce. It acts as a **dynamic frontend** for dropshipping social media services (SMM), completely eliminating the need for a traditional database, user registration, or complex backend management.
 
-**Problem Addressed:**  
-Slow time-to-market and high costs for marketplace deployment and infrastructure.
+> ⚡ **"Direct-to-Chat" Architecture:** The system bypasses standard checkout flows. Instead of storing data on a server, it compiles the user's complex request (Service, Platform, Quantity, Delivery Speed) and securely transmits the order payload directly to a **Telegram Admin Channel** for instant fulfillment.
 
-**Customer Journey:**  
-- Step 1: Accelerated onboarding for startups within days.  
-- Step 2: Full-stack marketplace creation and management.  
-- Step 3: Monitoring and support via dedicated dashboards.
+### 📺 Gallery (The UX Flow)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/d85c823d-8bd5-4533-a467-39bfd0ccdaf1" width="100%" alt="Prompt Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/2b5bda20-700f-4304-b957-e46d9359aad4" width="100%" alt="Generated User App"></td>
+      <td><img src="https://github.com/user-attachments/assets/05ed552e-a9f3-46d4-afaa-bdcc8b0d6ae4" width="100%" alt="Generated Driver Dashboard"></td>
+      <td><img src="https://github.com/user-attachments/assets/88ef0fe3-1cc1-400e-8adc-a3667d2e1225" width="100%" alt="Admin Panel"></td>
+    </tr>
+  </table>
+</div>
+ <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/807ce64d-a0dd-4bd0-a31f-58cd5db1aaa8" width="100%" alt="Prompt Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/4fb0c7f9-ee2f-4bd4-8423-aea48e01ab11" width="100%" alt="Generated User App"></td>
+      <td><img src="https://github.com/user-attachments/assets/3e08ff6f-0f9d-4350-a3f5-5735c8f71a3a" width="100%" alt="Generated Driver Dashboard"></td>
+      <td><img src="https://github.com/user-attachments/assets/5e8e393a-6c4c-407b-920a-0479a3e65f1a" width="100%" alt="Admin Panel"></td>
+    </tr>
+  </table>
+  </div>
+ <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/ae1e6c38-6c42-4991-bbe2-3cbd8b107f4d" width="100%" alt="Prompt Interface"></td>
+      <td><img src="https://github.com/user-attachments/assets/d33b609f-68b7-49fd-9162-dd1b8f006a9a" width="100%" alt="Generated User App"></td>
+      <td><img src="https://github.com/user-attachments/assets/3a855745-4e86-402a-9450-02b6194fff34" width="100%" alt="Generated Driver Dashboard"></td>
+      <td><img src="https://github.com/user-attachments/assets/60625359-2eac-49e1-8f49-39d49ae9ccf9" width="100%" alt="Admin Panel"></td>
+    </tr>
+  </table>
+
+<br>
+
+  <h3>🎬 How Work the Platform?</h3>
+  
+  <a href="https://github.com/user-attachments/assets/ad8a13b9-c37e-4a09-9077-d13b6a80b2bc" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_DEMO_1_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
+
+  <br><br>
+
+  <a href="https://github.com/user-attachments/assets/03019fd7-2696-436f-a026-a9cfbcbd212c" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_DEMO_2_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
+</div>
+
+<br><br>
+
+**Technical Specifications (Modern Stack):**
+* ✅ **AI-Generated Core:** Frontend architecture designed using **v0.dev** (React/Tailwind) for a production-ready, modern dark-mode UI.
+* ✅ **Zero-Database:** Operates without a SQL/NoSQL backend. User sessions are ephemeral and privacy-focused.
+* ✅ **Telegram API Bridge:** Utilizes Telegram Bots as the Content Management System (CMS) and Order Notification System.
+* ✅ **Privacy First:** No passwords required. Users only provide public links (Username/URL), significantly increasing conversion rates.
+* ✅ **Multi-Payment Logic:** Pre-configured frontend logic for PayPal, Bitcoin, and Monero (manual verification flow).
+
+---
+
+### ⚠️ Educational Purpose Disclaimer
+> **PLEASE NOTE:** This project is released strictly for **EDUCATIONAL PURPOSES ONLY**. It is a Proof of Concept (PoC) demonstrating how to build serverless applications using Telegram as a backend.
+>
+> It is **not** intended to be used as a fully automated commercial business tool. The developer assumes no responsibility for how the code is used or for any transactions conducted through clones of this software.
+
+---
+
+#### 🙏 Stakeholder Partner Support (White Label Model)
+
+Beavip follows an exclusive **"Open Source / White Label" model**. While the concept is educational, we offer a commercial license for those who wish to study the code or adapt the UI for their own private experiments.
+
+| Support Tier | Contribution | Exclusive Benefits |
+| :--- | :--- | :--- |
+| **Supporter** | **Free / Star** | Access to the public demo and basic documentation. |
+| **White Label Partner** | **€200 - €400** | **Full Source Code Access.** You receive the complete React/Next.js repo, ready to deploy on Vercel. Includes branding removal and setup guide for your own Telegram Bot/username |
+
+> ℹ️ **BECOME A PARTNER:** To acquire the White Label license or discuss the source code, please contact the dev team via **Email** or **Telegram**.
+
+<br>
+  
+> 🚀 [**LIVE DEMO**](https://bvip.vercel.app/)
+>
+> 🔐 **Demo Password:** `!y0XneK^9BxEnAvzg#`
+>
+> 📧 [**Dev**](https://t.me/aboutnobelcontact_bot)
 
 ---
 
