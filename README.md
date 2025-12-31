@@ -533,18 +533,13 @@ Driver4You follows the **ShopFather atypical "open account" direct sponsorship m
 <br>
 
   <h3>🎬 How Work the Platform?</h3>
-  
-  <a href="https://github.com/user-attachments/assets/ad8a13b9-c37e-4a09-9077-d13b6a80b2bc" target="_blank">
+
+  <a href="https://github.com/user-attachments/assets/a5d8a256-0360-439c-b240-abe4681c8b47" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_DEMO_1_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
   </a>
   <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
 
   <br><br>
-
-  <a href="https://github.com/user-attachments/assets/03019fd7-2696-436f-a026-a9cfbcbd212c" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_DEMO_2_-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
-  </a>
-  <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
 </div>
 
 <br><br>
@@ -572,7 +567,7 @@ Beavip follows an exclusive **"Open Source / White Label" model**. While the con
 | Support Tier | Contribution | Exclusive Benefits |
 | :--- | :--- | :--- |
 | **Supporter** | **Free / Star** | Access to the public demo and basic documentation. |
-| **White Label Partner** | **€200 - €400** | **Full Source Code Access.** You receive the complete React/Next.js repo, ready to deploy on Vercel. Includes branding removal and setup guide for your own Telegram Bot/username |
+| **White Label Partner** | **€400 - €1000** | **Full Source Code Access.** You receive the complete React/Next.js repo, ready to deploy on Vercel. Includes branding removal and setup guide for your own Telegram Bot/username |
 
 > ℹ️ **BECOME A PARTNER:** To acquire the White Label license or discuss the source code, please contact the dev team via **Email** or **Telegram**.
 
