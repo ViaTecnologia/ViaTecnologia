@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=ViaTecnologia&label=GitHub+Profile+Views&color=blue&style=for-the-badge" alt="ViaTecnologia Views" />
 
-## 🌟 SPOTLIGHT: [SealyDoc Pro V4](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)
+## 🌟 SPOTLIGHT: [SealyDoc Pro V4](https://sealydocv4-ubdh1d.g-shell.app/)
 ### *The Professional HACCP & Labeling Engine*
 
 **SealyDoc Pro** is our flagship solution for the Horeca sector. It replaces paper logs with a powerful, digital engine running directly in your browser.
@@ -57,7 +57,7 @@
 - Step 2: Dynamic creation of compliant food labels with batch, expiration, and allergen info.
 - Step 3: Printing or exporting labels with integrated traceability.
 
-> 🚀 [**LAUNCH APP (FREE)**](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/a22819d0a94634029bd5bdbbe3e52f6a/b4754581-0640-49f8-876c-671b3b21270d/canvas-app/index.html)
+> 🚀 [**LAUNCH APP (FREE)**](https://sealydocv4-ubdh1d.g-shell.app/)
 
 >
 > 📷 [**Follow us on Instagram**](https://www.instagram.com/sealydoc.italia/)
