@@ -749,4 +749,4 @@ Thank you for your support!
 
 ---
 
-*Document created by ViaTecnologia - November 2025*
+*Document updated by ViaTecnologia - January 2026*
