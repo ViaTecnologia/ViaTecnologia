@@ -594,14 +594,28 @@ Beavip follows an exclusive **"Open Source / White Label" model**. While the con
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/59a15a02-88ee-4501-bda3-6a5522c74b24" width="100%" alt="Dashboard Overview"></td>
-      <td><img src="https://github.com/user-attachments/assets/106a5a97-8cf0-4fc2-88b9-2dbb5a0e7dfc" width="100%" alt="Quote Configurator"></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/492b6a8d-f019-4896-b651-ba028e867ae0" width="100%" alt="Inventory Management"></td>
-      <td><img src="https://github.com/user-attachments/assets/a2cd1498-854b-4a80-b103-4a3d146d9843" width="100%" alt="PDF Export Preview"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/59a15a02-88ee-4501-bda3-6a5522c74b24" width="100%" alt="Mobile View 1"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/106a5a97-8cf0-4fc2-88b9-2dbb5a0e7dfc" width="100%" alt="Mobile View 2"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/492b6a8d-f019-4896-b651-ba028e867ae0" width="100%" alt="Mobile View 3"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/a2cd1498-854b-4a80-b103-4a3d146d9843" width="100%" alt="Mobile View 4"></td>
     </tr>
   </table>
+</div>
+
+### 🎬📱 Watch Belotti Quote Pro Showcase POV Mobile 
+
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/d59a82af-4899-40c9-a355-c6dfc4aa30d4" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_SHOWCASE_1-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/BelottiQuote-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 1" />
+
+  <br><br>
+
+  <a href="https://github.com/user-attachments/assets/ec66fa6d-7744-4280-b433-751b58b98eac" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_SHOWCASE_2-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/BelottiQuote-Video-V2.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 2" />
 </div>
 
 <br>
