@@ -643,26 +643,65 @@ Looking for a custom management system that is fast, secure, and elegantly desig
 
 ---
 
-### 7. Cannabis Labeler
+## 🛡️ [CyberSuite - Educational AI Factory](https://cybersuite.vercel.app)
+### *Next-Gen Security Awareness & Human-Risk Simulation*
 
-**Beneficiaries:**  
-Cannabis dispensaries and certified laboratories.
+**CyberSuite** is an advanced UI framework designed for corporate cybersecurity training and vulnerability testing. By simulating the visual workflows of modern threat vectors (Malware Builders and Phishing Kits), this suite empowers organizations to educate their workforce on the mechanics of social engineering, turning "human error" into a proactive defense layer.
 
-**Problem Addressed:**  
-Errors, delays, and non-compliance in manual label creation for cannabis products.
+> ⚠️ **EDUCATIONAL PURPOSE ONLY:** This project is a strictly educational endeavor. It serves as a "Prompt-to-UI" factory and an interactive placeholder demonstrating how professional security awareness dashboards and penetration testing tools can be architected for corporate risk assessment.
 
-**Customer Journey:**  
-- Step 1: Easy form input of ingredients, dates, and notes.  
-- Step 2: Automatic PDF label generation compliant with cannabis regulations.  
-- Step 3: Traceability and verification via integrated QR codes.
+### 🎬 Watch the CyberSuite Showcase
+
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/c28588b8-ca82-4f31-bf04-1b58de880428" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_SUITE_DEMO-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video" />
+  </a>
+  <img src="https://hits.dwyl.com/ViaTecnologia/CyberSuite-Video.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter" />
+</div>
+
+### 📺 Gallery (Desktop Interface)
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%"><img src="URL_DESKTOP_1" width="100%" alt="Main Dashboard"></td>
+      <td width="33%"><img src="URL_DESKTOP_2" width="100%" alt="Malware Builder"></td>
+      <td width="33%"><img src="URL_DESKTOP_3" width="100%" alt="Phishing Module"></td>
+    </tr>
+    <tr>
+      <td width="33%"><img src="URL_DESKTOP_4" width="100%" alt="Network Analytics"></td>
+      <td width="33%"><img src="URL_DESKTOP_5" width="100%" alt="Employee Testing"></td>
+      <td width="33%"><img src="URL_DESKTOP_6" width="100%" alt="Security Protocols"></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+**Technical Specifications:**
+* ✅ **Modern Tech Stack:** Built with **Next.js 14 (App Router)** and **React** for enterprise-grade performance.
+* ✅ **High-Protocol UI:** Ultra-fast, responsive styling via **Tailwind CSS** with a focus on SOC (Security Operations Center) aesthetics.
+* ✅ **Advanced Animations:** Fluid interface transitions and data visualization powered by **Framer Motion**.
+* ✅ **Educational Logic:** Designed to simulate real-world attack surfaces for training purposes in a non-executable environment.
+* ✅ **Scalable Architecture:** Modular component structure ready for integration with real-time threat intelligence backends.
 
 ---
 
-### 8 to 10. Internal & Educational Solutions
+### 🧪 Project Status & Vision
+CyberSuite is currently in its **infancy (Early-Stage Placeholder)**. It represents a highly interesting conceptual foundation for a complete Cybersecurity Awareness Ecosystem. We transform corporate vulnerability into a strategic asset through high-fidelity, safe simulations.
 
-- **ViaTecnologia Mgr:** Internal CRM and CPQ management tool.  
-- **Belotti CRM:** Vertical business management system for service and assistance teams.  
-- **Dark Patterns UI:** Educational tool for ethical design awareness and training.
+> 🚀 [**LAUNCH BUILDER (Coming Soon)**](https://cybersuite.vercel.app)
+> 
+> 📧 **viatecnologia@pm.me**
+
+---
+
+#### 🛠️ Custom Cybersecurity & Management Solutions
+Looking for a custom security dashboard or a bespoke management system? I am the **King of Minimal**: transforming complex data into clean, functional, and high-performance digital tools.
+
+**Contact the Developer for:**
+* 💎 Custom SOC/SIEM Dashboard development.
+* 🛠️ Tailored Security Awareness & Employee Testing platforms.
+* 🚀 Professional "Minimalist" Enterprise Software.
 
 ---
 
