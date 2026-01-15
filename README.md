@@ -707,18 +707,19 @@ Looking for a custom security dashboard or a bespoke management system? I am the
 
 ## Portfolio Summary
 
-| #  | Solution Name       | Category              | Primary Target Market          | Key Problem Addressed                                                  |
-|----|---------------------|-----------------------|-------------------------------|-----------------------------------------------------------------------|
-| 1  | SealyDoc Pro V4     | HACCP & Digital Labeling | Restaurants, Bars, Laboratories | Reliance on paper HACCP checklists causing errors and audit risks    |
-| 2  | ShopFather          | E-commerce Builder     | Creator Economy, Small Business | Complexity and cost of traditional e-commerce systems                |
-| 3  | Beavip              | Marketplace Platform   | Startups, Incubators           | Slow time-to-market and high development costs                       |
-| 4  | Driver4You          | Whitelabel Ride-Sharing| Public Transport, Taxi, NCC    | Difficulty for local operators to compete with global platforms       |
-| 5  | CyberSuite          | Cybersecurity Training | Enterprises, Universities      | Lack of safe and realistic cyber attack training environments         |
-| 6  | Belotti CPQ         | Quote and Configurator | Agricultural Equipment Dealers | Manual and slow quoting process causing lost sales                    |
-| 7  | Cannabis Labeler    | Compliance Labeling    | Cannabis Dispensaries, Labs    | Complex manual labeling processes leading to compliance risks         |
-| 8  | ViaTecnologia Mgr   | Internal CRM/Configurator | Internal Business Use          | Internal project and sales process management                         |
-| 9  | Belotti CRM         | Vertical CRM           | Service and Assistance Companies| Specific business process management needs                           |
-| 10 | Dark Patterns UI    | Educational UI Tool    | Designers, Developers, Academia | Awareness and education on ethical UX/UI design                      |
+### 🚀 Strategic Portfolio Overview
+*A collection of high-performance, serverless, and AI-driven solutions for the modern digital economy.*
+
+| Project & Concept | Strategic Pillar | Core Tech Stack | Value Proposition / Problem Solved |
+| :--- | :--- | :--- | :--- |
+| **🌟 SealyDoc Pro V4** | **Food-Tech / SaaS** | Client-Side JS, QR Engine | **Compliance Automation:** Eliminating paper risks in the Horeca sector with offline-first HACCP tracking. |
+| **🛍️ ShopFather Web** | **E-commerce P2P** | Serverless Micro SaaS | **Frictionless Retail:** Building a Telegram-based store network with zero platform fees and total privacy. |
+| **🏷️ LabelForge V29** | **Traceability** | CSV-to-Graphic Engine | **Market Compliance:** Dynamic labeling and social asset generation for emerging legal crops. |
+| **🔐 Crypto Vault Pro** | **Data Privacy** | NIST AES-256-GCM, PBKDF2 | **Zero-Knowledge Storage:** Portable, self-executable HTML vaults that decrypt data locally without servers. |
+| **🚕 Driver4You** | **Mobility / AI** | Prompt-to-Code AI | **Industry Disruption:** Empowering local transport fleets to own their platform with AI-generated White Label apps. |
+| **🚀 Beavip SMM** | **Digital Marketing** | React, Tailwind, Telegram Bridge | **Lead Generation:** A database-less service configurator that converts user requests directly into Telegram orders. |
+| **🚜 Belotti Quote Pro** | **Industrial CPQ** | Vanilla JS, jsPDF | **Zero-Latency Quoting:** Real-time professional PDF generation for agricultural sales teams in the field. |
+| **🛡️ CyberSuite** | **Cyber-Security** | Next.js 14, Framer Motion | **Human-Risk Simulation:** Training employees against phishing/malware in a safe, high-fidelity visual environment. |
 
 ---
 
