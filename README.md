@@ -663,14 +663,14 @@ Looking for a custom management system that is fast, secure, and elegantly desig
 <div align="center">
   <table>
     <tr>
-      <td width="33%"><img src="URL_DESKTOP_1" width="100%" alt="Main Dashboard"></td>
-      <td width="33%"><img src="URL_DESKTOP_2" width="100%" alt="Malware Builder"></td>
-      <td width="33%"><img src="URL_DESKTOP_3" width="100%" alt="Phishing Module"></td>
+      <td width="33%"><img src="https://github.com/user-attachments/assets/34c24aac-8cb2-42e3-84b8-e9a8a2b5961c" width="100%" alt="Main Dashboard"></td>
+      <td width="33%"><img src="https://github.com/user-attachments/assets/ba77a431-48a5-4117-a8ba-dbf8d1f88276" width="100%" alt="Malware Builder"></td>
+      <td width="33%"><img src="https://github.com/user-attachments/assets/047f06c1-835b-473d-b393-635ea3bc6c7d" width="100%" alt="Phishing Module"></td>
     </tr>
     <tr>
-      <td width="33%"><img src="URL_DESKTOP_4" width="100%" alt="Network Analytics"></td>
-      <td width="33%"><img src="URL_DESKTOP_5" width="100%" alt="Employee Testing"></td>
-      <td width="33%"><img src="URL_DESKTOP_6" width="100%" alt="Security Protocols"></td>
+      <td width="33%"><img src="https://github.com/user-attachments/assets/a2fa6d42-e166-4cf7-840e-0c2bf0892a2d" width="100%" alt="Network Analytics"></td>
+      <td width="33%"><img src="https://github.com/user-attachments/assets/5ac9364a-e6d3-4038-b151-d61132319e55" width="100%" alt="Employee Testing"></td>
+      <td width="33%"><img src="https://github.com/user-attachments/assets/6498dc47-0def-4eea-9fac-1f8380abf292" width="100%" alt="Security Protocols"></td>
     </tr>
   </table>
 </div>
