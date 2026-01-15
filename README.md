@@ -595,9 +595,12 @@ Beavip follows an exclusive **"Open Source / White Label" model**. While the con
       <td width="25%"><img src="https://github.com/user-attachments/assets/a2cd1498-854b-4a80-b103-4a3d146d9843" width="100%" alt="Mobile View 4"></td>
     </tr>
   </table>
+
+  <img src="https://github.com/user-attachments/assets/7f9489da-9a83-4473-a876-9a2135b7d96e" width="75%" alt="Belotti Quote Pro Desktop Version">
 </div>
 
-### 🎬📱 Watch Belotti Quote Pro Showcase POV Mobile 
+
+### 🎬📱 Watch Belotti Quote Pro Showcase POV Mobile/Desktop
 
 <div align="center">
   <a href="https://github.com/user-attachments/assets/d59a82af-4899-40c9-a355-c6dfc4aa30d4" target="_blank">
