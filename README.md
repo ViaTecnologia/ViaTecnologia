@@ -539,7 +539,6 @@ Driver4You follows the **ShopFather atypical "open account" direct sponsorship m
   </a>
   <img src="https://hits.dwyl.com/ViaTecnologia/Driver4You-Video-V1.svg?style=for-the-badge&label=VIEWS&color=grey" alt="Counter 0" />
 
-  <br><br>
 </div>
 
 <br><br>
@@ -578,10 +577,6 @@ Beavip follows an exclusive **"Open Source / White Label" model**. While the con
 > 🔐 **Demo Password:** `!y0XneK^9BxEnAvzg#`
 >
 > 📧 [**Dev**](https://t.me/aboutnobelcontact_bot)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=ViaTecnologia&label=GitHub+Profile+Views&color=blue&style=for-the-badge" alt="ViaTecnologia Views" />
 
 ---
 
