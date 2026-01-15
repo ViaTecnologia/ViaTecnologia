@@ -581,33 +581,53 @@ Beavip follows an exclusive **"Open Source / White Label" model**. While the con
 
 ---
 
-### 5. CyberSuite
-
-**Beneficiaries:**  
-Corporate teams, universities, HR and IT departments.
-
-**Problem Addressed:**  
-Lack of safe, realistic environments for cybersecurity attack training.
-
-**Customer Journey:**  
-- Step 1: Setup of sandboxed attack simulation scenarios (phishing, malware).  
-- Step 2: Hands-on training activities in secure environments.  
-- Step 3: KPI tracking and detailed training reports.
+<img src="https://komarev.com/ghpvc/?username=ViaTecnologia&label=GitHub+Profile+Views&color=blue&style=for-the-badge" alt="ViaTecnologia Views" />
 
 ---
 
-### 6. Belotti CPQ
+## 🚜 [Belotti Quote Pro](https://github.com/ViaTecnologia)
+### *Professional Agricultural Machinery Quoting Engine*
 
-**Beneficiaries:**  
-Agricultural machinery vendors and dealerships.
+**Belotti Quote Pro** is a bespoke software solution engineered for the instantaneous generation and management of quotes within the agricultural machinery sector. Built with a **"Zero-Latency"** philosophy, this tool allows sales teams to configure complex offers, manage product databases, and export professional PDF documents directly to the client in just a few clicks.
 
-**Problem Addressed:**  
-Manual and inefficient quoting processes cause customer attrition and delays.
+### 📺 Gallery
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/59a15a02-88ee-4501-bda3-6a5522c74b24" width="100%" alt="Dashboard Overview"></td>
+      <td><img src="https://github.com/user-attachments/assets/106a5a97-8cf0-4fc2-88b9-2dbb5a0e7dfc" width="100%" alt="Quote Configurator"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/492b6a8d-f019-4896-b651-ba028e867ae0" width="100%" alt="Inventory Management"></td>
+      <td><img src="https://github.com/user-attachments/assets/a2cd1498-854b-4a80-b103-4a3d146d9843" width="100%" alt="PDF Export Preview"></td>
+    </tr>
+  </table>
+</div>
 
-**Customer Journey:**  
-- Step 1: Mobile/tablet-based product configuration.  
-- Step 2: Instant generation of branded, professional PDF quotes.  
-- Step 3: Immediate sharing and streamlined order management.
+<br>
+
+**Technical Specifications:**
+* ✅ **Client-Side PDF Engine:** High-resolution document generation using `jsPDF` and `html2canvas` directly within the browser.
+* ✅ **Vanilla Architecture:** Developed in pure JavaScript/CSS3 with zero heavy dependencies, ensuring minimal maintenance and maximum cross-browser compatibility.
+* ✅ **Minimalist UI/UX:** Optimized for field operations, featuring the *Inter* typeface for superior readability and a responsive *Mobile-First* layout.
+* ✅ **Data Privacy & Persistence:** Local data management ensures that sensitive pricing and client information never leaves the device.
+* ✅ **Automated Business Logic:** Real-time calculation of subtotals, VAT, discounts, and currency formatting.
+
+---
+
+### 🛠️ Custom Software Solutions
+This project is a **bespoke software unit developed for a third-party client**. It is not open for public stakeholder investment or collaborative development.
+
+Looking for a custom management system that is fast, secure, and elegantly designed? I am the **King of Minimal**: I specialize in transforming complex business processes into simple, clean, and high-performance digital interfaces.
+
+**Contact the Developer to:**
+* 💎 Purchase a license for this software.
+* 🛠️ Request a custom-built management tool tailored to your business.
+* 🚀 Optimize your sales workflow with lightweight digital engines.
+
+  <br>
+  📧 Email: viatecnologia@pm.me
+</div>
 
 ---
 
