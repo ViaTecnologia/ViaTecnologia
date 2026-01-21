@@ -705,6 +705,84 @@ Looking for a custom security dashboard or a bespoke management system? I am the
 
 ---
 
+# 🧪 [DOSE. - Professional Awareness](https://github.com/ViaTecnologia)
+### *The High-Fidelity Digital Consciousness & Human-Risk Engine*
+
+**DOSE.** is not just a dashboard; it is a specialized **Self-Awareness Engine** built for professionals operating in high-stakes digital environments. It bridges the gap between **Digital Wellbeing** and **Cybersecurity Awareness**, providing a framework for monitoring the "Human Factor" in the digital workspace.
+
+### 📺 Gallery (The UI Experience)
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/a1b9175a-0688-4d06-9f55-89fee3c19d46" width="100%" alt="Mobile UI 1"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/5a9ee8dd-5f7b-41df-8877-6c35fbe91ec2" width="100%" alt="Mobile UI 2"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/6b82e0e4-8b8c-4b9c-a3d7-b8601fd0f120" width="100%" alt="Mobile UI 3"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/ec44af96-a169-4964-83b6-4d2efbd2b49b" width="100%" alt="Mobile UI 4"></td>
+    </tr>
+  </table>
+
+  <img src="https://github.com/user-attachments/assets/96033c73-15de-4739-89b3-2ec6f0c4403e" width="75%" alt="DOSE Desktop Perspective">
+</div>
+
+<br>
+---
+
+### 🎯 Targeted Sectors
+* **Cybersecurity Operations (SOC):** For analysts needing to track their vigilance levels during long shifts.
+* **High-Performance Engineering:** For developers focusing on deep-work sessions and cognitive load management.
+* **Corporate Security Awareness:** A tool for employees to self-assess their adherence to security protocols.
+* **Digital Wellbeing:** For anyone looking to reduce "digital noise" and improve focus.
+
+### 📊 Measurable Metrics (What you track)
+DOSE. allows users to quantify their internal state across four critical professional dimensions:
+
+1.  **Digital Focus:** Measures your ability to maintain deep work and resist distractions or "context switching."
+2.  **Security Awareness:** A "Pulse Check" on your current alertness regarding security threats, social engineering, and protocol compliance.
+3.  **Mental Clarity:** Evaluates your cognitive readiness, sharpness, and decision-making capacity.
+4.  **Stress Levels:** Monitors the impact of the digital workload on your stress response to prevent burnout.
+
+### 🔐 Zero-Knowledge Privacy Architecture
+Data is the most sensitive asset. **DOSE.** is built on a "Privacy-First" local architecture:
+* **No Cloud Sync:** Data never leaves your device.
+* **Local Persistence:** All logs are encrypted and stored via `localStorage`.
+* **Zero Tracking:** No telemetry, no cookies, no external pings.
+* **Self-Contained:** A single-file PWA architecture for maximum portability and security.
+
+---
+
+### 🎬 Technical Showcase
+
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/VIDEO_ID" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_SHOWCASE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video" />
+  </a>
+</div>
+
+<br>
+
+**Technical Specifications:**
+* ⚛️ **Frontend:** React 18 (Production Build)
+* 🎨 **UI/UX:** Tailwind CSS with Custom Glassmorphism Filters
+* 📊 **Analytics:** Client-side data processing and real-time statistical modeling
+* 📐 **Typography:** Space Mono (Data) & Inter (UI) for maximum professional readability
+* ⚡ **Architecture:** Minimalist Babel-Standalone deployment for zero-dependency execution
+
+---
+
+#### 🛠️ Custom Awareness & Security Solutions
+Need a bespoke version of DOSE. or a tailored security dashboard for your organization?
+
+**Contact the Developer:**
+* 💎 **White Label Licenses:** Adapt the UI for your corporate branding.
+* 🛠️ **Custom Modules:** Integrate specific tracking metrics for your industry.
+* 🚀 **Performance UI:** High-fidelity prototyping for SOC/SIEM interfaces.
+
+<div align="center">
+  <br>
+  💬 [**Telegram Community**](https://t.me/ShopFatherChat) | 📧 **Email: viatecnologia@pm.me**
+</div>
+
 ## Portfolio Summary
 
 ### 🚀 Strategic Portfolio Overview
