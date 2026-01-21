@@ -754,7 +754,7 @@ Data is the most sensitive asset. **DOSE.** is built on a "Privacy-First" local 
 ### 🎬 Technical Showcase
 
 <div align="center">
-  <a href="https://github.com/user-attachments/assets/VIDEO_ID" target="_blank">
+  <a href="https://github.com/user-attachments/assets/2a279a61-0005-44ac-99f3-94321ac1d8dc" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_SHOWCASE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video" />
   </a>
 </div>
@@ -780,7 +780,7 @@ Need a bespoke version of DOSE. or a tailored security dashboard for your organi
 
 <div align="center">
   <br>
-  💬 [**Telegram Community**](https://t.me/ShopFatherChat) | 📧 **Email: viatecnologia@pm.me**
+ 📧 Email: viatecnologia@pm.me
 </div>
 
 ## Portfolio Summary
