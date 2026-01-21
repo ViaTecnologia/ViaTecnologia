@@ -783,8 +783,6 @@ Need a bespoke version of DOSE. or a tailored security dashboard for your organi
  📧 Email: viatecnologia@pm.me
 </div>
 
-## Portfolio Summary
-
 ### 🚀 Strategic Portfolio Overview
 *A collection of high-performance, serverless, and AI-driven solutions for the modern digital economy.*
 
@@ -798,6 +796,7 @@ Need a bespoke version of DOSE. or a tailored security dashboard for your organi
 | **🚀 Beavip SMM** | **Digital Marketing** | React, Tailwind, Telegram Bridge | **Lead Generation:** A database-less service configurator that converts user requests directly into Telegram orders. |
 | **🚜 Belotti Quote Pro** | **Industrial CPQ** | Vanilla JS, jsPDF | **Zero-Latency Quoting:** Real-time professional PDF generation for agricultural sales teams in the field. |
 | **🛡️ CyberSuite** | **Cyber-Security** | Next.js 14, Framer Motion | **Human-Risk Simulation:** Training employees against phishing/malware in a safe, high-fidelity visual environment. |
+| **🧪 DOSE.** | **Digital Awareness** | React, Tailwind, PWA | **Self-Awareness Engine:** Quantifying digital focus and security consciousness with zero-knowledge privacy. |
 
 ---
 
