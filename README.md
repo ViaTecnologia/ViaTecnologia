@@ -35,12 +35,12 @@ This repository represents a high-fidelity **Strategic Prototype**. It demonstra
 ### 🎬 Technical Showcases
 <div align="center">
   <p><strong>Demonstration 01: The Execution Flow</strong></p>
-  <a href="https://github.com/user-attachments/assets/VIDEO_ID_1" target="_blank">
+  <a href="https://github.com/user-attachments/assets/58071b1b-3552-4efa-b8dc-5582668245fc" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_SHOWCASE_1-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 1" />
   </a>
   <br><br>
   <p><strong>Demonstration 02: Neural Kernel Provisioning</strong></p>
-  <a href="https://github.com/user-attachments/assets/VIDEO_ID_2" target="_blank">
+  <a href="https://github.com/user-attachments/assets/3feac0b7-e6f4-48b0-b6b8-a9f201c3e598" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_SHOWCASE_2-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video 2" />
   </a>
 </div>
@@ -93,9 +93,11 @@ VIA OS is currently at the threshold of becoming a market-ready platform. We are
 ---
 
 #### 📧 Contact & Collaboration
-* **Lead Developer:** [Your Name/ViaTecnologia]
+* **Lead Developer:** [ViaTecnologia]
 * **Telegram:** [@aboutnobelcontact_bot](https://t.me/aboutnobelcontact_bot)
 * **Email:** [viatecnologia@pm.me](mailto:viatecnologia@pm.me)
+
+---
 
 ## 🌟 SPOTLIGHT: [SealyDoc Pro V4](https://sealydocv4-ubdh1d.g-shell.app/)
 ### *The Professional HACCP & Labeling Engine*
