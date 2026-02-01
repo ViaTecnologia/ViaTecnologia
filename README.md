@@ -70,7 +70,7 @@ This project is currently in an **Exclusive Alpha Phase**. We are actively selec
 #### 📧 Contact the Developer for Partnership
 Are you ready to transform your guest service into a high-performance digital asset?
 
-* **Project Lead:** [ViaTecnologia]
+* **Project Lead:** ViaTecnologia Team
 * **Telegram:** [@aboutnobelcontact_bot](https://t.me/aboutnobelcontact_bot)
 * **Email:** [viatecnologia@pm.me](mailto:viatecnologia@pm.me)
 
