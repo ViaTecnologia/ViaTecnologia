@@ -16,7 +16,7 @@ GreenGold is not a simple SaaS; it is a decentralized infrastructure designed fo
 
 ---
 
-### 📱 Mobile Ecosystem POV (55-Image Master Grid)
+### 📱 Mobile Ecosystem POV 
 *Comprehensive visualization of the end-to-end mobile experience: from Guest Retail to Industrial Backend.*
 
 <div align="center">
@@ -58,11 +58,6 @@ GreenGold is not a simple SaaS; it is a decentralized infrastructure designed fo
       <td width="25%"><img src="https://github.com/user-attachments/assets/e85624e6-0668-42e0-b9a1-620a9ddb6e16" 
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_MOB_53" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_54" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_55" width="100%"></td>
-      <td width="25%"></td>
-    </tr>
   </table>
 </div>
 
