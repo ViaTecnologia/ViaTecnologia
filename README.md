@@ -103,11 +103,11 @@ GreenGold is not a simple SaaS; it is a decentralized infrastructure designed fo
 
 ### 🎬 Technical Showcases
 <div align="center">
-  <a href="LINK_VIDEO_1" target="_blank">
+  <a href="https://github.com/user-attachments/assets/9eb2da95-9ee9-4ab9-af8d-0f08a07ca0d4" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_SYSTEM_OVERVIEW-green?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
-  <a href="LINK_VIDEO_2" target="_blank">
+  <a href="https://github.com/user-attachments/assets/b024dacb-ac95-453d-b300-7c7e83637785" target="_blank">
     <img src="https://img.shields.io/badge/PLAY_COMPLIANCE_ENGINE-gold?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
@@ -138,7 +138,7 @@ ShopFather uses an atypical, **"open account"** direct sponsorship model. Recurr
 
 <div align="center">
   <br>
-  💬 Telegram Community https://t.me/ShopFatherChat | 📧 Email: viatecnologia@pm.me
+  📧 Email: viatecnologia@pm.me
 </div>
 
 # 🎙️ [Global Luxury Voice Concierge SaaS](https://bs-n6vv36.g-shell.app)
