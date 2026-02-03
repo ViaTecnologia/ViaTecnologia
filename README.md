@@ -15,6 +15,46 @@ GreenGold is not a simple SaaS; it is a decentralized infrastructure designed fo
 * **Crypto Vault (Private Alpha):** Our high-security storage module remains in private development, focusing on NIST-grade encryption for operational data, currently bypassing public app stores for maximum privacy.
 
 ---
+![1M](https://github.com/user-attachments/assets/c793f098-0049-4d33-a0c2-d555b5df03ca)
+![2M](https://github.com/user-attachments/assets/5103283d-8611-42e4-8afe-fbba38368d82)
+![3M](https://github.com/user-attachments/assets/99a2e700-2757-413e-b90f-b49fa5960d37)
+![4M](https://github.com/user-attachments/assets/8b895437-585f-4e3b-8925-2da5943ed3d5)
+![5M](https://github.com/user-attachments/assets/38c830ca-47d8-49e6-b2d5-8e60a3e4eb6a)
+![6M](https://github.com/user-attachments/assets/fbe5de5e-51f3-4223-8b0d-eb6a22914ea8)
+![7M](https://github.com/user-attachments/assets/40d78e29-3568-4b52-8ce6-3819b6cf316b)
+![8M](https://github.com/user-attachments/assets/5a6ea2a0-1338-404e-bfa5-c245cea064dc)
+![9M](https://github.com/user-attachments/assets/b999fc14-7c00-49ec-a418-edcb0b62cd62)
+![10M](https://github.com/user-attachments/assets/a510228f-e8fe-4e7c-bbe2-8c48ace8c544)
+![11M](https://github.com/user-attachments/assets/0848cc52-54d8-4dd5-8baf-cd7e3dffbef2)
+![12M](https://github.com/user-attachments/assets/c89677bc-39cd-4450-a476-9708af62937f)
+![13M](https://github.com/user-attachments/assets/73cf6a17-d1f1-4a73-a724-e81c507ac7e3)
+![14M](https://github.com/user-attachments/assets/68c02cdc-4bca-4d68-a1b8-d9d7ac1131f0)
+![15M](https://github.com/user-attachments/assets/4ecebeec-1797-4998-a428-cec802c0ff37)
+![16M](https://github.com/user-attachments/assets/d3ef1db4-f62b-4a56-8210-29b659152d2e)
+![17M](https://github.com/user-attachments/assets/9c7469b7-3e4c-4f04-9f14-0ec57607ac44)
+![18M](https://github.com/user-attachments/assets/fea98fcc-9120-45b1-a960-93c554fe8b72)
+![19M](https://github.com/user-attachments/assets/4ee46e2f-bceb-4312-85a1-cfc8eb0e3e55)
+![20M](https://github.com/user-attachments/assets/ab8cda48-c682-4984-ad74-0912d20f837e)
+![21M](https://github.com/user-attachments/assets/fef8666a-821e-4ad1-869f-c1c8aa8e7105)
+![22M](https://github.com/user-attachments/assets/26b721b1-1b95-4ea2-beeb-f0d9e849939e)
+![23M](https://github.com/user-attachments/assets/aa6b3a6e-f117-4f8d-96dc-5be8ed36d0b5)
+![24M](https://github.com/user-attachments/assets/34766bd7-8238-4b2c-b06f-b0c94eee5ee4)
+![25M](https://github.com/user-attachments/assets/a70bd7b7-f01b-489b-b81a-b6470c8afdd1)
+![26M](https://github.com/user-attachments/assets/1faf5da4-27b4-453c-8332-6c0ba70e42ba)
+![27M](https://github.com/user-attachments/assets/31720d15-3210-4546-a89b-f0b1b803f69d)
+![28M](https://github.com/user-attachments/assets/a4a8c908-162f-4b9d-b5da-69863d279ca8)
+![29M](https://github.com/user-attachments/assets/1c699105-b371-405b-83f1-f38d8c293de8)
+![30M](https://github.com/user-attachments/assets/8c4fc94f-c641-403b-8b18-bc70f401ee04)
+![31M](https://github.com/user-attachments/assets/67ea50cf-68f5-4090-827d-c953d056e9be)
+![32M](https://github.com/user-attachments/assets/50499156-5e82-4422-af08-1621d58c7a9e)
+![33M](https://github.com/user-attachments/assets/293b82ae-d77b-46f3-9d42-90e7e866c9f0)
+![34M](https://github.com/user-attachments/assets/569f1812-4a24-44f4-9068-04dcb2b84559)
+![35M](https://github.com/user-attachments/assets/e85624e6-0668-42e0-b9a1-620a9ddb6e16)
+
+
+
+
+
 
 ### 📱 Mobile Ecosystem POV (55-Image Master Grid)
 *Comprehensive visualization of the end-to-end mobile experience: from Guest Retail to Industrial Backend.*
@@ -22,56 +62,40 @@ GreenGold is not a simple SaaS; it is a decentralized infrastructure designed fo
 <div align="center">
   <table>
     <tr>
-      <td width="25%"><img src="LINK_MOB_1" width="100%"></td><td width="25%"><img src="LINK_MOB_2" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_3" width="100%"></td><td width="25%"><img src="LINK_MOB_4" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/c793f098-0049-4d33-a0c2-d555b5df03ca" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/5103283d-8611-42e4-8afe-fbba38368d82" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/99a2e700-2757-413e-b90f-b49fa5960d37" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/8b895437-585f-4e3b-8925-2da5943ed3d5" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_MOB_5" width="100%"></td><td width="25%"><img src="LINK_MOB_6" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_7" width="100%"></td><td width="25%"><img src="LINK_MOB_8" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/38c830ca-47d8-49e6-b2d5-8e60a3e4eb6a" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/fbe5de5e-51f3-4223-8b0d-eb6a22914ea8" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/40d78e29-3568-4b52-8ce6-3819b6cf316b" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/5a6ea2a0-1338-404e-bfa5-c245cea064dc" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_MOB_9" width="100%"></td><td width="25%"><img src="LINK_MOB_10" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_11" width="100%"></td><td width="25%"><img src="LINK_MOB_12" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/b999fc14-7c00-49ec-a418-edcb0b62cd62" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/a510228f-e8fe-4e7c-bbe2-8c48ace8c544" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/0848cc52-54d8-4dd5-8baf-cd7e3dffbef2" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/c89677bc-39cd-4450-a476-9708af62937f" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_MOB_13" width="100%"></td><td width="25%"><img src="LINK_MOB_14" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_15" width="100%"></td><td width="25%"><img src="LINK_MOB_16" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/73cf6a17-d1f1-4a73-a724-e81c507ac7e3" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/68c02cdc-4bca-4d68-a1b8-d9d7ac1131f0" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/4ecebeec-1797-4998-a428-cec802c0ff37" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/d3ef1db4-f62b-4a56-8210-29b659152d2e" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_MOB_17" width="100%"></td><td width="25%"><img src="LINK_MOB_18" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_19" width="100%"></td><td width="25%"><img src="LINK_MOB_20" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/9c7469b7-3e4c-4f04-9f14-0ec57607ac44" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/fea98fcc-9120-45b1-a960-93c554fe8b72" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/4ee46e2f-bceb-4312-85a1-cfc8eb0e3e55" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/ab8cda48-c682-4984-ad74-0912d20f837e" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_MOB_21" width="100%"></td><td width="25%"><img src="LINK_MOB_22" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_23" width="100%"></td><td width="25%"><img src="LINK_MOB_24" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/fef8666a-821e-4ad1-869f-c1c8aa8e7105" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/26b721b1-1b95-4ea2-beeb-f0d9e849939e" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/aa6b3a6e-f117-4f8d-96dc-5be8ed36d0b5" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/34766bd7-8238-4b2c-b06f-b0c94eee5ee4" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_MOB_25" width="100%"></td><td width="25%"><img src="LINK_MOB_26" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_27" width="100%"></td><td width="25%"><img src="LINK_MOB_28" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/a70bd7b7-f01b-489b-b81a-b6470c8afdd1" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/1faf5da4-27b4-453c-8332-6c0ba70e42ba" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/31720d15-3210-4546-a89b-f0b1b803f69d" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/a4a8c908-162f-4b9d-b5da-69863d279ca8" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_MOB_29" width="100%"></td><td width="25%"><img src="LINK_MOB_30" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_31" width="100%"></td><td width="25%"><img src="LINK_MOB_32" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/1c699105-b371-405b-83f1-f38d8c293de8" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/8c4fc94f-c641-403b-8b18-bc70f401ee04" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/67ea50cf-68f5-4090-827d-c953d056e9be" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/50499156-5e82-4422-af08-1621d58c7a9e" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_MOB_33" width="100%"></td><td width="25%"><img src="LINK_MOB_34" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_35" width="100%"></td><td width="25%"><img src="LINK_MOB_36" width="100%"></td>
-    </tr>
-    <tr>
-      <td width="25%"><img src="LINK_MOB_37" width="100%"></td><td width="25%"><img src="LINK_MOB_38" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_39" width="100%"></td><td width="25%"><img src="LINK_MOB_40" width="100%"></td>
-    </tr>
-    <tr>
-      <td width="25%"><img src="LINK_MOB_41" width="100%"></td><td width="25%"><img src="LINK_MOB_42" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_43" width="100%"></td><td width="25%"><img src="LINK_MOB_44" width="100%"></td>
-    </tr>
-    <tr>
-      <td width="25%"><img src="LINK_MOB_45" width="100%"></td><td width="25%"><img src="LINK_MOB_46" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_47" width="100%"></td><td width="25%"><img src="LINK_MOB_48" width="100%"></td>
-    </tr>
-    <tr>
-      <td width="25%"><img src="LINK_MOB_49" width="100%"></td><td width="25%"><img src="LINK_MOB_50" width="100%"></td>
-      <td width="25%"><img src="LINK_MOB_51" width="100%"></td><td width="25%"><img src="LINK_MOB_52" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/293b82ae-d77b-46f3-9d42-90e7e866c9f0" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/569f1812-4a24-44f4-9068-04dcb2b84559" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/e85624e6-0668-42e0-b9a1-620a9ddb6e16" 
     </tr>
     <tr>
       <td width="25%"><img src="LINK_MOB_53" width="100%"></td>
@@ -155,7 +179,7 @@ ShopFather uses an atypical, **"open account"** direct sponsorship model. Recurr
 
 <div align="center">
   <br>
-  💬 [**Telegram Community**](https://t.me/ShopFatherChat) | 📧 **Email: viatecnologia@pm.me**
+  💬 Telegram Community https://t.me/ShopFatherChat | 📧 Email: viatecnologia@pm.me
 </div>
 
 # 🎙️ [Global Luxury Voice Concierge SaaS](https://bs-n6vv36.g-shell.app)
