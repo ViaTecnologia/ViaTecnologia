@@ -9,7 +9,7 @@
 
 ### 🏛️ Strategic Architecture & 2026 Logic
 GreenGold is not a simple SaaS; it is a decentralized infrastructure designed for the 2026 market:
-* **The LabelForge x SealyDoc Nexus:** We have successfully integrated SealyDoc's compliance algorithms into **LabelForge**. The result is an automated engine that generates HACCP-compliant labels, social assets, and traceability reports in a single, unified workflow.
+* **The LabelForge x SealyDoc:** We have successfully integrated SealyDoc's compliance algorithms into **LabelForge**. The result is an automated engine that generates HACCP-compliant labels, social assets, and traceability reports in a single, unified workflow.
 * **Mini Playstore Model:** Merchants operate on their own sovereign infrastructure. By self-hosting the source code, businesses eliminate "De-platforming" risks and data leaks.
 * **Zero-Fee Economic Model:** We act as a technology enabler. 0% transaction fees. 100% margin retention for the producer.
 * **Crypto Vault (Private Alpha):** Our high-security storage module remains in private development, focusing on NIST-grade encryption for operational data, currently bypassing public app stores for maximum privacy.
