@@ -136,7 +136,6 @@ ShopFather uses an atypical, **"open account"** direct sponsorship model. Recurr
 
 ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for ongoing development, please contact us via **Email** or **Telegram**.
 
-<div align="center">
   <br>
   📧 Email: viatecnologia@pm.me
 </div>
