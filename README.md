@@ -63,7 +63,7 @@ GreenGold is not a simple SaaS; it is a decentralized infrastructure designed fo
 
 ---
 
-### 💻 Desktop Industrial Dashboard (21-Image Grid)
+### 💻 Desktop Industrial Dashboard 
 *Command & Control center for global agricultural operations.*
 
 <div align="center">
