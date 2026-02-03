@@ -74,28 +74,27 @@ GreenGold is not a simple SaaS; it is a decentralized infrastructure designed fo
 <div align="center">
   <table>
     <tr>
-      <td width="25%"><img src="LINK_DSK_1" width="100%"></td><td width="25%"><img src="LINK_DSK_2" width="100%"></td>
-      <td width="25%"><img src="LINK_DSK_3" width="100%"></td><td width="25%"><img src="LINK_DSK_4" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/ae8301a2-2498-4db6-abf4-c8ebb2705f4b" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/a50c8289-a4c4-4c9c-a67a-5a2bf80589fa" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/8cc19e91-5929-402e-9866-5f6e04c6b7b6" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/6d55c7fd-dc74-4d90-84ca-aea2224754aa" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_DSK_5" width="100%"></td><td width="25%"><img src="LINK_DSK_6" width="100%"></td>
-      <td width="25%"><img src="LINK_DSK_7" width="100%"></td><td width="25%"><img src="LINK_DSK_8" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/ad78584e-d678-48ff-b23b-a9638ed00494" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/167f4ae8-e743-4c82-9848-a85ac6208270" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/f67d438e-abe6-4390-9232-97f796d6011b" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/f2ae1fc0-f9ee-4b22-be7c-9e8899ba9fc0" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_DSK_9" width="100%"></td><td width="25%"><img src="LINK_DSK_10" width="100%"></td>
-      <td width="25%"><img src="LINK_DSK_11" width="100%"></td><td width="25%"><img src="LINK_DSK_12" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/4f2061e6-14bd-4426-891f-f57233e8e286" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/300ce0dd-3000-4bc0-8012-11684dc13108" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/2250d919-701c-4012-b79c-f2bca920430a" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/a83614bb-b743-4389-810c-d59e5f654ecd" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_DSK_13" width="100%"></td><td width="25%"><img src="LINK_DSK_14" width="100%"></td>
-      <td width="25%"><img src="LINK_DSK_15" width="100%"></td><td width="25%"><img src="LINK_DSK_16" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/914dfe96-f2e0-40c0-b647-ddd6e0f84530" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/60c9df7d-512c-460a-bd89-9a303f08e872" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/12d67c10-0964-4c50-9b05-bc48bc8ee1a8" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/441f3dae-56ef-4179-962f-a994ecab0f93" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_DSK_17" width="100%"></td><td width="25%"><img src="LINK_DSK_18" width="100%"></td>
-      <td width="25%"><img src="LINK_DSK_19" width="100%"></td><td width="25%"><img src="LINK_DSK_20" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/fc1d3f8a-be2e-46c8-8304-511b63be395d" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/ffcf3bff-df28-447d-8d37-d0bdfcf9fe44" width="100%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/18885a41-e371-43ff-86ba-cf1587b7ea66" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/be38a2d7-7d65-4f73-accf-0ed0e78cabae" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="LINK_DSK_21" width="100%"></td>
-      <td width="25%"></td><td width="25%"></td><td width="25%"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/a765ab1d-5af6-47e6-91fa-892ed2dcb866" width="100%"></td>
     </tr>
   </table>
 </div>
