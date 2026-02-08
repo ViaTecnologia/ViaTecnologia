@@ -71,47 +71,47 @@ The Oravox ecosystem consolidates 5–7 separate hospitality tools into a single
     <td width="25%"><img src="https://github.com/user-attachments/assets/b788846c-d2d0-4fec-bead-122a8f415b91" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/cacab3e7-f201-4ba0-a006-455b3b565db8" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_21" width="100%"></td><td width="25%"><img src="LINK_DSK_22" width="100%"></td>
-    <td width="25%"><img src="LINK_DSK_23" width="100%"></td><td width="25%"><img src="LINK_DSK_24" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/0f688b11-c07a-4a23-b95e-893ed4a57733" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/ecf5ac84-b572-4ed3-bc79-a57328a5d543" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/21e44521-65bf-41a4-b9d4-0a9122501e1e" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/0d3df929-8d25-4308-8f2b-a26710c5fa41" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_25" width="100%"></td><td width="25%"><img src="LINK_DSK_26" width="100%"></td>
-    <td width="25%"><img src="LINK_DSK_27" width="100%"></td><td width="25%"><img src="LINK_DSK_28" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/ea2f207c-80f0-4575-86ea-453e27f9d907" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/71cf1bd7-6f4f-440d-ad12-b6fd22dd9300" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/c1452667-d23a-4bc9-92ba-882049603ab9" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/7afee864-a818-4838-804b-3704434a8aa7" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_29" width="100%"></td><td width="25%"><img src="LINK_DSK_30" width="100%"></td>
-    <td width="25%"><img src="LINK_DSK_31" width="100%"></td><td width="25%"><img src="LINK_DSK_32" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/fb8ba1e6-9e0c-4c63-9c1e-31faa4bd9d61" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/59d5b04e-706f-4cba-9d03-7b30ab9f0ab0" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/3156f265-d515-4d37-892c-33f1496df459" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/12b997ba-33c6-4914-b993-88f695551b9b" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_33" width="100%"></td><td width="25%"><img src="LINK_DSK_34" width="100%"></td>
-    <td width="25%"><img src="LINK_DSK_35" width="100%"></td><td width="25%"><img src="LINK_DSK_36" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/4f2be65e-8e3f-4bb3-95b3-f5cfd953528e" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/b7aa2afa-c215-40eb-ba01-63330b650683" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/da894cc0-5db4-453a-844d-c6353a2d72c1" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/39ffa595-b6da-45f0-b3f1-8b5e1bc19f4f" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_37" width="100%"></td><td width="25%"><img src="LINK_DSK_38" width="100%"></td>
-    <td width="25%"><img src="LINK_DSK_39" width="100%"></td><td width="25%"><img src="LINK_DSK_40" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/dbe14ecf-6637-429c-9171-028e4cb0fdbc" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/bcec48e4-a825-462e-9f3e-493e0f0e7c53" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/00a14ffc-38bc-4d8d-8f4f-48baf72451ef" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/903e0386-408f-4b86-88b3-61744bd52ede" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_41" width="100%"></td><td width="25%"><img src="LINK_DSK_42" width="100%"></td>
-    <td width="25%"><img src="LINK_DSK_43" width="100%"></td><td width="25%"><img src="LINK_DSK_44" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/aef98156-3d0e-4833-8e9c-341d6b86892b" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/926c2225-0532-4b29-9dbc-f021ea7b113f" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/df2b4a86-36df-4f77-8464-c3d709a0fbfe" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/afa28514-a268-40e9-8495-86d51b28c459" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_45" width="100%"></td><td width="25%"><img src="LINK_DSK_46" width="100%"></td>
-    <td width="25%"><img src="LINK_DSK_47" width="100%"></td><td width="25%"><img src="LINK_DSK_48" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/c243ea7b-6d14-422b-9abf-58926c9987db" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/9154b3d7-71fb-41fc-b8a3-645de6fb0311" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/4ffa501b-58e8-452c-9996-28cc47a91315" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/b56aa2f1-c8fb-4baf-a0cc-a11bd5b010be" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_49" width="100%"></td><td width="25%"><img src="LINK_DSK_50" width="100%"></td>
-    <td width="25%"><img src="LINK_DSK_51" width="100%"></td><td width="25%"><img src="LINK_DSK_52" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/474703d7-253b-4e21-8941-b597ec345168" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/dca19707-290b-45f9-9ecf-8ea7ecd6edff" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/129e8509-574f-4c03-91d3-0bd6fa213bef" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/568e808c-80fc-4a0e-9597-c226609d52e9" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_53" width="100%"></td><td width="25%"><img src="LINK_DSK_54" width="100%"></td>
-    <td width="25%"><img src="LINK_DSK_55" width="100%"></td><td width="25%"><img src="LINK_DSK_56" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/0311fe5f-133a-4f22-8bd7-2bf4db25607c" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/347f5308-1d30-405a-8c95-3410deb0048f" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/1e5f69c8-5f95-4dd5-a6b4-7a90b32a82ab" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/53abdf36-4644-4fff-8031-e31ecad65ca0" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_57" width="100%"></td><td width="25%"><img src="LINK_DSK_58" width="100%"></td>
-    <td width="25%"><img src="LINK_DSK_59" width="100%"></td><td width="25%"><img src="LINK_DSK_60" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/c4a9779e-4f04-4870-8966-bcea44eebc7a" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/45d6bff7-d47b-47d1-a4df-8d9239c54796" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/51203021-cdba-4c63-914d-9d19c865b484" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/621350ed-78d9-433c-b7dd-5fa16d32dea4" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="LINK_DSK_61" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/84db53c6-e461-4aa3-88a5-960bdd90b201" width="100%"></td>
     <td width="25%"></td><td width="25%"></td><td width="25%"></td>
   </tr>
 </table>
