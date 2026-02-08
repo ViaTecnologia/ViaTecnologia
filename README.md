@@ -3,7 +3,7 @@
 # 🎙️ Oravox.io | The Neural Frontier of Hospitality
 ### *Autonomous Voice Intelligence & Hotel Management Operating System*
 
-**Oravox.io by ViaTecnologia Team** is an elite, enterprise-grade ecosystem engineered to decentralize and automate hotel front-desk operations through neural voice processing. Unlike standard legacy systems, Oravox deploys the **Sarah Neural Kernel**—a proprietary voice engine that handles guest interactions with human-like latency and total operational autonomy.
+**Oravox.io by ViaTecnologia Team** is an elite, enterprise-grade ecosystem engineered to automate hotel front-desk operations through neural voice processing. Unlike standard legacy systems, Oravox deploys the **Sarah Neural Kernel**—a proprietary voice engine that handles guest interactions with human-like latency and total operational autonomy.
 
 ---
 
