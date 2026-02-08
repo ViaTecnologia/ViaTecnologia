@@ -140,15 +140,15 @@ Oravox is built for speed. New properties can go live in three simple steps:
 ### 🎬 Technical Showcases
 
 <div align="center">
-  <a href="LINK_VIDEO_IT" target="_blank">
+  <a href="https://github.com/user-attachments/assets/68546dfa-4e5a-405a-9f11-d5b6dab7fe83" target="_blank">
     <img src="https://img.shields.io/badge/SARAH_IT_ENGINE-🇮🇹_DEMO-green?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
-  <a href="LINK_VIDEO_AL" target="_blank">
+  <a href="https://github.com/user-attachments/assets/3b91dacc-41cf-4c4c-bd7a-57ef760cbf53" target="_blank">
     <img src="https://img.shields.io/badge/SARAH_AL_ENGINE-🇦🇱_DEMO-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
-  <a href="LINK_VIDEO_ZH" target="_blank">
+  <a href="https://github.com/user-attachments/assets/7d14f9da-a8bf-46f6-b296-a2cb91d51bd4" target="_blank">
     <img src="https://img.shields.io/badge/SARAH_ZH_ENGINE-🇨🇳_DEMO-gold?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
