@@ -13,7 +13,7 @@ Oravox is not just a voice assistant; it is a full-stack automation layer design
 
 * **Neural Voice Autonomy (VoNN):** A proprietary Voice-over-Neural-Network system with **98.5% speech recognition accuracy**, ensuring a near-perfect call capture rate even with heavy regional accents.
 * **Sarah-Core Multi-Language:** Native-level fluency in Italian, Albanian, Chinese, and other global languages. Instant language detection allows for seamless international guest management.
-* **Direct-to-PMS Nexus:** Deep integration with industry-leading Property Management Systems (Cloudbeds, Mews, Opera). The AI checks room availability, processes bookings, and updates the CRM in real-time.
+* **Direct-to-PMS:** Deep integration with industry-leading Property Management Systems (Cloudbeds, Mews, Opera). The AI checks room availability, processes bookings, and updates the CRM in real-time.
 * **Zero-Wait Logic:** Handles up to **500 simultaneous calls** with a **2.1s average response time**, eliminating hold times and reducing front-desk overhead by automating up to **45% of standard inquiries**.
 
 ---
