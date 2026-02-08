@@ -172,7 +172,7 @@ Oravox.io uses a direct sponsorship model. Recurring cryptocurrency payments and
 
 ### Developed by **ViaTecnologia Team**
 
-💬 [**Telegram Community**](https://t.me/OravoxChat) | 📧 **Email: viatecnologia@pm.me**
+📧 **Email: oravoxcompany@pm.me**
 
 © 2026 Oravox.io | The Future of Autonomous Hospitality
 </div>
