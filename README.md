@@ -168,8 +168,6 @@ Oravox.io uses a direct sponsorship model. Recurring cryptocurrency payments and
 
 ---
 
-<div align="center">
-
 ### Developed by **ViaTecnologia Team**
 
 📧 **Email: oravoxcompany@pm.me**
