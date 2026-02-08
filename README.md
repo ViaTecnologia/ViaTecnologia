@@ -1,5 +1,182 @@
 <img src="https://komarev.com/ghpvc/?username=ViaTecnologia&label=GitHub+Profile+Views&color=blue&style=for-the-badge" alt="ViaTecnologia Views" />
 
+# 🎙️ Oravox.io | The Neural Frontier of Hospitality
+### *Autonomous Voice Intelligence & Hotel Management Operating System*
+
+**Oravox.io by ViaTecnologia Team** is an elite, enterprise-grade ecosystem engineered to decentralize and automate hotel front-desk operations through neural voice processing. Unlike standard legacy systems, Oravox deploys the **Sarah Neural Kernel**—a proprietary voice engine that handles guest interactions with human-like latency and total operational autonomy.
+
+---
+
+### 🏛️ Strategic Architecture & 2026 Logic
+
+Oravox is not just a voice assistant; it is a full-stack automation layer designed for the 2026 hospitality market:
+
+* **Neural Voice Autonomy (VoNN):** A proprietary Voice-over-Neural-Network system with **98.5% speech recognition accuracy**, ensuring a near-perfect call capture rate even with heavy regional accents.
+* **Sarah-Core Multi-Language:** Native-level fluency in Italian, Albanian, Chinese, and other global languages. Instant language detection allows for seamless international guest management.
+* **Direct-to-PMS Nexus:** Deep integration with industry-leading Property Management Systems (Cloudbeds, Mews, Opera). The AI checks room availability, processes bookings, and updates the CRM in real-time.
+* **Zero-Wait Logic:** Handles up to **500 simultaneous calls** with a **2.1s average response time**, eliminating hold times and reducing front-desk overhead by automating up to **45% of standard inquiries**.
+
+---
+
+### 🛠️ Core Capabilities & Operational Intelligence
+
+The Oravox ecosystem consolidates 5–7 separate hospitality tools into a single, unified command center:
+
+#### 📊 Industrial Dashboard & Analytics
+* **Real-Time Metrics:** Instant visualization of **Occupancy %**, **Daily Revenue**, **ADR (Average Daily Rate)**, and **RevPAR**.
+* **Occupancy Heatmaps:** A 14-day forecasting engine that visualizes upcoming demand and booking density to optimize pricing strategies.
+* **Live Staff Audit:** Monitor active users, recent logins, and operational actions for total internal security.
+
+#### 💬 Neural Communication & Bureaucracy
+* **Omnichannel Inbox:** Unifies Booking.com messages, Airbnb chats, Emails, and WhatsApp into a single thread per guest.
+* **Auto-Bureaucracy Engine:** Automatically generates and sends "Schedine Alloggiati" (Police Reports) and ISTAT data, ensuring full regulatory compliance without manual data entry.
+* **Smart Follow-up:** Sarah automatically dispatches WhatsApp/SMS confirmations post-call with booking summaries, location pins, and QR codes for self-check-in.
+
+#### 💸 Financial Sovereignty & Compliance
+* **Automated Folio Generation:** The system auto-compiles guest expenses, room charges, and extra services into a single, tax-compliant invoice.
+* **City Tax & VAT Logic:** Built-in algorithms automatically calculate regional City Taxes and VAT splits based on guest origin and length of stay.
+* **Frictionless Billing:** One-click invoice splitting (by guest or by room) and instant PDF export for corporate expensing.
+
+#### 🏨 Smart Inventory & Global Sync
+* **2-Way Channel Manager:** Real-time synchronization with Booking.com, Airbnb, and Expedia. Prevents overbookings by locking inventory across all platforms in milliseconds.
+* **Dynamic Room Orchestration:** Toggle between "Board View" (visual floor plan) and "List View" (high-density data) to manage housekeeping status (**Vacant Clean, Occupied Dirty**).
+* **Guest Loyalty Engine:** Advanced CRM profiling with automated tiering (**Silver, Gold, Platinum, Diamond**) based on lifetime value (LTV).
+
+---
+
+### 💻 Desktop Management Suite (61-Image Master Grid)
+*Industrial-grade command & control center for real-time hotel orchestration.*
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/ea635a64-bf07-42fb-a29f-2daaccb6217f" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/45a8cc3e-5dfa-451e-85c1-9cbb8321beb4" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/04181ba1-e561-49cc-9125-996e13c5b350" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/ece14310-0376-407f-ae71-5096565601c4" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/44f715d0-644f-4d58-9dc5-60eaa1711487" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/c498cca8-082c-4e2b-b5db-54e129a38149" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/2e0fa586-6491-4442-9306-4bac2aa3629f" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/f8a08de8-fa59-47f6-b1d4-6fc598232636" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/dad60055-ea1b-422d-8c74-f600b17ee52f" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/859b7453-67cd-4c8d-81ce-9baee8716edb" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/43cfd0cd-4140-45bc-b394-b700cca8939f" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/228e813b-95f5-423f-8d9d-18eee3e60933" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/a3ecc666-9fbf-4847-b5f7-0ce9ee91e1d3" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/e3fcfcfc-53e7-4d53-a96c-fd805bc92bf7" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/17811b05-0a33-4e07-93e0-4943a9a346c8" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/5e299530-5c76-4b3c-8052-13bbd229d660" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/4f446885-528c-4dfa-940f-bf96d46edee5" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/7f785e4e-f0d7-4c1b-ad2d-63c931e54af1" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/b788846c-d2d0-4fec-bead-122a8f415b91" width="100%"></td><td width="25%"><img src="https://github.com/user-attachments/assets/cacab3e7-f201-4ba0-a006-455b3b565db8" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_21" width="100%"></td><td width="25%"><img src="LINK_DSK_22" width="100%"></td>
+    <td width="25%"><img src="LINK_DSK_23" width="100%"></td><td width="25%"><img src="LINK_DSK_24" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_25" width="100%"></td><td width="25%"><img src="LINK_DSK_26" width="100%"></td>
+    <td width="25%"><img src="LINK_DSK_27" width="100%"></td><td width="25%"><img src="LINK_DSK_28" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_29" width="100%"></td><td width="25%"><img src="LINK_DSK_30" width="100%"></td>
+    <td width="25%"><img src="LINK_DSK_31" width="100%"></td><td width="25%"><img src="LINK_DSK_32" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_33" width="100%"></td><td width="25%"><img src="LINK_DSK_34" width="100%"></td>
+    <td width="25%"><img src="LINK_DSK_35" width="100%"></td><td width="25%"><img src="LINK_DSK_36" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_37" width="100%"></td><td width="25%"><img src="LINK_DSK_38" width="100%"></td>
+    <td width="25%"><img src="LINK_DSK_39" width="100%"></td><td width="25%"><img src="LINK_DSK_40" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_41" width="100%"></td><td width="25%"><img src="LINK_DSK_42" width="100%"></td>
+    <td width="25%"><img src="LINK_DSK_43" width="100%"></td><td width="25%"><img src="LINK_DSK_44" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_45" width="100%"></td><td width="25%"><img src="LINK_DSK_46" width="100%"></td>
+    <td width="25%"><img src="LINK_DSK_47" width="100%"></td><td width="25%"><img src="LINK_DSK_48" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_49" width="100%"></td><td width="25%"><img src="LINK_DSK_50" width="100%"></td>
+    <td width="25%"><img src="LINK_DSK_51" width="100%"></td><td width="25%"><img src="LINK_DSK_52" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_53" width="100%"></td><td width="25%"><img src="LINK_DSK_54" width="100%"></td>
+    <td width="25%"><img src="LINK_DSK_55" width="100%"></td><td width="25%"><img src="LINK_DSK_56" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_57" width="100%"></td><td width="25%"><img src="LINK_DSK_58" width="100%"></td>
+    <td width="25%"><img src="LINK_DSK_59" width="100%"></td><td width="25%"><img src="LINK_DSK_60" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="LINK_DSK_61" width="100%"></td>
+    <td width="25%"></td><td width="25%"></td><td width="25%"></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🚀 Rapid Deployment & Subscriptions
+
+Oravox is built for speed. New properties can go live in three simple steps:
+1.  **Sign Up:** Create your property profile in under 2 minutes.
+2.  **Setup:** Map your inventory and configure the Sarah AI Kernel personality.
+3.  **Launch:** Go live and start automating your front desk instantly.
+
+| Plan | Pricing | Features |
+| :--- | :--- | :--- |
+| **Starter** | $49/mo | Up to 20 rooms, standard AI Voice features, 14-day history. |
+| **Professional** | $149/mo | Up to 100 rooms, full CRM & Analytics, priority support. |
+| **Enterprise** | Custom | Unlimited rooms, White-labeling, dedicated cluster & API access. |
+
+> All plans include a **14-day free trial** with no credit card required.
+
+---
+
+### 🎬 Technical Showcases
+
+<div align="center">
+  <a href="LINK_VIDEO_IT" target="_blank">
+    <img src="https://img.shields.io/badge/SARAH_IT_ENGINE-🇮🇹_DEMO-green?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="LINK_VIDEO_AL" target="_blank">
+    <img src="https://img.shields.io/badge/SARAH_AL_ENGINE-🇦🇱_DEMO-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="LINK_VIDEO_ZH" target="_blank">
+    <img src="https://img.shields.io/badge/SARAH_ZH_ENGINE-🇨🇳_DEMO-gold?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🤝 Become a Stakeholder | Oravox.io Partner Program
+
+Oravox.io uses a direct sponsorship model. Recurring cryptocurrency payments and strategic investments finance the scaling of our neural infrastructure.
+
+| Support Tier | Contribution | Exclusive Benefits |
+| :--- | :--- | :--- |
+| **Stakeholder Partner** | Proportional Share | Partner status, voting rights on the 2026 roadmap, and ecosystem equity. |
+| **Corporate Sponsorship** | Contact Dev | Enterprise white-labeling, dedicated hosting, and bespoke AI training. |
+
+ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for ongoing development, please contact us via Email or Telegram.
+
+---
+
+<div align="center">
+
+### Developed by **ViaTecnologia Team**
+
+💬 [**Telegram Community**](https://t.me/OravoxChat) | 📧 **Email: viatecnologia@pm.me**
+
+© 2026 Oravox.io | The Future of Autonomous Hospitality
+</div>
+
 # 🌿 GreenGold | The High-Value Agri-Tech Operating System
 ### *Digital Sovereignty & Regulatory Compliance for Global Agricultural Markets*
 
