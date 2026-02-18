@@ -33,7 +33,7 @@ The platform is designed to convert raw industrial data—ranging from high-reso
 
 | 🛰️ GIS & Asset Mapping | 🧠 Neural Anomaly Detection | ☁️ LiDAR Analysis |
 | :---: | :---: | :---: |
-| <img src="IMAGE_LINK_1" width="100%"> | <img src="IMAGE_LINK_2" width="100%"> | <img src="IMAGE_LINK_3" width="100%"> |
+| <img src="https://github.com/user-attachments/assets/122c3bc7-22de-4adc-a698-bbfe5d7fdb98" width="100%"> | <img src="https://github.com/user-attachments/assets/7d564664-d18b-4c80-ab1a-e21ff60deacd" width="100%"> | <img src="https://github.com/user-attachments/assets/ecc3b03e-b532-4ff0-8b60-09b13adc3745" width="100%"> |
 | *Spatial Data Visualization* | *Automated Feature Detection* | *Point Cloud Processing* |
 
 </div>
