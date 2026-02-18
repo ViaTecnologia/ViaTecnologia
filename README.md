@@ -1,5 +1,56 @@
 <img src="https://komarev.com/ghpvc/?username=ViaTecnologia&label=GitHub+Profile+Views&color=blue&style=for-the-badge" alt="ViaTecnologia Views" />
 
+### 🚀 Strategic Portfolio Overview
+*A collection of high-performance, serverless, and AI-driven solutions for the modern digital economy.*
+
+| Project & Concept | Strategic Pillar | Core Tech Stack | Value Proposition / Problem Solved |
+| :--- | :--- | :--- | :--- |
+| **🛰️ Industrial Geospatial** | **Data Engineering / GIS** | CV, LiDAR, Spatial Logic | **Autonomous Auditing:** Automated aerial inspection engine for infrastructure, reducing processing times by 80%. |
+| **🛡️ ViaTecnologia Elite** | **Offensive Security** | Rust, Adversarial AI | **Adversarial Simulations:** Industrial-grade Rust engine for memory-safe exploits, AI robustness testing, and advanced vulnerability research. |
+| **🎙️ Oravox.io** | **Hospitality AI** | Sarah Neural Kernel, VoNN | **Front-Desk Automation:** Autonomous voice intelligence and hotel management OS with human-like latency and direct PMS sync. |
+| **🌿 GreenGold** | **Agri-Tech / Compliance** | Decentralized SaaS, SealyDoc API | **Digital Sovereignty:** Self-hosted ecosystem for high-value agricultural supply chains, combining traceability with financial privacy. |
+| **🎙️ Global Luxury Voice** | **Luxury Hospitality AI**| Voice-First SaaS, NLP | **High-Touch Conversion:** Bespoke vocal intelligence layer replacing static web forms for elite resort bookings and guest services. |
+| **🌌 VIA OS** | **AI Operating System** | React, Zero-Prompt Arch | **Execution Layer:** Action-oriented, Netflix-style OS that replaces passive chatbots with specialized Neural Kernels for professional execution. |
+| **🌟 SealyDoc Pro V4** | **Food-Tech / SaaS** | Client-Side JS, QR Engine | **Compliance Automation:** Eliminating paper risks in the Horeca sector with offline-first HACCP tracking. |
+| **🛍️ ShopFather Web** | **E-commerce P2P** | Serverless Micro SaaS | **Frictionless Retail:** Building a Telegram-based store network with zero platform fees and total privacy. |
+| **🏷️ LabelForge V29** | **Traceability** | CSV-to-Graphic Engine | **Market Compliance:** Dynamic labeling and social asset generation for emerging legal crops. |
+| **🔐 Crypto Vault Pro** | **Data Privacy** | NIST AES-256-GCM, PBKDF2 | **Zero-Knowledge Storage:** Portable, self-executable HTML vaults that decrypt data locally without servers. |
+| **🚕 Driver4You** | **Mobility / AI** | Prompt-to-Code AI | **Industry Disruption:** Empowering local transport fleets to own their platform with AI-generated White Label apps. |
+| **🚀 Beavip SMM** | **Digital Marketing** | React, Tailwind, Telegram Bridge | **Lead Generation:** A database-less service configurator that converts user requests directly into Telegram orders. |
+| **🚜 Belotti Quote Pro** | **Industrial CPQ** | Vanilla JS, jsPDF | **Zero-Latency Quoting:** Real-time professional PDF generation for agricultural sales teams in the field. |
+| **🛡️ CyberSuite** | **Cyber-Security** | Next.js 14, Framer Motion | **Human-Risk Simulation:** Training employees against phishing/malware in a safe, high-fidelity visual environment. |
+| **🧪 DOSE.** | **Digital Awareness** | React, Tailwind, PWA | **Self-Awareness Engine:** Quantifying digital focus and security consciousness with zero-knowledge privacy. |
+
+---
+
+## Contact & Collaboration
+
+For Jobs, demos, partnerships, sponsorships, or further information:
+
+✉️ Email: viatecnologia@pm.me  
+🌐 Portfolio: [https://github.com/ViaTecnologia](https://github.com/ViaTecnologia)  
+📍 Based Remote
+
+---
+
+## Donations Support 🙏
+
+If you appreciate the work and want to support its ongoing development, you can donate using the following cryptocurrency addresses:
+
+[<img src="https://cryptologos.cc/logos/monero-xmr-logo.svg?v=024" alt="Monero" height="24px" />](https://www.getmonero.org) **Monero (XMR):**  
+`85k7WENurMjWd1fkyYggMKE2n4Hsn2G43X2Ew3aokQwLVPLXxTZftuoeww7T5hQxLx7e6rJG1CLX5TuQB2j29GRsACs3t8A`
+
+[<img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.svg?v=024" alt="Bitcoin Cash" height="24px" />](https://bitcoincash.org) **Bitcoin Cash (BCH):**  
+`qpnzsnxtx074vhpxs3p3y9myl0502qsczsthka7jda`
+
+---
+
+Thank you for your support!
+
+*Document updated by ViaTecnologia Team - February 19-02-2026*
+
+---
+
 # 🛰️ Industrial Geospatial Inspection & Data Processing Engine
 ### *Autonomous Data Orchestration & High-Performance Analytical Platform*
 
@@ -1413,6 +1464,12 @@ Need a bespoke version of DOSE. or a tailored security dashboard for your organi
 
 | Project & Concept | Strategic Pillar | Core Tech Stack | Value Proposition / Problem Solved |
 | :--- | :--- | :--- | :--- |
+| **🛰️ Industrial Geospatial** | **Data Engineering / GIS** | CV, LiDAR, Spatial Logic | **Autonomous Auditing:** Automated aerial inspection engine for infrastructure, reducing processing times by 80%. |
+| **🛡️ ViaTecnologia Elite** | **Offensive Security** | Rust, Adversarial AI | **Adversarial Simulations:** Industrial-grade Rust engine for memory-safe exploits, AI robustness testing, and advanced vulnerability research. |
+| **🎙️ Oravox.io** | **Hospitality AI** | Sarah Neural Kernel, VoNN | **Front-Desk Automation:** Autonomous voice intelligence and hotel management OS with human-like latency and direct PMS sync. |
+| **🌿 GreenGold** | **Agri-Tech / Compliance** | Decentralized SaaS, SealyDoc API | **Digital Sovereignty:** Self-hosted ecosystem for high-value agricultural supply chains, combining traceability with financial privacy. |
+| **🎙️ Global Luxury Voice** | **Luxury Hospitality AI**| Voice-First SaaS, NLP | **High-Touch Conversion:** Bespoke vocal intelligence layer replacing static web forms for elite resort bookings and guest services. |
+| **🌌 VIA OS** | **AI Operating System** | React, Zero-Prompt Arch | **Execution Layer:** Action-oriented, Netflix-style OS that replaces passive chatbots with specialized Neural Kernels for professional execution. |
 | **🌟 SealyDoc Pro V4** | **Food-Tech / SaaS** | Client-Side JS, QR Engine | **Compliance Automation:** Eliminating paper risks in the Horeca sector with offline-first HACCP tracking. |
 | **🛍️ ShopFather Web** | **E-commerce P2P** | Serverless Micro SaaS | **Frictionless Retail:** Building a Telegram-based store network with zero platform fees and total privacy. |
 | **🏷️ LabelForge V29** | **Traceability** | CSV-to-Graphic Engine | **Market Compliance:** Dynamic labeling and social asset generation for emerging legal crops. |
@@ -1431,7 +1488,7 @@ For demos, partnerships, sponsorships, or further information:
 
 ✉️ Email: viatecnologia@pm.me  
 🌐 Portfolio: [https://github.com/ViaTecnologia](https://github.com/ViaTecnologia)  
-📍 Based in Italy
+📍 Based remote
 
 ---
 
