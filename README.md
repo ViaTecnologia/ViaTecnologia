@@ -1451,4 +1451,4 @@ Thank you for your support!
 
 ---
 
-*Document updated by ViaTecnologia - January 2026*
+*Document updated by ViaTecnologia - February 2026*
