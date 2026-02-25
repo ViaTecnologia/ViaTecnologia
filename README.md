@@ -5,6 +5,7 @@
 
 | Project & Concept | Strategic Pillar | Core Tech Stack | Value Proposition / Problem Solved |
 | :--- | :--- | :--- | :--- |
+| **💎 Fintech Asset Engine** | **Fintech / Legacy Modernization** | React Native, MLM Engine, API Orchestration | **Legacy Consolidation:** Unifies fragmented systems into a single neural engine for high-concurrency commodity management and multi-level agent networks. |
 | **🛰️ Industrial Geospatial** | **Data Engineering / GIS** | CV, LiDAR, Spatial Logic | **Autonomous Auditing:** Automated aerial inspection engine for infrastructure, reducing processing times by 80%. |
 | **🛡️ ViaTecnologia Elite** | **Offensive Security** | Rust, Adversarial AI | **Adversarial Simulations:** Industrial-grade Rust engine for memory-safe exploits, AI robustness testing, and advanced vulnerability research. |
 | **🎙️ Oravox.io** | **Hospitality AI** | Sarah Neural Kernel, VoNN | **Front-Desk Automation:** Autonomous voice intelligence and hotel management OS with human-like latency and direct PMS sync. |
