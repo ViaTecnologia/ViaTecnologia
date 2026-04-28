@@ -179,11 +179,11 @@ KeyFortress is an **Offline-First Universal Web App**. It is engineered to run o
 
 ---
 
-
 ### Developed by **ViaTecnologia Team**
 ✉️ [viatecnologia@pm.me](mailto:viatecnologia@pm.me)  
 **All Rights Reserved © 2026 ViaTecnologia**
 </div>
+---
 
 # 💎 Unified Fintech & Asset Orchestration Ecosystem
 ### *High-Performance Neural Platform for Multi-Level Asset Management & Digital Consolidation*
