@@ -109,7 +109,6 @@ These videos showcase the transition from raw secret entry to the generation of 
     </tr>
   </table>
 </div>
----
 
 ### 🛠️ Core Technology Stack
 
@@ -118,15 +117,71 @@ These videos showcase the transition from raw secret entry to the generation of 
 * **Rendering:** Responsive CSS3 Grid & Flexbox with industrial-grade asset iconography.
 * **Architecture:** Offline-First, PWA-Ready, Zero-Backend.
 
+### 🌐 System & Browser Compatibility
+
+KeyFortress is an **Offline-First Universal Web App**. It is engineered to run on any modern environment that supports the **Web Crypto API (SubtleCrypto)**, ensuring your encrypted vault is accessible across all your devices without any installation.
+
 ---
 
-<div align="center">
+### 💼 Commercial Licensing & Tiers
+
+KeyFortress offers flexible licensing models tailored for individual security enthusiasts, fintech enterprises, and full intellectual property acquisitions.
+
+| License Tier | Price (One-time) | What's Included | Granted Rights |
+| :--- | :--- | :--- | :--- |
+| **1. Individual Pro** | **€ 49** | Fully offline single HTML file (no CDNs), zero external dependencies, standard PDF templates. | Personal or single-professional use. Redistribution prohibited. |
+| **2. White-Label Enterprise** | **€ 3,500 - € 5,000** | Core source code, branding removed, custom UI/Logo setup, Technical Integration Kit for CTOs. | B2B/B2C use. Can distribute to clients under your own brand. |
+| **3. Enterprise Maintenance** | **€ 1,200 / year** | Periodic security patches, Web Crypto API updates, priority technical support. | SLA ensuring the vault remains hardened against new vectors. |
+| **4. Full IP Buyout (Exit)** | **€ 15,000+** | Total transfer of repository, source code, architectural logic, and brand. | **100% Exclusive Ownership.** Total transfer of rights. |
+| **5. Custom Implementation** | **€ 800 - € 1,000 / day** | Architectural consulting, Air-Gapped environment integration, or HSM specialized setup. | Custom code rights as defined by project contract. |
+
+---
+
+### 🌐 System & Browser Compatibility
+
+KeyFortress is an **Offline-First Universal Web App**. It is engineered to run on any modern environment that supports the **Web Crypto API (SubtleCrypto)**.
+
+#### **Supported Operating Systems & Deployment**
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Portable%20%26%20Offline-FF5722?style=for-the-badge&logo=keepassxc&logoColor=white" alt="Portable" />
+</p>
+
+#### **Verified Browsers**
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_48x48.png" width="36" height="36"><br><sub>Chrome</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_48x48.png" width="36" height="36"><br><sub>Firefox</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/safari/safari_48x48.png" width="36" height="36"><br><sub>Safari</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_48x48.png" width="36" height="36"><br><sub>Edge</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/opera/opera_48x48.png" width="36" height="36"><br><sub>Opera</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/brave/brave_48x48.png" width="36" height="36"><br><sub>Brave</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 
 ### Developed by **ViaTecnologia Team**
-*Advanced Security Engineering & Zero-Knowledge Architecture*
-
-✉️ **Contact:** [viatecnologia@pm.me](mailto:viatecnologia@pm.me)
-
+✉️ [viatecnologia@pm.me](mailto:viatecnologia@pm.me)  
 **All Rights Reserved © 2026 ViaTecnologia**
 </div>
 
