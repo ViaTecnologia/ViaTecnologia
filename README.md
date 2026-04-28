@@ -79,7 +79,7 @@ KeyFortress is designed for users who require the highest level of digital sover
 
 The UI is optimized for high-stakes environments, utilizing a **Cyber-Industrial** dark mode that reduces visual fatigue and enhances focus.
 
-#### 📱 Mobile POV (Cross-Platform Experience)
+#### 📱 
 <div align="center">
   <table>
     <tr>
@@ -93,14 +93,6 @@ The UI is optimized for high-stakes environments, utilizing a **Cyber-Industrial
 
 ### 🎬 Operational Demonstrations
 
-
-https://github.com/user-attachments/assets/0456c7da-c6ff-435f-8d30-c7adb92dbdc9
-
-
-
-https://github.com/user-attachments/assets/33c41c52-818b-4604-ad28-b00b40cb6b38
-
-
 These videos showcase the transition from raw secret entry to the generation of a standalone encrypted vault.
 
 <div align="center">
@@ -108,11 +100,11 @@ These videos showcase the transition from raw secret entry to the generation of 
     <tr>
       <td width="50%">
         <strong>Desktop Operational Workflow</strong><br>
-        <a href="VIDEO_DESKTOP_URL">Watch Desktop Demo</a>
+        <a href="https://github.com/user-attachments/assets/aef01045-6bd2-4af8-af3b-d8375027a301">Watch Desktop Demo</a>
       </td>
       <td width="50%">
         <strong>Mobile Security Flow</strong><br>
-        <a href="VIDEO_MOBILE_URL">Watch Mobile Demo</a>
+        <a href="https://github.com/user-attachments/assets/bad08dd3-26e1-4882-8c73-490862c16b28">Watch Mobile Demo</a>
       </td>
     </tr>
   </table>
