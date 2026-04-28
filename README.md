@@ -3,8 +3,10 @@
 ### 🚀 Strategic Portfolio Overview
 *A collection of high-performance, serverless, and AI-driven solutions for the modern digital economy.*
 
+
 | Project & Concept | Strategic Pillar | Core Tech Stack | Value Proposition / Problem Solved |
 | :--- | :--- | :--- | :--- |
+| **🔐 KeyFortress** | **Cybersecurity / Zero-Knowledge** | Web Crypto API, Vanilla JS | **Cold Storage Sovereignty:** Industrial-grade client-side encryption for seeds and secrets, generating standalone self-decrypting HTML vaults. |
 | **💎 Fintech Asset Engine** | **Fintech / Legacy Modernization** | React Native, MLM Engine, API Orchestration | **Legacy Consolidation:** Unifies fragmented systems into a single neural engine for high-concurrency commodity management and multi-level agent networks. |
 | **🛰️ Industrial Geospatial** | **Data Engineering / GIS** | CV, LiDAR, Spatial Logic | **Autonomous Auditing:** Automated aerial inspection engine for infrastructure, reducing processing times by 80%. |
 | **🛡️ ViaTecnologia Elite** | **Offensive Security** | Rust, Adversarial AI | **Adversarial Simulations:** Industrial-grade Rust engine for memory-safe exploits, AI robustness testing, and advanced vulnerability research. |
