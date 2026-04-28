@@ -48,9 +48,99 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 Thank you for your support!
 
-*Document updated by ViaTecnologia Team - February 25-02-2026*
+*Document updated by ViaTecnologia Team - April 28-04-2026*
 
 ---
+# 🔐 KeyFortress | Tactical Offline Seed & Secret Vault
+### *Zero-Knowledge Architecture & Self-Sovereign Cold Storage*
+
+**Developed by ViaTecnologia Team**
+
+KeyFortress is an elite security ecosystem engineered for the high-integrity storage of cryptographic assets and sensitive digital credentials. By leveraging the **Web Crypto API**, the platform operates as a completely **No-Backend** solution, ensuring that encryption keys and raw data exist only within the user's volatile memory.
+
+---
+
+### 🏛️ Engineering Philosophy & System Logic
+
+KeyFortress is designed for users who require the highest level of digital sovereignty. It moves beyond standard password managers by providing a direct pipeline from encrypted digital storage to physical "Cold" backups.
+
+#### 🛡️ Cryptographic Hardening
+* **Local-Only Encryption:** All data is processed client-side using **AES-256-GCM** encryption. The master key is derived via **PBKDF2** with high-iteration counts, providing military-grade resistance against brute-force attacks.
+* **Zero-Knowledge Protocol:** ViaTecnologia has no access to your data. There are no servers, no logs, and no "backdoors." You are the sole custodian of your cryptographic secrets.
+* **Multi-Asset Support:** Native templates for diverse ecosystems including **Bitcoin (BTC)**, **Ethereum (ETH)**, **Solana (SOL)**, and privacy-centric assets like **Monero (XMR)**.
+
+#### 📦 The "Fortress" Vault System
+* **Encrypted HTML Export:** The system allows users to download their entire vault as a standalone, encrypted HTML file. This file can be stored on a simple USB stick and opened offline, functioning as a portable, self-decrypting security hub.
+* **Physical Backup Integration:** KeyFortress generates high-fidelity visual cards for "Paper Wallets," allowing users to print their encrypted or raw seeds for long-term physical storage.
+
+---
+
+### 🖼️ Cover
+
+The UI is optimized for high-stakes environments, utilizing a **Cyber-Industrial** dark mode that reduces visual fatigue and enhances focus.
+
+#### 📱 Mobile POV (Cross-Platform Experience)
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/574727be-92d5-4d52-a8be-904cb0c0263f" width="100%" alt="Mobile UI 1"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/0c9e6f7f-b831-4227-8186-9ebc5eb161bb" width="100%" alt="Mobile UI 2"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🎬 Operational Demonstrations
+
+
+https://github.com/user-attachments/assets/0456c7da-c6ff-435f-8d30-c7adb92dbdc9
+
+
+
+https://github.com/user-attachments/assets/33c41c52-818b-4604-ad28-b00b40cb6b38
+
+
+These videos showcase the transition from raw secret entry to the generation of a standalone encrypted vault.
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <strong>Desktop Operational Workflow</strong><br>
+        <a href="VIDEO_DESKTOP_URL">Watch Desktop Demo</a>
+      </td>
+      <td width="50%">
+        <strong>Mobile Security Flow</strong><br>
+        <a href="VIDEO_MOBILE_URL">Watch Mobile Demo</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+---
+
+### 🛠️ Core Technology Stack
+
+* **Security Kernel:** JavaScript (ES6+) with native **SubtleCrypto** (Web Crypto API).
+* **Document Logic:** Client-side PDF generation via `jsPDF`.
+* **Rendering:** Responsive CSS3 Grid & Flexbox with industrial-grade asset iconography.
+* **Architecture:** Offline-First, PWA-Ready, Zero-Backend.
+
+---
+
+<div align="center">
+
+### Developed by **ViaTecnologia Team**
+*Advanced Security Engineering & Zero-Knowledge Architecture*
+
+✉️ **Contact:** [viatecnologia@pm.me](mailto:viatecnologia@pm.me)
+
+**All Rights Reserved © 2026 ViaTecnologia**
+</div>
+
 # 💎 Unified Fintech & Asset Orchestration Ecosystem
 ### *High-Performance Neural Platform for Multi-Level Asset Management & Digital Consolidation*
 
