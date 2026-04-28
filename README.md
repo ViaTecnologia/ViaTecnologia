@@ -117,9 +117,6 @@ These videos showcase the transition from raw secret entry to the generation of 
     </tr>
   </table>
 </div>
-
-
-
 ---
 
 ### 🛠️ Core Technology Stack
