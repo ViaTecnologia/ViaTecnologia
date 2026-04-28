@@ -177,10 +177,9 @@ KeyFortress is an **Offline-First Universal Web App**. It is engineered to run o
   </table>
 </div>
 
----
-
 ### Developed by **ViaTecnologia Team**
 ✉️ [viatecnologia@pm.me](mailto:viatecnologia@pm.me)  
+
 **All Rights Reserved © 2026 ViaTecnologia**
 </div>
 ---
