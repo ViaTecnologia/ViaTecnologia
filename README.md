@@ -7,6 +7,7 @@
 | Project & Concept | Strategic Pillar | Core Tech Stack | Value Proposition / Problem Solved |
 | :--- | :--- | :--- | :--- |
 | **🔐 KeyFortress** | **Cybersecurity / Zero-Knowledge** | Web Crypto API, Vanilla JS | **Cold Storage Sovereignty:** Industrial-grade client-side encryption for seeds and secrets, generating standalone self-decrypting HTML vaults. |
+| **💰 Aureus** | **Crypto Accounting / Privacy Finance** | Monero View Key, OCR, Vanilla JS | **Privacy-Preserving Wealth OS:** Unified Monero wallet tracking, OCR transaction import, and food business inventory with zero-knowledge architecture. |
 | **💎 Fintech Asset Engine** | **Fintech / Legacy Modernization** | React Native, MLM Engine, API Orchestration | **Legacy Consolidation:** Unifies fragmented systems into a single neural engine for high-concurrency commodity management and multi-level agent networks. |
 | **🛰️ Industrial Geospatial** | **Data Engineering / GIS** | CV, LiDAR, Spatial Logic | **Autonomous Auditing:** Automated aerial inspection engine for infrastructure, reducing processing times by 80%. |
 | **🛡️ ViaTecnologia Elite** | **Offensive Security** | Rust, Adversarial AI | **Adversarial Simulations:** Industrial-grade Rust engine for memory-safe exploits, AI robustness testing, and advanced vulnerability research. |
@@ -266,39 +267,27 @@ The UI/UX is engineered for high-stakes financial operations with a focus on cla
 
 ---
 
-### 💻 Desktop POV (Admin & Management Suite)
+### 💻 Desktop POV 
 <div align="center">
   <table>
     <tr>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder1.png" width="100%" alt="Desktop View 01"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder2.png" width="100%" alt="Desktop View 02"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder3.png" width="100%" alt="Desktop View 03"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder4.png" width="100%" alt="Desktop View 04"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/4c202d1c-aea5-453f-b694-47873f603f84" width="100%" alt="Desktop View 01"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/8d2f577c-8230-45ba-a0c4-2aa2496bb980" width="100%" alt="Desktop View 02"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/b3c28855-8b2d-4eca-85a8-e4f69751400d" width="100%" alt="Desktop View 03"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/19ba1697-52be-4b86-9431-65836b664ec0" width="100%" alt="Desktop View 04"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder5.png" width="100%" alt="Desktop View 05"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder6.png" width="100%" alt="Desktop View 06"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder7.png" width="100%" alt="Desktop View 07"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder8.png" width="100%" alt="Desktop View 08"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/3ffce335-0f33-40c2-a47f-e1918a8f6acc" width="100%" alt="Desktop View 05"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/8f2179bc-4c78-43d9-a9cc-d895a622c084" width="100%" alt="Desktop View 06"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/0f803b3c-a1fb-4ef7-b6ee-e38411ccb82b" width="100%" alt="Desktop View 07"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/0f068b83-3e6b-43af-99f6-fd03522db79c" width="100%" alt="Desktop View 08"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder9.png" width="100%" alt="Desktop View 09"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder10.png" width="100%" alt="Desktop View 10"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder11.png" width="100%" alt="Desktop View 11"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder12.png" width="100%" alt="Desktop View 12"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/c8bdb486-5db4-4186-8c8a-23c406b88b4a" width="100%" alt="Desktop View 09"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/64e5e79f-4b47-4d32-a727-73d89bfae315" width="100%" alt="Desktop View 10"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/38485c37-66cb-4c4d-9ba4-531882fa4d4c" width="100%" alt="Desktop View 11"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder13.png" width="100%" alt="Desktop View 13"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder14.png" width="100%" alt="Desktop View 14"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder15.png" width="100%" alt="Desktop View 15"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder16.png" width="100%" alt="Desktop View 16"></td>
-    </tr>
-    <tr>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder17.png" width="100%" alt="Desktop View 17"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder18.png" width="100%" alt="Desktop View 18"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder19.png" width="100%" alt="Desktop View 19"></td>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/desktop-placeholder20.png" width="100%" alt="Desktop View 20"></td>
-    </tr>
   </table>
 </div>
 
@@ -1918,6 +1907,9 @@ Need a bespoke version of DOSE. or a tailored security dashboard for your organi
 
 | Project & Concept | Strategic Pillar | Core Tech Stack | Value Proposition / Problem Solved |
 | :--- | :--- | :--- | :--- |
+| **🔐 KeyFortress** | **Cybersecurity / Zero-Knowledge** | Web Crypto API, Vanilla JS | **Cold Storage Sovereignty:** Industrial-grade client-side encryption for seeds and secrets, generating standalone self-decrypting HTML vaults. |
+| **💰 Aureus** | **Crypto Accounting / Privacy Finance** | Monero View Key, OCR, Vanilla JS | **Privacy-Preserving Wealth OS:** Unified Monero wallet tracking, OCR transaction import, and food business inventory with zero-knowledge architecture. |
+| **💎 Fintech Asset Engine** | **Fintech / Legacy Modernization** | React Native, MLM Engine, API Orchestration | **Legacy Consolidation:** Unifies fragmented systems into a single neural engine for high-concurrency commodity management and multi-level agent networks. |
 | **🛰️ Industrial Geospatial** | **Data Engineering / GIS** | CV, LiDAR, Spatial Logic | **Autonomous Auditing:** Automated aerial inspection engine for infrastructure, reducing processing times by 80%. |
 | **🛡️ ViaTecnologia Elite** | **Offensive Security** | Rust, Adversarial AI | **Adversarial Simulations:** Industrial-grade Rust engine for memory-safe exploits, AI robustness testing, and advanced vulnerability research. |
 | **🎙️ Oravox.io** | **Hospitality AI** | Sarah Neural Kernel, VoNN | **Front-Desk Automation:** Autonomous voice intelligence and hotel management OS with human-like latency and direct PMS sync. |
