@@ -8,6 +8,7 @@
 | :--- | :--- | :--- | :--- |
 | **🔐 KeyFortress** | **Cybersecurity / Zero-Knowledge** | Web Crypto API, Vanilla JS | **Cold Storage Sovereignty:** Industrial-grade client-side encryption for seeds and secrets, generating standalone self-decrypting HTML vaults. |
 | **💰 Aureus** | **Crypto Accounting / Privacy Finance** | Monero View Key, OCR, Vanilla JS | **Privacy-Preserving Wealth OS:** Unified Monero wallet tracking, OCR transaction import, and food business inventory with zero-knowledge architecture. |
+| **👁‍🗨 Spectre OS** | **Cybersecurity / Offline OS** | AES-256-GCM, PBKDF2, WebGPU, Local AI | **Offline Privacy Kernel:** Browser-based OS featuring client-side AES-256-GCM encryption, local WebGPU AI, and zero-trace synthetic identity management. |
 | **💎 Fintech Asset Engine** | **Fintech / Legacy Modernization** | React Native, MLM Engine, API Orchestration | **Legacy Consolidation:** Unifies fragmented systems into a single neural engine for high-concurrency commodity management and multi-level agent networks. |
 | **🛰️ Industrial Geospatial** | **Data Engineering / GIS** | CV, LiDAR, Spatial Logic | **Autonomous Auditing:** Automated aerial inspection engine for infrastructure, reducing processing times by 80%. |
 | **🛡️ ViaTecnologia Elite** | **Offensive Security** | Rust, Adversarial AI | **Adversarial Simulations:** Industrial-grade Rust engine for memory-safe exploits, AI robustness testing, and advanced vulnerability research. |
@@ -51,7 +52,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 Thank you for your support!
 
-*Document updated by ViaTecnologia Team - August 02-08-2026*
+*Document updated by ViaTecnologia Team - August 12-08-2026*
 
 ---
 # 🔐 KeyFortress | Tactical Offline Seed & Secret Vault
@@ -382,6 +383,91 @@ Aureus uses an atypical, **"open account" direct sponsorship model**. Recurring 
 ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for ongoing development, please contact us via **Email** or **Telegram**.
 
 **All Rights Reserved © 2026**
+
+---
+# 👁‍🗨 Spectre OS — The Ultimate Offline Privacy Matrix
+
+Spectre OS (SpecterForge) is a browser-based operating kernel designed to guarantee the highest level of anonymity, identity compartmentalization, and cryptographic security.
+
+---
+
+### 📱 Mobile POV (Cross-Platform Experience)
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/c78dca50-230c-45e2-a593-8758e84ad22f" width="100%" alt="Mobile View 01"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/1bbc5b4d-9d86-4111-b80f-6f539094bd99" width="100%" alt="Mobile View 02"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/61ad73b9-d219-4605-bb3d-9698e802eff4" width="100%" alt="Mobile View 03"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/18d1104c-f624-4799-9a4c-e3c0339f0edc" width="100%" alt="Mobile View 04"></td>
+    </tr>
+    <tr>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/736fef7b-765a-4849-b245-9d336715b03b" width="100%" alt="Mobile View 05"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/fad47672-49f4-489b-85a5-81ae30f7a9c2" width="100%" alt="Mobile View 06"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/d82769a5-cc54-43fc-9b7e-253fbf9eda35" width="100%" alt="Mobile View 07"></td>
+    </tr>
+  </table>
+  <br>
+  <a href="https://github.com/user-attachments/assets/c508fff8-6471-411e-94a8-e7658bab20da">
+    <img src="https://www.svgrepo.com/show/155627/video-play-button-on-phone-screen.svg" width="25%" alt="Play Mobile Video">
+  </a>
+</div>
+
+---
+
+### 💻 Desktop POV 
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/c838496a-2324-486f-94a9-02180f83bd9d" width="100%" alt="Desktop View 01"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/929f0162-1b17-4ab0-9948-b168153518d1" width="100%" alt="Desktop View 02"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/106f626b-082f-4c4a-b326-34e42229bb19" width="100%" alt="Desktop View 03"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/048b5246-aa9f-48a3-8e3a-f3a922070eb7" width="100%" alt="Desktop View 04"></td>
+    </tr>
+    <tr>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/238b9a1a-2dd2-44d5-82e2-c940c781bd46" width="100%" alt="Desktop View 05"></td>
+      <td width="25%"></td>
+      <td width="25%"></td>
+      <td width="25%"></td>
+    </tr>
+  </table>
+  <br>
+  <a href="https://github.com/user-attachments/assets/973c1eb4-f983-4b8f-b5a8-2b5dfab986d0">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/laptop-video-play-icon.png" width="50%" alt="Play Desktop Video">
+  </a>
+</div>
+
+---
+## 🔐 Encryption and Data Protection
+
+Data security is guaranteed at the architectural level. Not a single byte in plaintext ever touches the hard drive.
+
+*   **Military Standard:** Utilizes AES-256-GCM encryption to render data unreadable without the Master Password.
+*   **Costly Key Derivation:** Implements PBKDF2 with 100,000 iterations, making brute-force attacks computationally impractical.
+*   **Anti-Rainbow Table Protection:** Generates unique, random Salts and IVs for every encryption operation.
+*   **RAM Isolation:** The Master Password resides solely in volatile memory and disappears automatically upon closing the browser.
+*   **No Plaintext on Disk:** The `saveData()` function automatically encrypts data before writing it to localStorage.
+*   **Automatic DOM Sanitization:** The password field is immediately cleared after every unlock attempt.
+
+## 👤 Identity Management and OpSec
+
+Anonymity is the core of Spectre OS. The tool is designed to handle operations without leaving a trace.
+
+| Feature | Description |
+| :--- | :--- |
+| **Zero Registration** | No accounts, no email required, and zero user metadata. |
+| **Full OpSec Generator** | One-click creation of a synthetic identity with consistent aliases, Proton emails, and Session IDs. |
+| **Compartmentalization** | Each identity lives in an isolated profile, preventing cross-contamination. |
+| **Operational Timeline** | Automatic insertion of ISO 8601 timestamps for precise temporal management of operations. |
+| **Visual Masking** | Sensitive data is obscured by default to protect the screen in public spaces. |
+
+## 🌐 AI Module and Advanced Security
+
+The integration of a local artificial intelligence and extreme emergency protocols makes the system completely autonomous.
+
+*   **SaaF Gem AI:** Local neural module (Qwen2.5) executed via WebGPU, configurable as a universal assistant or security expert.
+*   **Nuke Protocol:** By typing the security confirmation, local memory is irreversibly wiped, and the system is restored to its initial state.
+*   **Encrypted Export:** Generation of a self-contained offline HTML backup, decryptable via a separate key on any modern browser.
+*   **Clipboard Fallback:** Native API to copy sensitive data into RAM without displaying it in plaintext, with an automatic fallback for legacy browsers.
 
 ---
 
@@ -1902,30 +1988,6 @@ Need a bespoke version of DOSE. or a tailored security dashboard for your organi
  📧 Email: viatecnologia@pm.me
 </div>
 
-### 🚀 Strategic Portfolio Overview
-*A collection of high-performance, serverless, and AI-driven solutions for the modern digital economy.*
-
-| Project & Concept | Strategic Pillar | Core Tech Stack | Value Proposition / Problem Solved |
-| :--- | :--- | :--- | :--- |
-| **🔐 KeyFortress** | **Cybersecurity / Zero-Knowledge** | Web Crypto API, Vanilla JS | **Cold Storage Sovereignty:** Industrial-grade client-side encryption for seeds and secrets, generating standalone self-decrypting HTML vaults. |
-| **💰 Aureus** | **Crypto Accounting / Privacy Finance** | Monero View Key, OCR, Vanilla JS | **Privacy-Preserving Wealth OS:** Unified Monero wallet tracking, OCR transaction import, and food business inventory with zero-knowledge architecture. |
-| **💎 Fintech Asset Engine** | **Fintech / Legacy Modernization** | React Native, MLM Engine, API Orchestration | **Legacy Consolidation:** Unifies fragmented systems into a single neural engine for high-concurrency commodity management and multi-level agent networks. |
-| **🛰️ Industrial Geospatial** | **Data Engineering / GIS** | CV, LiDAR, Spatial Logic | **Autonomous Auditing:** Automated aerial inspection engine for infrastructure, reducing processing times by 80%. |
-| **🛡️ ViaTecnologia Elite** | **Offensive Security** | Rust, Adversarial AI | **Adversarial Simulations:** Industrial-grade Rust engine for memory-safe exploits, AI robustness testing, and advanced vulnerability research. |
-| **🎙️ Oravox.io** | **Hospitality AI** | Sarah Neural Kernel, VoNN | **Front-Desk Automation:** Autonomous voice intelligence and hotel management OS with human-like latency and direct PMS sync. |
-| **🌿 GreenGold** | **Agri-Tech / Compliance** | Decentralized SaaS, SealyDoc API | **Digital Sovereignty:** Self-hosted ecosystem for high-value agricultural supply chains, combining traceability with financial privacy. |
-| **🎙️ Global Luxury Voice** | **Luxury Hospitality AI**| Voice-First SaaS, NLP | **High-Touch Conversion:** Bespoke vocal intelligence layer replacing static web forms for elite resort bookings and guest services. |
-| **🌌 VIA OS** | **AI Operating System** | React, Zero-Prompt Arch | **Execution Layer:** Action-oriented, Netflix-style OS that replaces passive chatbots with specialized Neural Kernels for professional execution. |
-| **🌟 SealyDoc Pro V4** | **Food-Tech / SaaS** | Client-Side JS, QR Engine | **Compliance Automation:** Eliminating paper risks in the Horeca sector with offline-first HACCP tracking. |
-| **🛍️ ShopFather Web** | **E-commerce P2P** | Serverless Micro SaaS | **Frictionless Retail:** Building a Telegram-based store network with zero platform fees and total privacy. |
-| **🏷️ LabelForge V29** | **Traceability** | CSV-to-Graphic Engine | **Market Compliance:** Dynamic labeling and social asset generation for emerging legal crops. |
-| **🔐 Crypto Vault Pro** | **Data Privacy** | NIST AES-256-GCM, PBKDF2 | **Zero-Knowledge Storage:** Portable, self-executable HTML vaults that decrypt data locally without servers. |
-| **🚕 Driver4You** | **Mobility / AI** | Prompt-to-Code AI | **Industry Disruption:** Empowering local transport fleets to own their platform with AI-generated White Label apps. |
-| **🚀 Beavip SMM** | **Digital Marketing** | React, Tailwind, Telegram Bridge | **Lead Generation:** A database-less service configurator that converts user requests directly into Telegram orders. |
-| **🚜 Belotti Quote Pro** | **Industrial CPQ** | Vanilla JS, jsPDF | **Zero-Latency Quoting:** Real-time professional PDF generation for agricultural sales teams in the field. |
-| **🛡️ CyberSuite** | **Cyber-Security** | Next.js 14, Framer Motion | **Human-Risk Simulation:** Training employees against phishing/malware in a safe, high-fidelity visual environment. |
-| **🧪 DOSE.** | **Digital Awareness** | React, Tailwind, PWA | **Self-Awareness Engine:** Quantifying digital focus and security consciousness with zero-knowledge privacy. |
-
 ---
 
 ## Contact & Collaboration
@@ -1954,4 +2016,4 @@ Thank you for your support!
 
 ---
 
-*Document updated by ViaTecnologia - February 2026*
+*Document updated by ViaTecnologia - August 12-08-2026*
