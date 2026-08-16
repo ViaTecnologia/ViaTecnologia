@@ -1491,7 +1491,7 @@ LabelForge operates under an **atypical "open account" direct sponsorship model*
 ---
 
 
-## 🔐 [Crypto Vault Pro V3.0](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/914f5d9cd74c48d84c470d4c4ab7ef15/8ffeaa0b-f468-4f01-957f-ded8fcde7a78/681ff720.html?rnd=1766944443080&utm_source=)
+## 🔐 Crypto Vault Pro V3.0
 ### *The Ultimate Zero-Knowledge Encryption Suite*
 
 ### *New Version Aviable Now, write to Dev*
@@ -1549,6 +1549,32 @@ The system utilizes native **Web Crypto APIs** (SubtleCrypto) to ensure high per
 
 ---
 
+## 🌍 GeoVault Integration - Location-Bound Encryption
+
+The **GeoVault** variant adds a powerful new layer of contextual security to your encrypted files: **cryptographically bound GPS coordinates**. 
+
+### What it does:
+When enabled, GeoVault securely captures your exact GPS location at the moment of encryption and bundles it directly into the encrypted payload. 
+
+* **Google Maps Generation:** It automatically detects the location and generates a Google Maps URL with the exact address, making it incredibly easy for the recipient to click and navigate there once decrypted.
+* **Absolute Privacy:** The photo, video, or text is transmitted securely; without the master password, there is absolutely no way to view the content or the location metadata. This strongly protects users.
+* **Zero Cloud:** Just like the standard vault, every file sent remains strictly on the user's device and never touches the cloud.
+
+> 💡 **Use Case Example:** Securely proving a package drop-off or sharing a sensitive location (e.g., a specific coffee machine) without exposing the data to intermediaries.
+
+### ⚠️ Important Hosting Requirement (HTTPS)
+For the GeoVault location feature to function, **the application must be hosted on a live website with a valid SSL/HTTPS certificate**. Modern web browsers strictly block the `navigator.geolocation` API on standard local files (`file://`) or unencrypted HTTP connections to protect user privacy.
+
+### 💻 GeoVault Desktop Play Video 
+  <a href="https://github.com/user-attachments/assets/8f35bc46-c7f4-42e1-96a1-07776cdd7775">
+    <img src="https://www.svgrepo.com/show/446870/geo.svg" width="10%" alt="Play GeoVault Desktop Video">
+  </a>
+  <br>
+  <em>GeoVault decryption revealing secure payload and GPS location link.</em>
+</div>
+
+---
+
 #### 🙏 Stakeholder Partner Support (Open Account Model)
 
 Crypto Vault Pro follows an **atypical "open account" direct sponsorship model**. Contributions directly fund the full-time development of this privacy-oriented and digital freedom software.
@@ -1561,11 +1587,7 @@ Crypto Vault Pro follows an **atypical "open account" direct sponsorship model**
 > ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for V4.0 development, please contact the team via **Email** or **Telegram**.
 
   <br>
-  
-> 🚀 [**LAUNCH NOW**](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/914f5d9cd74c48d84c470d4c4ab7ef15/8ffeaa0b-f468-4f01-957f-ded8fcde7a78/681ff720.html?rnd=1766944443080&utm_source=perplexity)
->
-> 📷 [**Follow Us on Instagram**](https://www.instagram.com/shopfather.io)
->  
+   
 > 📧 **shopfather@pm.me**
 
 ---
