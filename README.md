@@ -8,6 +8,7 @@
 | :--- | :--- | :--- | :--- |
 | **🔐 KeyFortress** | **Cybersecurity / Zero-Knowledge** | Web Crypto API, Vanilla JS | **Cold Storage Sovereignty:** Industrial-grade client-side encryption for seeds and secrets, generating standalone self-decrypting HTML vaults. |
 | **💰 Aureus** | **Crypto Accounting / Privacy Finance** | Monero View Key, OCR, Vanilla JS | **Privacy-Preserving Wealth OS:** Unified Monero wallet tracking, OCR transaction import, and food business inventory with zero-knowledge architecture. |
+| **📽️ Cody Docs Pro** | **Enterprise Media / Document Builder** | Hybrid DOM & Canvas, Fabric.js, IndexedDB | **Interactive Web-Docs:** Self-contained, interactive HTML presentations and reports featuring multi-device mockups and native video playback. |
 | **👁‍🗨 Spectre OS** | **Cybersecurity / Offline OS** | AES-256-GCM, PBKDF2, WebGPU, Local AI | **Offline Privacy Kernel:** Browser-based OS featuring client-side AES-256-GCM encryption, local WebGPU AI, and zero-trace synthetic identity management. |
 | **💎 Fintech Asset Engine** | **Fintech / Legacy Modernization** | React Native, MLM Engine, API Orchestration | **Legacy Consolidation:** Unifies fragmented systems into a single neural engine for high-concurrency commodity management and multi-level agent networks. |
 | **🛰️ Industrial Geospatial** | **Data Engineering / GIS** | CV, LiDAR, Spatial Logic | **Autonomous Auditing:** Automated aerial inspection engine for infrastructure, reducing processing times by 80%. |
@@ -385,6 +386,84 @@ Aureus uses an atypical, **"open account" direct sponsorship model**. Recurring 
 **All Rights Reserved © 2026**
 
 ---
+## 📽️ Cody Docs Pro
+### *The Ultimate Enterprise Media & Document Builder*
+
+### *New Version Available Now, write to Dev*
+
+**Cody Docs Pro** is an advanced media building and document generation solution designed for enterprise SaaS environments. Built on a hybrid **DOM & Canvas** architecture, it allows you to compose, mock up, and export high-fidelity interactive presentations and reports entirely within your browser. 
+
+> 🚀 **"Interactive Web-Doc" Innovation:** The system generates a completely self-contained, interactive HTML presentation. The recipient does not need to install any software or video players; a modern web browser is sufficient to view sliders, scroll through content, and interact with embedded videos and live web iframes natively.
+
+### 📺 Gallery 
+
+  <div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/bad3a364-1510-41c2-bbe3-9de4f3741a07" width="100%" alt="SS1"></td>
+      <td><img src="https://github.com/user-attachments/assets/5b64b899-0e54-4182-a3dd-bcd9ccec2c52" width="100%" alt="SS2"></td>
+      <td><img src="https://github.com/user-attachments/assets/107e6a14-b85c-4296-a80c-6b1dac0d247a" width="100%" alt="SS3"></td>
+      <td><img src="https://github.com/user-attachments/assets/bca9e82e-a082-469d-8f5f-3b9516d02350" width="100%" alt="SS4"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/d67226ca-c21d-4779-b5d1-0418a567288d" width="100%" alt="SS5"></td>
+      <td><img src="https://github.com/user-attachments/assets/d2db5737-2cea-401a-9e95-a8c8b2da5063" width="100%" alt="SS7"></td>
+      <td><img src="https://github.com/user-attachments/assets/3c532be3-4334-40f7-ac8c-b5a8faeeb5bb" width="100%" alt="SS8"></td> 
+      <td><img src="https://github.com/user-attachments/assets/20430703-9977-4e12-b42c-a2a6c49de853" width="100%" alt="SS6"></td>   
+    </tr>
+  </table>
+</div>
+<br>
+
+**Technical Specifications (Core Architecture):**
+* ✅ **Hybrid Rendering:** Native DOM (3D CSS transforms) for lag-free video/iframe playback, overlaid with a Fabric.js canvas for vector-based text editing.
+* ✅ **Local IndexedDB Database:** Full offline project and client profile management; your data never leaves your machine until you publish.
+* ✅ **Dual Export Engine:** Instantly generates High-Fidelity Vector PDFs (jsPDF + html2canvas) or Base64-encoded standalone HTML presentations.
+* ✅ **Multi-Device Mockups:** Pixel-perfect programmatic frames (iPhone 15 Pro, S24 Ultra, iPad Pro, Studio Display).
+* ✅ **Zero Telemetry:** Operates entirely client-side without backend dependencies, guaranteeing maximum corporate data confidentiality.
+
+---
+
+### 📑 White Paper: Hybrid Engine Architecture
+The system utilizes a split-layer rendering approach to bypass standard HTML5 Canvas limitations. Heavy multimedia assets (MP4s, WebMs, and live Web URLs) are injected directly into the DOM using dynamic scaled iframes and video tags, ensuring 60FPS playback. Simultaneously, native Web APIs (SubtleCrypto/IndexedDB) manage the local state, while an invisible Fabric.js layer handles interactive, scalable typography on top of the media.
+
+---
+
+## 📱 Mockup Engine - Contextual Device Framing
+
+The **Mockup Engine** adds a powerful visual layer to your media, seamlessly bounding your videos, images, or live web links into photorealistic device frames. 
+
+### What it does:
+When a device is selected, Cody Docs Pro automatically calculates aspect ratios, bezel padding, and 3D border radii to simulate real hardware perfectly.
+
+* **Live Web Interactivity:** You can insert an active `https://` URL into the editor. The engine loads the live site inside an iPhone or Desktop mockup, and it remains fully interactive in the final Web-Doc export.
+* **Timeline Video Sync:** Drag-and-drop videos into the timeline. The mockup editor includes a built-in UI scrubber to preview video playback directly inside the device screens.
+* **Layout Modes:** When exporting to HTML, you can choose between a native App-Style Horizontal Slider or a Modern Web-Style Vertical Scroll.
+
+> 💡 **Use Case Example:** Securely pitching a new mobile app design to a client by sending them a single `.html` file that contains an embedded, playable prototype wrapped in an iPhone 15 Pro frame, complete with your agency's branding and loading screens.
+
+### ⚠️ Important Export Requirements (CORS & Base64)
+For the standalone Web-Doc to function offline, local video and image files are dynamically encoded into **Base64 strings** during compilation. Additionally, when exporting to PDF, live web URLs (iframes) may render as blank or gray boxes due to standard browser **CORS (Cross-Origin Resource Sharing)** security policies blocking `html2canvas` from capturing external domain data.
+
+---
+
+#### 🙏 Stakeholder Partner Support (Open Account Model)
+
+Cody Docs Pro follows an **atypical "open account" direct sponsorship model**. Contributions directly fund the full-time development of this enterprise SaaS tool.
+
+| Support Tier | Contribution | Exclusive Benefits |
+| :--- | :--- | :--- |
+| **Stakeholder Partner** | **Proportional Share** | Always receive the latest version of Cody Docs Pro |
+| **Corporate Sponsorship** | **Contact Dev** | Company logo placement and white-label options for internal use. |
+
+> ℹ️ **BECOME A STAKEHOLDER:** To discuss the proportional quota for Enterprise V2.0 development, please contact the team via **Email** or **Telegram**.
+
+  <br>
+    
+> 📧 **shopfather@pm.me**
+
+---
+
 # 👁‍🗨 Spectre OS — The Ultimate Offline Privacy Matrix
 
 Spectre OS (SpecterForge) is a browser-based operating kernel designed to guarantee the highest level of anonymity, identity compartmentalization, and cryptographic security.
