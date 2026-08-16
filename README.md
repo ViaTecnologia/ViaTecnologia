@@ -19,7 +19,7 @@
 | **🌟 SealyDoc Pro V4** | **Food-Tech / SaaS** | Client-Side JS, QR Engine | **Compliance Automation:** Eliminating paper risks in the Horeca sector with offline-first HACCP tracking. |
 | **🛍️ ShopFather Web** | **E-commerce P2P** | Serverless Micro SaaS | **Frictionless Retail:** Building a Telegram-based store network with zero platform fees and total privacy. |
 | **🏷️ LabelForge V29** | **Traceability** | CSV-to-Graphic Engine | **Market Compliance:** Dynamic labeling and social asset generation for emerging legal crops. |
-| **🔐 Crypto Vault Pro** | **Data Privacy** | NIST AES-256-GCM, PBKDF2 | **Zero-Knowledge Storage:** Portable, self-executable HTML vaults that decrypt data locally without servers. |
+| **🔐 Crypto Vault Pro & GeoVault** | **Data Privacy / Contextual Security** | NIST AES-256-GCM, PBKDF2, Geolocation API | **Zero-Knowledge Storage:** Portable, self-executable HTML vaults that decrypt locally without servers, featuring cryptographically bound GPS coordinates for secure location sharing. |
 | **🚕 Driver4You** | **Mobility / AI** | Prompt-to-Code AI | **Industry Disruption:** Empowering local transport fleets to own their platform with AI-generated White Label apps. |
 | **🚀 Beavip SMM** | **Digital Marketing** | React, Tailwind, Telegram Bridge | **Lead Generation:** A database-less service configurator that converts user requests directly into Telegram orders. |
 | **🚜 Belotti Quote Pro** | **Industrial CPQ** | Vanilla JS, jsPDF | **Zero-Latency Quoting:** Real-time professional PDF generation for agricultural sales teams in the field. |
@@ -52,7 +52,7 @@ If you appreciate the work and want to support its ongoing development, you can 
 
 Thank you for your support!
 
-*Document updated by ViaTecnologia Team - August 12-08-2026*
+*Document updated by ViaTecnologia Team - August 16-08-2026*
 
 ---
 # 🔐 KeyFortress | Tactical Offline Seed & Secret Vault
